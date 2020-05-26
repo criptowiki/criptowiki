@@ -1,0 +1,17 @@
+---
+title: Calendario
+description: Calendario con los eventos más importantes en la historia de bitcoin y el mundo cripto.
+permalink: /calendario/
+layout: default
+css: items-list
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="content items-list">
+    	{% for day in site.calendar %}
+        	<a href="{{ day.permalink }}"><div>{{ day.title }}</div></a>
+		{% endfor %}
+    </div>
+</div>

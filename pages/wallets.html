@@ -1,0 +1,17 @@
+---
+title: Billeteras
+description: Billeteras de criptomonedas con explicaciones.
+permalink: /billeteras/
+layout: default
+css: items-list
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="content items-list">
+    	{% for wallet in site.wallets %}
+        	<a href="{{ wallet.permalink }}"><div>{{ wallet.title }}</div></a>
+		{% endfor %}
+    </div>
+</div>

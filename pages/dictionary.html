@@ -1,0 +1,17 @@
+---
+title: Diccionario
+description: Diccionario simple de criptomonedas con definiciones y ejemplos para que todos podamos entender.
+permalink: /diccionario/
+layout: default
+css: items-list
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="content items-list">
+    	{% for definition in site.dictionary %}
+        	<a href="{{ definition.permalink }}"><div>{{ definition.title }}</div></a>
+		{% endfor %}
+    </div>
+</div>

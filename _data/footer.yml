@@ -1,0 +1,6 @@
+- name: Acerca de
+  link: /acerca-de/
+- name: Política de privacidad
+  link: /politica-de-privacidad/
+- name: Términos
+  link: /terminos-y-condiciones/

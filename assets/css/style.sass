@@ -1,0 +1,149 @@
+---
+---
+
+@import _colors.sass
+@import _basic.sass
+@import _fonts.sass
+@import _icons.sass
+@import _layout.sass
+
+#site-header
+    position: fixed
+    padding: 7px 0
+    top: 0
+    width: 100%
+    height: 50px
+    background-color: $green
+    border-bottom: 1px solid #EEE
+    z-index: 100
+
+#site-nav-trigger
+    display: none
+    float: left
+    margin-top: 6px
+    margin-left: 10px
+    width: auto
+    font-size: 1.4em
+    cursor: pointer
+
+#site-nav-trigger i
+    color: #000
+
+#site-nav-trigger i:hover
+    color: #333
+
+#site-nav-trigger .icon-close
+    display: none
+
+#site-title
+    float: left
+
+#site-title a    
+    font-size: 1.4em
+    text-decoration: none
+    color: $black
+
+#site-nav
+    display: block
+    float: right
+
+#site-nav a
+    float: left
+    margin-top: 2px
+    padding: 5px 20px
+    font-size: 1em
+    text-decoration: none
+    color: #4D4D4D
+
+#site-nav a:last-of-type
+    padding-right: 0
+
+#page-content
+    flex: 1
+    padding-top: 40px
+    margin-top: 50px
+
+#site-footer
+    flex: none
+    margin-top: 20px
+    padding: 20px 0
+    width: 100%
+    background-color: #F3F3F8
+    font-size: 0.9em
+
+#site-footer-links
+    float: left
+
+#site-footer-links div
+    float: left
+
+#site-footer-links a
+    padding: 5px 35px
+    text-decoration: none
+    color: $black
+
+#site-footer-links a:first-of-type
+    padding-left: 0
+
+#copyright
+    float: right
+    font-size: 0.9em
+    color: $gray-strong
+
+.error-message
+    font-size: 2em
+    text-align: center
+
+
+/*************** ADAPTIVE ***************/
+@media screen and (max-width: 1000px)
+    .body
+        font-size: 1.1em
+
+    #site-nav-trigger
+        display: block
+
+    #site-title
+        float: none
+        padding-top: 2px
+        text-align: center
+
+    #site-title a
+        margin-left: -10px
+
+    #site-nav
+        display: none
+        position: fixed
+        top: 49px
+        left: 0
+        width: 100%
+        height: 100%
+        background-color: #2C3237
+        overflow-x: hidden
+
+    #site-nav a
+        float: left
+        padding: 20px 40px
+        width: 100%
+        color: #FAFAFA
+        border-bottom: 1px solid #111
+
+    #site-nav a:hover
+        padding-left: 50px
+        color: #FFF !important    
+
+    #site-footer-links
+        width: 100%
+
+    #site-footer-links div
+        float: left
+        margin-bottom: 15px
+        width: 100%
+        text-align: center
+
+    #site-footer-links a
+        padding: 0 !important
+
+    #copyright
+        width: 100%
+        text-align: center

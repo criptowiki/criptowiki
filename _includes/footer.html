@@ -1,0 +1,11 @@
+<footer id="site-footer">
+	<div class="center">
+		<div id="site-footer-links">
+			{% for item in site.data.footer %}
+        		<div><a href="{{ site.url }}{{ item.link }}">{{ item.name }}</a></div>
+            {% endfor %}            
+		</div>
+		<div id="copyright">&COPY; 2019 - 2020 cripto.wiki</div>
+	</div>
+</footer>
+<script src="{{ site.url }}/assets/js/main.js"></script>

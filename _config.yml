@@ -1,0 +1,74 @@
+title: cripto.wiki
+description: descifrando el mundo de las criptomonedas, privacidad & seguridad online
+url: https://cripto.wiki
+language: es
+
+social:
+  twitter: criptowiki
+  instagram: cripto.wiki
+  mastodon: criptowiki
+
+collections_dir: collections
+collections:
+  articles:
+    output: true
+  calendar:
+    output: true
+  tutorials:
+    output: true
+  tools:
+    output: true
+  myths:
+    output: true
+  dictionary:
+    output: true
+  wallets:
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'default'
+  - scope:
+      path: ''
+      type: 'articles'
+    values:
+      layout: 'article'
+  - scope:
+      path: ''
+      type: 'calendar'
+    values:
+      layout: 'calendar'
+  - scope:
+      path: ''
+      type: 'tutorials'
+    values:
+      layout: 'tutorial'
+  - scope:
+      path: ''
+      type: 'tools'
+    values:
+      layout: 'tool'
+  - scope:
+      path: ''
+      type: 'myths'
+    values:
+      layout: 'myth'
+  - scope:
+      path: ''
+      type: 'dictionary'
+    values:
+      layout: 'dictionary-definition'
+  - scope:
+      path: ''
+      type: 'wallets'
+    values:
+      layout: 'wallet'
+
+sass:
+  style: compressed
+  
+remote_theme: criptowiki/criptowiki
+plugins:
+  - jekyll-sitemap

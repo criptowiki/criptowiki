@@ -1,0 +1,64 @@
+---
+layout: default
+css: index
+description: Descifrando el mundo de las criptomonedas, privacidad & seguridad online. Aprende todo, qué es bitcoin, cómo comprar & vender, para qué nos sirve y más.
+---
+	
+<h2 id="motto">{{ site.description }}</h2>
+<div id="column-left">
+	<div class="articles-list">		
+		{% assign articles = site.articles | sort: 'position' %}
+		{% for article in articles reversed %}
+
+			<a href="{{ article.permalink }}">
+				<div class="article">
+					<div class="article-img"><img src="{{ site.url }}/assets/img/articles-thumbnails/{{ article.permalink }}-300x210.jpg" alt="" /></div>
+					<div class="article-txt">
+						<div class="article-title">{{ article.title }}</div>
+						<div class="article-description">{{ article.content | strip_html | truncatewords: 20}}</div>
+					</div>
+				</div>
+			</a>
+
+		{% endfor %}
+	</div>
+</div>
+<div id="column-right">
+	<div class="section border">
+		<h2 class="subtitle">Calendario</h2>
+		<div class="content">
+			{% for day in site.calendar %}
+            <a href="{{ day.permalink }}"><div>{{ day.title }}</div></a>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="section border">
+		<h2 class="subtitle">Protégete de hackers</h2>
+		<div class="content">
+			<p>
+				<a href="{{ site.url }}/herramientas/">Utiliza herramientas gratuitas</a> para encriptar tu información y comunicaciones online.
+			</p>
+		</div>
+	</div>
+	<div class="section border">
+		<h2 class="subtitle">¡Aprende a diario!</h2>
+		<div class="content">
+			<p>Buscamos mejores formas de explicar constantemente. <b>Tus comentarios importan</b>.</p>
+			<p>#PrivacidadPorFavor</p>
+			<div id="social-media">
+				<a href="https://www.instagram.com/{{ site.social.instagram }}/"><i class="icon-instagram"></i></a>
+				<a href="https://twitter.com/{{ site.social.twitter }}"><i class="icon-twitter-square"></i></a>
+				<a href="https://mastodon.social/@{{ site.social.mastodon }}/"><i class="icon-mastodon"></i></a>
+			</div>
+		</div>
+	</div>	
+	<div class="section border">
+		<h2 class="subtitle">cripto.wiki es transparente</h2>
+		<div class="content">
+			<p>
+				El código y el contenido de este sitio web se encuentra disponible en <a href="https://github.com/criptowiki/criptowiki">GitHub</a>.
+			</p>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>

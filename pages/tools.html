@@ -1,0 +1,17 @@
+---
+title: Herramientas
+description: Herramientas de cifrado para proteger tu privacidad y seguridad.
+permalink: /herramientas/
+layout: default
+css: items-list
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="content items-list">
+    	{% for tool in site.tools %}
+        	<a href="{{ tool.permalink }}"><div>{{ tool.title }}</div></a>
+		{% endfor %}
+    </div>
+</div>

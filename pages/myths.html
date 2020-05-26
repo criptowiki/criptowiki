@@ -1,0 +1,18 @@
+---
+title: Derribando mitos
+description: ¿Es bitcoin una estafa piramidal? ¿Está el dólar verdaderamente respaldado por oro? Derribando estos mitos y muchos más, uno a la vez.
+permalink: /mitos/
+layout: default
+css: items-list
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="content items-list">
+    	{% assign myths = site.myths | sort: 'title' %}
+    	{% for myth in myths reversed %}
+			<a href="{{ myth.permalink }}"><div>{{ myth.title }}</div></a>
+		{% endfor %}
+    </div>
+</div>

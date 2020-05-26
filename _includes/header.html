@@ -1,0 +1,14 @@
+<header id="site-header">
+	<div class="center">
+		<div id="site-nav-trigger">
+			<i class="icon-bars" onclick="NavOpen()"></i>
+			<i class="icon-close" onclick="NavClose()"></i>
+		</div>
+		<div id="site-title"><a href="{{ site.url }}">cripto.wiki</a></div>
+		<nav id="site-nav">
+			{% for item in site.data.nav %}
+                <a href="{{ site.url }}{{ item.link }}">{{ item.name }}</a>
+            {% endfor %}
+		</nav>
+	</div>
+</header>

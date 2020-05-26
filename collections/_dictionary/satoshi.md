@@ -1,0 +1,14 @@
+---
+title: Satoshi
+permalink: /diccionario/satoshi
+---
+
+Es la mínima unidad de bitcoin, llamada así en honor a su creador, Satoshi Nakamoto.
+
+Así como un dólar se puede dividir en 100 partes iguales llamadas centavos, un bitcoin se puede dividir en 100 millones de partes iguales llamadas satoshis.
+
+##### Ejemplos
+
+> 1 satoshi = 0.00000001 BTC
+
+> 4500 satoshis = 0.000045 BTC

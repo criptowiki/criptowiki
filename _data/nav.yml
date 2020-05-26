@@ -1,0 +1,10 @@
+- name: Inicio
+  link: /
+- name: Billeteras
+  link: /billeteras/
+- name: Herramientas
+  link: /herramientas/
+- name: Mitos
+  link: /mitos/
+- name: Diccionario
+  link: /diccionario/
