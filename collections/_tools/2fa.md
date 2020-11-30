@@ -6,17 +6,43 @@ permalink: /herramientas/autenticacion-de-dos-factores-2fa
 ### ¿Qué es?
 
 Hay distintos **factores de autenticación** que permiten identificarnos en una página web o app:
-> algo que conocemos, como una contraseña
+> algo que **conocemos**, como una contraseña
 
-> algo que somos, como una huella digital
+> algo que **somos**, como una huella digital
 
-> algo que tenemos, como un teléfono celular
+> algo que **tenemos**, como un teléfono celular
 
-La autenticación de dos factores consiste en **utilizar 2 de ellos**.
+Muchos usuarios utilizan un solo factor, por ejemplo, una contraseña. El problema es que si un atacante obtiene nuestra contraseña, junto con la dirección de correo electrónico (o nombre de usuario), puede acceder a nuestra cuenta.
 
-La combinación más frecuente es ingresar **una contraseña y también un código temporario de un solo uso (a veces llamado *token*)** que, o se recibe por mensaje de texto, o es generado en una aplicación autenticadora en el celular. Depende del sitio web qué método se utiliza, aunque esta última es la opción más segura de las dos (más sobre esto abajo). 
+### Protección adicional
+
+La autenticación de dos factores consiste en **utilizar 2 factores de autenticación**.
+
+La combinación más frecuente es ingresar **una contraseña y también un código temporal de un solo uso (a veces llamado *token*)** que, o se recibe por mensaje de texto, o es generado en una aplicación autenticadora en el celular. Depende del sitio web qué método se utiliza, aunque esta última es la opción más segura de las dos (más sobre esto al final de la página). 
 
 Puedes activarlo en muchas aplicaciones conocidas, como Twitter, tu provedor de correo electrónico y en casas de cambio de criptomonedas, donde muchas veces es obligatorio su uso.
+
+### Cómo utilizarlo - Ejemplo práctico
+
+Veamos cómo activar y utilizar el doble factor de autenticación en Twitter.
+
+> **1er paso**: Instala una aplicación autenticadora en tu celular.
+
+Hay varias aplicaciones gratuitas disponibles en el mercado. Algunas de las más reconocidas son **Authy**, **Google Authenticator** y **LastPass Authenticator**. Una gran opción para Android es **andOTP**, que requiere mínimos permisos, es de código abierto, encripta los códigos con una clave maestra y permite realizar copias de seguridad.
+
+
+> **2do paso**: En Twitter.com, busca el código QR y escanéalo.
+
+Ve a Configuración / Seguridad y acceso a la cuenta / Seguridad / Autenticación en dos fases. Te pedirá que escanees un código QR que mostrará en pantalla y que ingreses el código temporal que ves en la aplicación autenticadora.
+
+> **3er paso**: Guarda el código de respaldo.
+
+Copia a mano el código de respaldo en un papel y guárdalo bien.
+
+¡Listo! Ahora cada vez que quieras ingresar a tu cuenta de Twitter, además de solicitarte el correo electrónico (o nombre de usuario) y contraseña, te solicitará un código temporal, que obtendrás de la aplicación autenticadora. Por más que alguien sepa tu contraseña, si no tiene este código no podrá acceder.
+
+En caso de que no puedas utilizar tu celular, ya sea porque lo has perdido, te lo robaron o se rompió, solo tendrás que ingresar el código de respaldo. En este último caso no olvides reactivar el doble factor de autenticación con otro celular y guardar el nuevo código de respaldo.
+
 
 ### ¿Por qué el mensaje de texto no es recomendable?
 
