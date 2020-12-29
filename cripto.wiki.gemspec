@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["cripto.wiki"]
   spec.email         = ["criptowiki@protonmail.ch"]
 
-  spec.summary       = "cripto.wiki: deciphering the world of cryptocurrencies, privacy & security"
+  spec.summary       = "cripto.wiki: descifrando el mundo de bitcoin, privacidad & ciberseguridad"
   spec.homepage      = "https://cripto.wiki/"
   
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
