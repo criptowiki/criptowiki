@@ -72,3 +72,10 @@ sass:
 remote_theme: criptowiki/criptowiki
 plugins:
   - jekyll-sitemap
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  blanklines: false
+  profile: false
