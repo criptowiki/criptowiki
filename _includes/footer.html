@@ -8,4 +8,8 @@
 		<div id="copyright">&COPY; 2019 - 2020 cripto.wiki</div>
 	</div>
 </footer>
+{% if jekyll.environment == "production" %}
+<script src="{{ site.url }}/assets/js/main.min.js"></script>
+{% else %}
 <script src="{{ site.url }}/assets/js/main.js"></script>
+{% endif %}

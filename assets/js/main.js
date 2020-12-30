@@ -1,4 +1,17 @@
 /*
+  Obfuscate email.
+*/
+var email = document.getElementById("email");
+if (email) {
+  email.onclick=function() {
+    var u = 'criptowiki';
+      var d = 'protonmail' + '.ch';
+      var e = u+'@'+d;
+      email.innerHTML='<a href="mailto:'+e+'">'+e+'</a>';
+  }
+}
+
+/*
   Open and close header on click on a small window (like mobile browser).
 */
 function NavOpen() {
@@ -12,22 +25,6 @@ function NavClose() {
 	document.getElementById("site-nav-trigger").getElementsByClassName("icon-bars")[0].style.display = "block";
 	document.getElementById("site-nav-trigger").getElementsByClassName("icon-close")[0].style.display = "none";
 }
-
-
-
-/*
-  Obfuscate email.
-*/
-var email = document.getElementById("email");
-if (email) {
-	email.onclick=function() {
-		var u = 'criptowiki';
-	    var d = 'protonmail' + '.ch';
-	    var e = u+'@'+d;
-	    email.innerHTML='<a href="mailto:'+e+'">'+e+'</a>';
-	}
-}
-
 
 
 /*
