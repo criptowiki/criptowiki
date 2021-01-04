@@ -1,22 +1,12 @@
 ---
+layout: default
 css: collection
-layout: compress
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.language }}">
-	{% include head.html %}
-	<body class="body">
-		{% include header.html %}
-
-		<div id="page-content">
-			<div class="center">
-				<div class="breadcrumb"><a href="/diccionario">Diccionario</a></div>
-				<div class="title"><h1>{{ page.title }}</h1></div>
-				<div class="content">{{ content }}</div>
-			</div>
-		</div>
-
-		{% include footer.html %}
-	</body>
-</html>
+<div id="page-content">
+	<div class="center">
+		<div class="breadcrumb"><a href="/diccionario">Diccionario</a></div>
+		<div class="title"><h1>{{ page.title }}</h1></div>
+		<div class="content">{{ content }}</div>
+	</div>
+</div>

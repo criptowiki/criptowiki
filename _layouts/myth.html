@@ -1,27 +1,17 @@
 ---
+layout: default
 css: collection
-layout: compress
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.language }}">
-	{% include head.html %}
-	<body class="body">
-		{% include header.html %}
-
-		<div id="page-content" class="collection-myth">
-			<div class="center">
-				<div class="breadcrumb"><a href="/mitos/">Mitos</a></div>
-				<div class="title"><h3>{{ page.title }}</h3></div>
-				<div class="content">
-					{% if page.image %}
-						<img src="{{ site.url }}/assets/img/{{ page.image }}" width="500" alt="{{ page.title | escape }}">
-					{% endif %}
-					{{ content }}
-				</div>
-			</div>
+<div id="page-content" class="collection-myth">
+	<div class="center">
+		<div class="breadcrumb"><a href="/mitos/">Mitos</a></div>
+		<div class="title"><h3>{{ page.title }}</h3></div>
+		<div class="content">
+			{% if page.image %}
+				<img src="{{ site.url }}/assets/img/{{ page.image }}" width="500" alt="{{ page.title | escape }}">
+			{% endif %}
+			{{ content }}
 		</div>
-
-		{% include footer.html %}
-	</body>
-</html>
+	</div>
+</div>

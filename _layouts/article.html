@@ -1,34 +1,24 @@
 ---
+layout: default
 css: article
-layout: compress
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.language }}">
-	{% include head.html %}
-	<body class="body">
-		{% include header.html %}
-
-		<div id="page-content" class="layout-article">
-			<div id="article-header">
-				<div class="center">
-					<div id="article-title"><span>{{ page.title }}</span></div>
-				</div>
-			</div>
-			<div id="article-body">
-				<div class="center">
-					{% if page.updated %}
-					<div id="article-meta">Última actualización: {{ page.updated }}</div>
-					{% elsif page.published %}
-					<div id="article-meta">Publicado: {{ page.published }}</div>
-					{% endif %}
-					<div id="article-content">
-						{{ content }}
-					</div>
-				</div>
+<div id="page-content" class="layout-article">
+	<div id="article-header">
+		<div class="center">
+			<div id="article-title"><span>{{ page.title }}</span></div>
+		</div>
+	</div>
+	<div id="article-body">
+		<div class="center">
+			{% if page.updated %}
+			<div id="article-meta">Última actualización: {{ page.updated }}</div>
+			{% elsif page.published %}
+			<div id="article-meta">Publicado: {{ page.published }}</div>
+			{% endif %}
+			<div id="article-content">
+				{{ content }}
 			</div>
 		</div>
-
-		{% include footer.html %}
-	</body>
-</html>
+	</div>
+</div>
