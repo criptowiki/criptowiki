@@ -22,7 +22,7 @@ Son **sitios web** que ofrecen la posibilidad de crearse una cuenta con pocos o 
 
 Muchas veces, al crear la cuenta, la página web nos muestra una frase de recuperación que debemos anotar en un papel y guardarlo en  un lugar seguro. De esta manera, por más que la empresa desaparezca, podemos, en teoría, recuperar nuestras criptomonedas. Decimos en teoría porque la realidad es que en todo momento debemos confiar que la empresa que nos creo la billetera no guarde una copia de la clave privada o frase de recuperación (de la cual se derivan todas las claves públicas, claves privadas y direcciones).
 
-<figure><a href="assets/img/articles/billetera-blockchaincom.png"><img width="500" class="lazy" data-src="assets/img/articles/billetera-blockchaincom-750x.png"/><figcaption>Blockchain.com es un ejemplo de billetera web.</figcaption></a></figure>
+{% include image.html url="articles/billetera-blockchaincom-750x.png" description="Blockchain.com es un ejemplo de billetera web." %}
 
 ### 3) Móvil
 
@@ -30,7 +30,7 @@ Son **apps para smartphones**. Se distinguen por ser muy fáciles de usar para c
 
 BRD y Samourai son ejemplos de billeteras móviles.
 
-<figure><img width="500" class="lazy" data-src="assets/img/articles/billetera-brd.png"/><figcaption>BRD, una billetera de criptomonedas para smartphones. Fuente: <a href="https://brd.com/">brd.com</a></figcaption></figure>
+{% include image.html width="500" url="articles/billetera-brd.png" description="BRD, una billetera de criptomonedas para smartphones. Fuente: <a href='https://brd.com/'>brd.com</a>" %}
 
 ### 4) Hardware
 
@@ -42,14 +42,13 @@ Son muy seguras porque las transacciones se firman con la clave privada en el di
 
 Ledger Nano S y Trezor son ejemplos de billeteras de hardware.
 
-<figure><img width="500" class="lazy" data-src="assets/img/articles/ledger-nano-s.png"/><figcaption>Ledger Nano S, una billetera de hardware.</figcaption></figure>
+{% include image.html url="articles/ledger-nano-s.png" description="Ledger Nano S, una billetera de hardware." %}
 
 ### 5) Papel
 
 Las claves se generan en una computadora aislada de internet (nunca entra en contacto con internet) y **se imprimen literalmente en un papel, metal o elemento duradero**.
 
-<figure><img width="500" class="lazy" data-src="assets/img/articles/billetera-papel-bitcoin.png"/><figcaption>Billetera de papel generada en bitaddress.org (solo utilizarla si uno sabe lo que está haciendo. Más en cripto.wiki próximamente)</figcaption></figure>
-
+{% include image.html url="articles/billetera-papel-bitcoin.png" description="Billetera de papel generada en bitaddress.org (solo utilizarla si uno sabe lo que está haciendo. Más en cripto.wiki próximamente)" %}
 
 <p class="important">
 En casi todos los casos, las billeteras no solicitan datos personales explícitamente. Solo algunas billeteras web donde creamos una cuenta (y no es más que correo electrónico y contraseña). Sin embargo, esto no significa que sean anónimas, ya que pueden registrar datos importantes como nuestra dirección IP.

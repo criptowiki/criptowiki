@@ -19,7 +19,7 @@ El dinero lo utilizamos todos los días y no nos preguntamos qué es o por qué 
 
 Atrás quedaron los problemas mencionados cuando surge el dinero mercancía. Este dinero tiene **valor intrínseco**, es decir, toma el valor del bien que la compone y era aceptado en su momento por la mayoría de la sociedad. Bienes utilizados como dinero mercancía han sido el **ganado en la Antigua Grecia, la sal en el Imperio Antiguo de Egipto y conchas de cauri en China**. Si todos ofrecen sus productos y servicios a cambio de un bien común, se facilita el intercambio.
 
-<figure><img class="lazy" data-src="assets/img/articles/hombres-sal.jpg"/><figcaption>Incluso la sal fue dinero en el Antiguo Egipto.</figcaption></figure>
+{% include image.html url="articles/hombres-sal.jpg" description="Incluso la sal fue dinero en el Antiguo Egipto." %}
 
 ### Metales preciosos
 
@@ -36,7 +36,7 @@ Alrededor del siglo VII a.C, en lo que hoy sería **Turquía**, se acuñaron las
 
 Paralelamente, en **China** se comienza a utilizar las propias monedas aunque eran **muy distintas**. En lugar de tener una forma circular, eran objetos cotidianos en miniatura hechos en bronce. Luego le siguen otras regiones del mundo, como lo que hoy sería India (siglo IV a.C) y Grecia (siglo V a.C).
 
-<figure><img class="lazy" data-src="assets/img/articles/coin-hollow-china.jpg"/><figcaption>Moneda china con la forma de una pala primitiva. Crédito: <a href="https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx">British Museum</a></figcaption></figure>
+{% include image.html url="articles/coin-hollow-china.jpg" description="Moneda china con la forma de una pala primitiva. Crédito: <a href='https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx'>British Museum</a>" %}
 
 Así, el dinero va a ir tomando distintas formas pero siempre buscando cumplir* 3 funciones:
 - **Medio de intercambio**: se utiliza para acceder a bienes y servicios.
@@ -63,7 +63,7 @@ A lo largo de los siglos siguientes, el papel moneda se expandió por el mundo, 
 
 Es el dinero que el Estado establece como tal, **sin valor intrínseco y sin respaldo alguno**. De ahí su nombre “fiat”, cuya traducción del latín es “hágase”. La sociedad lo utiliza porque es moneda de curso legal o por la confianza que le transmite.
 
-<figure><img width="500" class="lazy" data-src="assets/img/articles/billetes-un-dolar-estadounidense.jpg"/><figcaption>Billetes estadounidenses. Desde 1971 no tienen respaldo en oro (ni en nada).</figcaption></figure>
+{% include image.html url="articles/billetes-un-dolar-estadounidense.jpg" description="Billetes estadounidenses. Desde 1971 no tienen respaldo en oro (ni en nada)." %}
 
 Como ejemplo, si bien en Argentina el dólar estadounidense no es moneda de curso legal, se suele preferir a la hora de ahorrar en lugar del peso argentino, que sí lo es. A su vez, el dólar no tiene ningún tipo de respaldo, más que la confianza que transmite el poderío de EEUU en el mundo y la confianza en que Reserva Federal no devaluará la moneda de manera abrupta emitiendo irresponsablemente.
 

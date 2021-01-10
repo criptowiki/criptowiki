@@ -11,8 +11,7 @@ Muchos celulares hoy en día vienen con un lector incorporado en la cámara[^2].
 
 #### Ejemplos
 
-<figure><img class="lazy" data-src="/assets/img/dictionary/es/codigo-qr.png"/><figcaption>Ejemplo de un código QR. Al escanearlo, se le preguntará al usuario si desea visitar el sitio web https://cripto.wiki</figcaption></figure>
-
+{% include image.html url="dictionary/es/codigo-qr.png" description="Ejemplo de un código QR. Al escanearlo, se le preguntará al usuario si desea visitar el sitio web https://cripto.wiki" %}
 
 Tiene múltiples usos. Por ejemplo, al escanear un código QR, la aplicación nos preguntará si deseamos:
 > visitar una página web determinada
