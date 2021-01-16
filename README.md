@@ -1,9 +1,9 @@
 # cripto.wiki
 
-**cripto.wiki** is a website about cryptocurrencies, privacy & security.
+**cripto.wiki** is a website that teaches about bitcoin, privacy & cybersecurity.
 
 ## Content
-In this repository you will find the full source code of the website. It's a static website created with [Jekyll](https://jekyllrb.com/).
+In this repository you will find the full source code of the static website, created with [Jekyll](https://jekyllrb.com/).
 
 ## Installation
 
