@@ -15,4 +15,6 @@ Si uno utiliza un gestor de contraseña online tiene la ventaja que sus contrase
 
 ### Ejemplos
 
+{% include image.html url="tools-cybersecurity/gestor-de-contrasenas.png" description="KeePassXC es un gestor de contraseñas gratuito" %}
+
 > [KeePassXC](https://keepassxc.org/)

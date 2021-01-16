@@ -16,7 +16,9 @@ collections:
     output: true
   tutorials:
     output: true
-  tools:
+  tools-bitcoin:
+    output: true
+  tools-cybersecurity:
     output: true
   myths:
     output: true
@@ -47,7 +49,7 @@ defaults:
       layout: 'tutorial'
   - scope:
       path: ''
-      type: 'tools'
+      type: 'tools-cybersecurity'
     values:
       layout: 'tool'
   - scope:
