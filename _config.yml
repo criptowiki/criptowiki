@@ -70,8 +70,7 @@ defaults:
 
 sass:
   style: compressed
-  
-remote_theme: criptowiki/criptowiki
+
 plugins:
   - jekyll-sitemap
 
