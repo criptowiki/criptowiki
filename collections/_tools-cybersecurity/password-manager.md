@@ -19,7 +19,7 @@ Es una práctica común crear un archivo de texto (con el programa *Bloc de nota
 
 ### A tener en cuenta
 
-- Usar una **[contraseña fuerte]({{ site.url }}/herramientas/contrasenas-fuertes)** o **[frase de contraseña (fuerte)]({{ site.url }}/herramientas/frase-de-contrasena)**. Si alguien adivina la contraseña maestra, tiene acceso a todas las contraseñas.
+- Usar una **[contraseña fuerte]({{ site.url }}/herramientas/contrasena-fuerte)** o **[frase de contraseña (fuerte)]({{ site.url }}/herramientas/frase-de-contrasena)**. Si alguien adivina la contraseña maestra, tiene acceso a todas las contraseñas.
 - Si uno utiliza un gestor de contraseñas online, cuenta con la ventaja de que sus contraseñas están disponibles desde cualquier lugar, 24/7. Pero, al estar en la nube, uno tiene que confiar que la empresa que creó el programa no guarde una copia de las contraseñas o que no sea hackeada.
 
 ### Ejemplos
