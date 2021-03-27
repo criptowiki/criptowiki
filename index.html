@@ -27,7 +27,7 @@ description: Descifrando el mundo de bitcoin, privacidad & ciberseguridad. Apren
 	<div class="section border">
 		<h2 class="subtitle">Calendario</h2>
 		<div class="content" id="calendar-dates">
-			{% for day in site.calendar %}
+			{% for day in site.calendar reversed %}
             <a href="{{ day.permalink }}"><div>{{ day.title }}</div></a>
 			{% endfor %}
 		</div>
