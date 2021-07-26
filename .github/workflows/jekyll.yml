@@ -20,4 +20,4 @@ jobs:
     - uses: helaili/jekyll-action@v2.2
       with:
         token: ${{ secrets.CW_GH_PAGES_TOKEN }}
-        target_branch: 'gh-pages'
+        target_branch: 'test-gh-pages'
