@@ -1,0 +1,52 @@
+{
+  "name": "cripto.wiki",
+  "short_name": "cripto.wiki",
+  "theme_color": "#37ED86",
+  "background_color": "#222222",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/?source=pwa",
+  "icons": [
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-72x.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-96x.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-128x.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-144x.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-152x.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-192x.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-384x.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cripto.wiki/assets/img/icons/icon-512x.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
