@@ -23,5 +23,5 @@ jobs:
     - uses: helaili/jekyll-action@2.2.0
       with:
         token: ${{ secrets.CW_GH_PAGES_TOKEN }}
-        target_branch: 'test-gh-pages'
+        target_branch: 'test2-gh-pages'
         keep_history: true
