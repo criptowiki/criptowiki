@@ -2,6 +2,7 @@ title: cripto.wiki
 description: descifrando el mundo de Bitcoin, privacidad & ciberseguridad
 url: https://cripto.wiki
 language: es
+baseurl: ''
 
 social:
   twitter: criptowiki
