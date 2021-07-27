@@ -3,7 +3,7 @@ name: jekyll
 on:
   push:
     branches:
-      - main
+      - enhancement/remove-github-pages-gem-dependencies
 
 jobs:
   jekyll:
@@ -25,5 +25,5 @@ jobs:
     - uses: helaili/jekyll-action@2.2.0
       with:
         token: ${{ secrets.CW_GH_PAGES_TOKEN }}
-        target_branch: 'gh-pages'
+        target_branch: 'empty-branch-testing'
         keep_history: true
