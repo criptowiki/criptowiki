@@ -5,11 +5,11 @@ css: collection
 
 <div id="page-content" class="collection-myth">
 	<div class="center">
-		<div class="breadcrumb"><a href="/mitos/">Mitos</a></div>
+		<div class="breadcrumb"><a href="{{ site.baseurl }}/mitos/">Mitos</a></div>
 		<div class="title"><h3>{{ page.title }}</h3></div>
 		<div class="content">
 			{% if page.image %}
-				<img src="{{ site.url }}/assets/img/{{ page.image }}" width="500" alt="{{ page.title | escape }}">
+				<img src="{{ site.baseurl }}/assets/img/{{ page.image }}" width="500" alt="{{ page.title | escape }}">
 			{% endif %}
 			{{ content }}
 		</div>

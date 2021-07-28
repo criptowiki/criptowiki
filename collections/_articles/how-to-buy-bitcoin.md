@@ -11,9 +11,9 @@ Veamos entonces los distintos caminos y pasos a seguir para comprar bitcoins.
 
 ## Paso 1: crear una billetera
 
-Dado que bitcoin es dinero que solo existe digitalmente, [necesitamos "crear un espacio” donde guardaremos las claves que nos permiten enviar y recibir bitcoins]({{ site.url }}/donde-se-guardan-las-criptomonedas). Para esto utilizamos una billetera y es lo primero que debemos conseguir. Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y de facilidad de uso que uno quiera.
+Dado que bitcoin es dinero que solo existe digitalmente, [necesitamos "crear un espacio” donde guardaremos las claves que nos permiten enviar y recibir bitcoins]({{ site.baseurl }}/donde-se-guardan-las-criptomonedas). Para esto utilizamos una billetera y es lo primero que debemos conseguir. Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y de facilidad de uso que uno quiera.
 
-Es muy importante conocer el funcionamiento básico de una billetera para poder elegir la que se adecúe a nuestras necesidades y para no perder nuestro dinero. [Si no tienes una billetera o crees que puede ser insegura la que tienes, lee este otro artículo práctico sobre billeteras antes de continuar]({{ site.url }}/tipos-de-billeteras).
+Es muy importante conocer el funcionamiento básico de una billetera para poder elegir la que se adecúe a nuestras necesidades y para no perder nuestro dinero. [Si no tienes una billetera o crees que puede ser insegura la que tienes, lee este otro artículo práctico sobre billeteras antes de continuar]({{ site.baseurl }}/tipos-de-billeteras).
 
 ## Paso 2: comprar los bitcoins
 
@@ -31,7 +31,7 @@ Es una empresa que vende bitcoins (u otras criptomonedas) online.
 La mayoría tiene una dinámica similar:
 1. Uno se registra aportando correo electrónico, contraseña y varios datos personales.
 2. Una vez que la casa de cambio verifica los datos aportados, el siguiente paso es "fondear la cuenta", es decir, enviar el dinero a la cuenta. Esto puede ser a través de transferencia bancaria, tarjeta de crédito, efectivo u otras, y dependerá de la empresa.
-3. Luego de acreditarse el saldo en la cuenta ya es posible comprar los bitcoins. La casa de cambio muestra a qué precio vende un bitcoin y si uno está de acuerdo, compra con el dinero que ya tiene cargado en la cuenta. [(No es necesario comprar 1 bitcoin entero).]({{ site.url }}/diccionario/satoshi)
+3. Luego de acreditarse el saldo en la cuenta ya es posible comprar los bitcoins. La casa de cambio muestra a qué precio vende un bitcoin y si uno está de acuerdo, compra con el dinero que ya tiene cargado en la cuenta. [(No es necesario comprar 1 bitcoin entero).]({{ site.baseurl }}/diccionario/satoshi)
 4. Los bitcoins están ahora en una billetera que la casa de cambio crea en la cuenta. El problema es que como es la empresa quien creó la billetera, la empresa es quien tiene la clave privada y por lo tanto tiene el control sobre esos bitcoins. Es por eso que debemos enviarlos a nuestra billetera (que creamos en el paso 1) sobre la cual tenemos el control total (solo nosotros tenemos la clave privada).
 
 Hay algunas casas de cambio que simplifican los últimos 2 pasos y en lugar de otorgarnos una billetera, nos piden una dirección y envían los bitcoins ahí directamente.

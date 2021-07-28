@@ -3,7 +3,7 @@ title: Shitcoin
 permalink: /diccionario/shitcoin
 ---
 
-Su traducción literal es... "moneda de mierd\*" y es una manera despectiva de referirse a una [altcoin]({{ site.url }}/diccionario/altcoin).
+Su traducción literal es... "moneda de mierd\*" y es una manera despectiva de referirse a una [altcoin]({{ site.baseurl }}/diccionario/altcoin).
 
 Posibles motivos:
 > no tiene una clara propuesta de valor

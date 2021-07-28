@@ -24,6 +24,6 @@ La billetera BRD (antes conocida como Bread Wallet) es ideal para quien desea in
 
 2. Pide establecer un **PIN**, que es un número de 6 cifras en este caso. Este PIN se utiliza para desbloquear la billetera y autorizar acciones importantes, como el envío de criptomonedas.
 
-3. Luego muestra la [**frase de recuperación**]({{ site.url }}/diccionario/frase-de-recuperacion-semilla-seed), que debemos anotar en un papel y guardar varias copias.
+3. Luego muestra la [**frase de recuperación**]({{ site.baseurl }}/diccionario/frase-de-recuperacion-semilla-seed), que debemos anotar en un papel y guardar varias copias.
 
 4. Por último, nos pedirá que ingresemos algunas palabras de la frase de recuperación para **confirmar que las hayamos anotado correctamente**.

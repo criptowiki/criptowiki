@@ -4,7 +4,7 @@ permalink: tipos-de-billeteras
 position: 3
 ---
 
-[Ya vimos dónde se guardan las criptomonedas y el funcionamiento básico de una billetera]({{ site.url }}/donde-se-guardan-las-criptomonedas). Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir criptomonedas. Hay distintas maneras de clasificar a los distintos tipos de billeteras.
+[Ya vimos dónde se guardan las criptomonedas y el funcionamiento básico de una billetera]({{ site.baseurl }}/donde-se-guardan-las-criptomonedas). Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir criptomonedas. Hay distintas maneras de clasificar a los distintos tipos de billeteras.
 
 ## Según su plataforma
 
