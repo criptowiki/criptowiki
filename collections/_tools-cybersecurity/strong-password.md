@@ -17,4 +17,4 @@ EVITAR:
 
 A su vez, por más que generemos contraseñas con un programa, resultaría imposible memorizar las decenas de contraseñas que utilizamos para ingresar a nuestro correo electrónico, redes sociales, otros servicios y dispositivos. Tampoco es una opción anotarla en un papel y dejarlo al lado de nuestra computadora, ya que otra persona la podría ver.
 
-¿Cuál es la solución? Usar un **[gestor de contraseñas]({{ site.url }}/herramientas/gestor-de-contrasenas)**.
+¿Cuál es la solución? Usar un **[gestor de contraseñas]({{ site.baseurl }}/herramientas/gestor-de-contrasenas)**.

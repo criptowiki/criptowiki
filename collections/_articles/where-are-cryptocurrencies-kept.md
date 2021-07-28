@@ -27,7 +27,7 @@ Si uno genera muchas direcciones en la billetera, ¿tiene que guardar una copia 
 
 Hoy la mayoría de las billeteras son **determinísticas**, donde primero se genera una **semilla (también conocida como frase de recuperación)** y a partir de esta se generan todas las claves privadas y direcciones. Esta semilla es un número grande que se lo suele representar por medio de 12 o 24 palabras, donde el orden de las mismas importa. ¿Cuántas direcciones se pueden generar? Infinitas. Este un ejemplo de una semilla: **obtain sheriff early develop thing increase horror safe arrive honey hedgehog arm**
 
-Solo tenemos que guardar una copia de la frase de recuperación en un lugar seguro al crear la billetera. Luego, si perdemos la billetera, solo debemos importar las palabras a una billetera nueva. La billetera automáticamente generará todas las claves privadas y direcciones correspondientes a partir de la semilla, y tendremos acceso a nuestro dinero nuevamente. **Como usuarios nunca nos cruzamos con las claves privadas y claves públicas.** Cuando le queremos enviar criptomonedas a alguien necesitamos saber su direccion, pero generalmente no la ingresamos a mano, sino que escaneamos un [código QR]({{ site.url }}/diccionario/codigo-qr), o en todo caso, copiamos y pegamos la dirección. Nunca las copiamos a mano ya que es un método lento y podemos equivocarnos.
+Solo tenemos que guardar una copia de la frase de recuperación en un lugar seguro al crear la billetera. Luego, si perdemos la billetera, solo debemos importar las palabras a una billetera nueva. La billetera automáticamente generará todas las claves privadas y direcciones correspondientes a partir de la semilla, y tendremos acceso a nuestro dinero nuevamente. **Como usuarios nunca nos cruzamos con las claves privadas y claves públicas.** Cuando le queremos enviar criptomonedas a alguien necesitamos saber su direccion, pero generalmente no la ingresamos a mano, sino que escaneamos un [código QR]({{ site.baseurl }}/diccionario/codigo-qr), o en todo caso, copiamos y pegamos la dirección. Nunca las copiamos a mano ya que es un método lento y podemos equivocarnos.
 
 ## Información muy importante
 
@@ -50,7 +50,7 @@ Otra manera de categorizarlas es según **si la clave privada es expuesta a inte
 - Billetera caliente (o hot wallet)
 - Billetera fría (o cold wallet)
 
-> Conoce las [ventajas y desventajas de cada tipo de billetera]({{ site.url }}/tipos-de-billeteras).
+> Conoce las [ventajas y desventajas de cada tipo de billetera]({{ site.baseurl }}/tipos-de-billeteras).
 
 ### Bibliografía
 <div id="bibliography">
