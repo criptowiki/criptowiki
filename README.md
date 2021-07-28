@@ -3,13 +3,13 @@ Is Bitcoin really a bubble? Is the dollar truly backed by gold? We invite you to
 
 
 ## Content
-In this repository you will find the full source code of the [static website](https://cripto.wiki), created with [Jekyll](https://jekyllrb.com/). There are 2 important branches:
-- **main**: contains the Jekyll site code and the file `.github/workflows/jekyll.yml`, which calls the actions to generate the static site.
-- **gh-pages**: the production site; its content is created automatically on every push to the main branch. The actions compile the code which is in the main branch.
+In this repository you will find the source code of the [cripto.wiki](https://cripto.wiki), created with [Jekyll](https://jekyllrb.com/). There are 2 important branches:
+- **main**: the development branch; contains the full source code, including the file `.github/workflows/jekyll.yml`, which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
+- **gh-pages**: the production branch; its static content is created automatically on every push to the main branch.
 
 
-## Installation
-To run this website in your computer:
+## Installation (for developers)
+To run and develop this website in your computer:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/).
 
@@ -18,7 +18,7 @@ To run this website in your computer:
 git clone https://github.com/criptowiki/criptowiki.git
 ```
 
-3. Install gems
+3. Install gems:
 ```
 bundle install
 ```
