@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "about.css",
+	"sources": [
+		"about.sass"
+	],
+	"sourcesContent": [
+		"#contact-details {\n    margin-top: 20px; }\n\n#contact-details > div {\n    margin-bottom: 20px; }\n\n#contact-details a {\n    text-decoration: none; }\n\n#contact-details .i-width {\n    float: left;\n    padding-top: 1px;\n    width: 50px;\n    text-align: center; }\n\n#email {\n    cursor: pointer; }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,gBAAgB,AAAC,CACb,UAAU,CAAE,IAAI,CAAG,AAEvB,AAAA,gBAAgB,CAAG,GAAG,AAAC,CACnB,aAAa,CAAE,IAAI,CAAG,AAE1B,AAAA,gBAAgB,CAAC,CAAC,AAAC,CACf,eAAe,CAAE,IAAI,CAAG,AAE5B,AAAA,gBAAgB,CAAC,QAAQ,AAAC,CACtB,KAAK,CAAE,IAAI,CACX,WAAW,CAAE,GAAG,CAChB,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,MAAM,CAAG,AAEzB,AAAA,MAAM,AAAC,CACH,MAAM,CAAE,OAAO,CAAG"
+}

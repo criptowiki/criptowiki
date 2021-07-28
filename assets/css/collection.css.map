@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "collection.css",
+	"sources": [
+		"collection.sass"
+	],
+	"sourcesContent": [
+		"#page-content .center {\n    width: 750px !important; }\n\n#page-content img {\n    display: block;\n    margin: 0 auto; }\n\n.tool-content .title {\n    margin-top: 15px; }\n\n.collection-myth img {\n    margin-bottom: 30px !important; }\n\n@media screen and (max-width: 600px) {\n    #page-content {\n        padding-top: 17px; } }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,aAAa,CAAC,OAAO,AAAC,CAClB,KAAK,CAAE,gBAAgB,CAAG,AAE9B,AAAA,aAAa,CAAC,GAAG,AAAC,CACd,OAAO,CAAE,KAAK,CACd,MAAM,CAAE,MAAM,CAAG,AAErB,AAAA,aAAa,CAAC,MAAM,AAAC,CACjB,UAAU,CAAE,IAAI,CAAG,AAEvB,AAAA,gBAAgB,CAAC,GAAG,AAAC,CACjB,aAAa,CAAE,eAAe,CAAG,AAErC,MAAM,8BACF,CAAA,AAAA,aAAa,AAAC,CACV,WAAW,CAAE,IAAI,CAAG,CAAA"
+}
