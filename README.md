@@ -3,8 +3,8 @@ Is Bitcoin really a bubble? Is the dollar truly backed by gold? We invite you to
 
 
 ## Content
-In this repository you will find the source code of the [cripto.wiki](https://cripto.wiki), created with [Jekyll](https://jekyllrb.com/). There are 2 important branches:
-- **main**: the development branch; contains the full source code, including the file `.github/workflows/jekyll.yml`, which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
+In this repository you will find the source code of [cripto.wiki](https://cripto.wiki), created with [Jekyll](https://jekyllrb.com/), a static site generator. There are 2 important branches:
+- **main**: the development branch; contains the full source code, including the file [.github/workflows/jekyll.yml](.github/workflows/jekyll.yml), which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
 - **gh-pages**: the production branch; its static content is created automatically on every push to the main branch.
 
 
