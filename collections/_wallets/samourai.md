@@ -21,6 +21,8 @@ En su [sitio web](https://samouraiwallet.com/) se presentan como (traducido): "a
 
 Entre los productos que ofrecen se encuentra la billetera Samourai Wallet.
 
+{% include image.html url="wallets/samourai-homescreen.png" width="300" description="Pantalla de inicio. Créditos: Samourai." %}
+
 
 ## Cómo comenzar
 1. Primero que nada, **descargar** la billetera para Android buscando "Samourai Wallet" en la tienda de aplicaciones y asegurarse que sea la aplicación oficial. Otra opción es visitar [la página oficial](https://samouraiwallet.com/download/wallet) y seguir el enlace de descarga.
@@ -49,7 +51,9 @@ Entre los productos que ofrecen se encuentra la billetera Samourai Wallet.
 
 ## Enfocada en la privacidad
 
-- El **teclado numérico se mezcla** cada vez que hay que ingresar el PIN. De esta manera, si hay alguien merodeando y mirando sobre nuestros hombros, se le dificultará reconocer el PIN.
+- La posición de los números del **teclado numérico cambia** cada vez que hay que ingresar el PIN. De esta manera, si hay alguien merodeando y mirando sobre nuestros hombros, se le dificultará reconocer el PIN.
+
+{% include image.html url="wallets/samourai-scrambled-pin.png" width="200" description="El teclado numérico para ingresar el PIN está desordenado intencionalmente." %}
 
 - La **frase de contraseña** que uno ingresa se utiliza para encriptar la copia de seguridad en el dispositivo. Además, toma el rol de la palabra #13 en la frase de recuperación. Por eso en cualquier caso **es necesaria para restaurar la billetera**. Y por eso es recomendable usar una [frase de contraseña fuerte]({{ site.baseurl }}/herramientas/frase-de-contrasena).
 
