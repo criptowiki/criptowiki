@@ -23,6 +23,11 @@ Entre los productos que ofrecen se encuentra la billetera Samourai Wallet.
 {% include image.html url="wallets/samourai-homescreen.png" width="300" description="Pantalla de inicio. Créditos: Samourai." %}
 
 
+## Importante
+
+En la tienda de aplicaciones Google Play, Samourai Wallet figura como una **"aplicación con acceso anticipado"**. Según la tienda de aplicaciones, es posible que este tipo de aplicaciones **"se bloqueen o que algunas de sus funciones no se ejecuten correctamente"**. Para guardar una cantidad importante de [satoshis]({{ site.baseurl }}/diccionario/satoshi) a largo plazo es preferible utilizar una billetera hardware.
+
+
 ## Cómo comenzar
 1. Primero que nada, **descargar** la billetera para Android buscando "Samourai Wallet" en la tienda de aplicaciones y asegurarse que sea la aplicación oficial. Otra opción es visitar [la página oficial](https://samouraiwallet.com/download/wallet) y seguir el enlace de descarga.
 
