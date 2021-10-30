@@ -1,11 +1,10 @@
 ---
 title: Samourai Wallet
 permalink: /billeteras/samourai
-image_url: wallets/samourai-180x180.png
+image: wallets/samourai-180x180.png
 ---
 
-{% include image.html url=page.image_url %}
-
+{% include image.html url=page.image %}
 
 ## Características
 > Es una billetera móvil sin custodia, disponible para Android
