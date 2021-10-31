@@ -6,7 +6,7 @@ image: history/2021/03/24-tesla-acepta-bitcoin-hodl.png
 
 El 24 de marzo de 2021, Elon Musk anunció en Twitter[^1] que es posible comprar un Tesla con bitcoin.
 
-{% include image.html url="history/2021/05/24-tesla-acepta-bitcoin-hodl-checkout.png" description="Página web de Tesla aceptando bitcoin" %}
+{% include image.html url="history/2021/03/24-tesla-acepta-bitcoin-hodl-checkout.png" description="Página web de Tesla aceptando bitcoin" %}
 
 Este movimiento estratégico ya lo había anticipado en febrero, en su última presentación del formulario 10-K[^2], un informe sobre el desempeño financiero que las empresas públicas en EE. UU. están obligadas a presentar anualmente. En el mismo mencionaron que en enero habían modificado su política de inversiones para poder invertir en bitcoin. Anunciaron que adquirieron $1,5 mil millones de dólares en bitcoin y también adelantaron que esperaban aceptar a la principal criptomoneda como medio de pago en un futuro cercano. Ese futuro ya llegó. Si bien este medio de pago solo está disponible en EE. UU., el CEO también tuiteó[^3] que estará disponible en otros países más tarde este mismo año.
 
@@ -14,7 +14,7 @@ Es muy importante destacar 2 cuestiones. La primera es que Tesla utiliza sus pro
 
 Además, Tesla actualizó su sitio web y agregó una página[^5] donde responde preguntas frecuentes sobre bitcoin como medio de pago.
 
-{% include image.html url="history/2021/05/24-tesla-acepta-bitcoin-hodl-soporte.png" description="Preguntas frecuentes sobre bitcoin en Tesla.com" %}
+{% include image.html url="history/2021/03/24-tesla-acepta-bitcoin-hodl-soporte.png" description="Preguntas frecuentes sobre bitcoin en Tesla.com" %}
 
 En una publicación que realizamos en julio del 2019 en Instagram[^6], habíamos visto que Musk no se encontraba en la industria de las criptomonedas. En su momento había opinado que la tecnología detrás de Bitcoin es brillante pero que gasta mucha electricidad. Hoy, más de un año y medio después, vemos que su opinión cambió significativamente. En los últimos meses tuiteó positivamente sobre Bitcoin, colocó dinero de su empresa en la criptomoneda y ahora su empresa la acepta como medio de pago.
 
