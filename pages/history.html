@@ -3,15 +3,22 @@ title: Historia
 description: Los eventos más importantes en la historia de Bitcoin y el mundo cripto.
 permalink: /historia/
 layout: page
-css: items-list
+css: history
 ---
 
 <div class="section">
     <h1 class="title">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
-    <div class="content items-list">
-    	{% for day in site.history reversed %}
-        	<a href="{{ day.permalink }}"><div>{{ day.title }}</div></a>
-		{% endfor %}
+    <div class="content list">
+
+        {% for event in site.history reversed %}
+            <a href="{{ event.permalink }}">
+                <div>
+                    <img src="/assets/img/{{ event.image }}" width="150" />
+                </div>
+                <span>{{ event.title }}</span>
+            </a>
+        {% endfor %}
+
     </div>
 </div>
