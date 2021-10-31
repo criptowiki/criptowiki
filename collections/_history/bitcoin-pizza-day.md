@@ -1,12 +1,12 @@
 ---
 title: Bitcoin Pizza Day
-permalink: /calendario/2010/05/22/bitcoin-pizza-day
-image: calendar/2010/05/22-bitcoin-pizza-day-laszlo-hanyecz.jpg
+permalink: /historia/2010/05/22/bitcoin-pizza-day
+image: historia/2010/05/22-bitcoin-pizza-day-laszlo-hanyecz.jpg
 ---
 
 El 22 de mayo de 2010, bitcoin tuvo su primer caso de uso reconocido. Un programador llamado Laszlo Hanyecz compró 2 pizzas, gastando 10 mil bitcoins.
 
-{% include image.html url="calendar/2010/05/22-bitcoin-pizza-day-laszlo-hanyecz.jpg" description="Las pizzas más caras de la historia. Créditos: <a href='http://heliacal.net/~solar/bitcoin/pizza/'>Laszlo Hanyecz</a>" %}
+{% include image.html url="history/2010/05/22-bitcoin-pizza-day-laszlo-hanyecz.jpg" description="Las pizzas más caras de la historia. Créditos: <a href='http://heliacal.net/~solar/bitcoin/pizza/'>Laszlo Hanyecz</a>" %}
 
 Hanyecz publicó su oferta en BitcoinTalk.org[^1], un foro creado por el mismísimo Satoshi Nakamoto donde se discute acerca de la criptomoneda más popular. Jeremy Sturdivant aceptó su propuesta[^2], llamó a Papa John's Pizza, compró las 2 pizzas[^3] [^4] con su tarjeta de crédito y las envió a la casa del programador a cambio de los bitcoins.
 

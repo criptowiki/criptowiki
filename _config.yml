@@ -13,7 +13,7 @@ collections_dir: collections
 collections:
   articles:
     output: true
-  calendar:
+  history:
     output: true
   tutorials:
     output: true
@@ -40,9 +40,9 @@ defaults:
       layout: 'article'
   - scope:
       path: ''
-      type: 'calendar'
+      type: 'history'
     values:
-      layout: 'calendar'
+      layout: 'history'
   - scope:
       path: ''
       type: 'tutorials'
@@ -74,6 +74,7 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 compress_html:
   clippings: all
