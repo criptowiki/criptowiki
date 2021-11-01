@@ -28,10 +28,11 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 		<h2 class="subtitle">Historia</h2>
 		<div class="content" id="history">
 			{% for event in site.history reversed %}
-	            <a href="{{ event.permalink }}">
-        			<img src="{{ site.baseurl }}/assets/img/{{ event.image }}" width="100" />
-        			<div><span>{{ event.title }}</span></div>
-	            </a>
+			    {% assign image_array = event.image | split: "." %}
+		            <a href="{{ event.permalink }}">
+	        			<img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
+	        			<div><span>{{ event.title }}</span></div>
+		            </a>
 			{% endfor %}
 		</div>
 	</div>
