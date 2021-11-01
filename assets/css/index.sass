@@ -67,9 +67,39 @@
     font-size: 0.9em
     color: #444
 
-#history-dates > a
-    display: block
-    margin-bottom: 20px
+#history
+    display: flex
+    flex-wrap: wrap
+    flex-direction: row
+
+#history a
+    display: flex
+    flex: 1 0 100%
+    margin-bottom: 10px
+    text-decoration: none
+    border: 1px solid #E5E5E5
+    border-radius: 5px
+    -moz-border-radius: 5px
+    -webkit-border-radius: 5px
+
+#history a:hover
+    background-color: #F8F8FB
+
+#history img
+    min-width: 100px
+    max-width: 100px
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+    -moz-border-radius-topright: 0
+    -moz-border-radius-bottomright: 0
+    -webkit-border-top-right-radius: 0
+    -webkit-border-bottom-right-radius: 0
+
+#history div
+    padding-left: 10px
+    margin-top: auto
+    margin-bottom: auto
+    font-size: 0.9em
 
 #social-media
     float: left

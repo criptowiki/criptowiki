@@ -26,9 +26,12 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 <div id="column-right">
 	<div class="section border">
 		<h2 class="subtitle">Historia</h2>
-		<div class="content" id="history-dates">
-			{% for day in site.history reversed %}
-            <a href="{{ day.permalink }}"><div>{{ day.title }}</div></a>
+		<div class="content" id="history">
+			{% for event in site.history reversed %}
+	            <a href="{{ event.permalink }}">
+        			<img src="{{ site.baseurl }}/assets/img/{{ event.image }}" width="100" />
+        			<div><span>{{ event.title }}</span></div>
+	            </a>
 			{% endfor %}
 		</div>
 	</div>
