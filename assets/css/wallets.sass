@@ -8,20 +8,20 @@
     display: flex
     flex-wrap: wrap
     flex-direction: row
-    border: 1px solid #EEE
-    border-radius: 4px
-    -moz-border-radius: 4px
-    -webkit-border-radius: 4px
 
 .list a
     display: flex
     flex: 1 0 35%
     align-items: center
     text-decoration: none
-    border: 1px solid transparent
+    background-color: #F8F8FB
+    border: 1px solid #E5E5E5
     border-radius: 4px
     -moz-border-radius: 4px
     -webkit-border-radius: 4px
+
+.list a:nth-child(odd)
+    margin-right: 10px
 
 .list a:empty
     height: 0
@@ -32,14 +32,21 @@
 
 .list a div img
     float: left
-    margin: 7px
-
-.list a span
-    padding-left: 20px
+    padding: 7px
+    border-radius: 10px
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px
 
 .list a:hover
-    background-color: #F8F8FB
+    background-color: #F3F3F8
+    color: #111
+    border: 1px solid #888
+
 
 @media screen and (max-width: 600px)
     .list a
         flex: 1 0 100%
+        margin-bottom: 10px
+
+    .list a:nth-child(odd)
+        margin-right: 0
