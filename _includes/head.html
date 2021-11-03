@@ -4,13 +4,13 @@
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% elsif page.collection == 'dictionary' %}
     {% capture pageDescription %}¿Qué significa '{{ page.title }}'? {{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
-{% elsif page.collection == 'tools' %}
+{% elsif page.collection == 'tools-cybersecurity' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% elsif page.collection == 'myths' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% elsif page.collection == 'wallets' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
-{% elsif page.collection == 'calendar' %}
+{% elsif page.collection == 'history' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% else %}
     {% capture pageDescription %}{{ site.description }}{% endcapture %}
