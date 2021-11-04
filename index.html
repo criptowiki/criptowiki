@@ -6,22 +6,37 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 	
 <h1 id="motto">{{ site.description }}</h1>
 <div id="column-left">
-	<div class="articles-list">		
-		{% assign articles = site.articles | sort: 'position' %}
-		{% for article in articles reversed %}
+	<div id="column-left-flex">
+		<div id="welcome" class="section border">
+			<h2 class="subtitle">Billeteras</h2>
+			<div id="wallets">
+				{% assign wallets = site.wallets | sort: 'position' %}
+				{% for wallet in wallets %}
+					<a href="{{ wallet.permalink }}">
+						<img src="{{ site.baseurl }}/assets/img/{{ wallet.image }}" width="50" />
+						<div><span>{{ wallet.title }}</span></div>
+					</a>
+				{% endfor %}
+			</div>
+		</div>
 
-			<a href="{{ article.permalink }}">
-				<div class="article">
-					<div class="article-img"><img src="{{ site.baseurl }}/assets/img/articles-thumbnails/{{ article.permalink }}-300x210.jpg" alt="" /></div>
-					<div class="article-txt">
-						<div class="article-title">{{ article.title }}</div>
-						<div class="article-description">{{ article.content | strip_html | truncatewords: 18}}</div>
+		<div class="articles-list">
+			{% assign articles = site.articles | sort: 'position' %}
+			{% for article in articles reversed %}
+
+				<a href="{{ article.permalink }}">
+					<div class="article">
+						<div class="article-img"><img src="{{ site.baseurl }}/assets/img/articles-thumbnails/{{ article.permalink }}-300x210.jpg" alt="" /></div>
+						<div class="article-txt">
+							<div class="article-title">{{ article.title }}</div>
+							<div class="article-description">{{ article.content | strip_html | truncatewords: 18}}</div>
+						</div>
 					</div>
-				</div>
-			</a>
+				</a>
 
-		{% endfor %}
-	</div>
+			{% endfor %}
+		</div> <!-- .articles-list -->
+	</div> <!-- #column-left-flex -->
 </div>
 <div id="column-right">
 	<div class="section border">

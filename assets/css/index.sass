@@ -14,10 +14,46 @@
 #motto:first-letter
     text-transform: uppercase
 
-.articles-list
+#column-left-flex
     display: flex
     flex-direction: column
     float: left
+
+#welcome
+    float: left
+
+#wallets
+    float: left
+    display: flex
+    flex-wrap: wrap
+    flex-direction: row
+    width: 100%
+
+#wallets a
+    display: flex
+    flex: 1 0 50%
+    padding: 10px
+    margin-bottom: 10px
+    font-size: 0.9em
+    text-decoration: none
+    background-color: #F8F8FB
+    border: 1px solid #E5E5E5
+    border-radius: 5px
+    -moz-border-radius: 5px
+    -webkit-border-radius: 5px
+
+#wallets a > div
+    padding: 10px
+    margin-top: auto
+    margin-bottom: auto
+    font-size: 0.95em
+
+#wallets a:hover
+    background-color: #F3F3F8
+    color: #111
+    border: 1px solid #888
+
+.articles-list
     padding: 10px 0px
     width: 100%
     border: 1px solid #E5E5E5
@@ -124,6 +160,9 @@
 @media screen and (max-width: 700px)
     #motto
         padding: 20px 0 25px
+
+    #wallets a
+        flex: 1 0 100%
 
     .article-txt
         padding: 15px 5px 5px 5px
