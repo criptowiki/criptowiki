@@ -26,7 +26,7 @@ Atrás quedaron los problemas mencionados cuando surge el dinero mercancía. Est
 Luego, los bienes que se utilizaron como dinero mercancía fueron aquellos hechos con metales preciosos, como lingotes, aros y cuchillos hechos en oro o plata, porque ofrecen una serie de ventajas con respecto a los otros bienes:
 - Son durables y almacenables: el ganado muere; el oro no
 - Tienen valor intrínseco: se podían utilizar para crear herramientas o armas
-- Son escazos
+- Son escasos
 - Son divisibles
 - Son más fáciles de transportar
 
