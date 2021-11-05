@@ -11,7 +11,7 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 			<h2 class="subtitle">Billeteras</h2>
 			<div id="wallets">
 				{% assign wallets = site.wallets | sort: 'position' %}
-				{% for wallet in wallets %}
+				{% for wallet in wallets limit: 2 %}
 					<a href="{{ wallet.permalink }}">
 						<img src="{{ site.baseurl }}/assets/img/{{ wallet.image }}" width="50" />
 						<div><span>{{ wallet.title }}</span></div>
@@ -22,7 +22,7 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 
 		<div class="articles-list">
 			{% assign articles = site.articles | sort: 'position' %}
-			{% for article in articles reversed %}
+			{% for article in articles reversed limit: 5 %}
 
 				<a href="{{ article.permalink }}">
 					<div class="article">
@@ -42,7 +42,7 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 	<div class="section border">
 		<h2 class="subtitle">Historia</h2>
 		<div class="content" id="history">
-			{% for event in site.history reversed %}
+			{% for event in site.history reversed limit: 3 %}
 			    {% assign image_array = event.image | split: "." %}
 		            <a href="{{ event.permalink }}">
 	        			<img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
