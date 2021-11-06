@@ -42,7 +42,8 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 	<div class="section border">
 		<h2 class="subtitle">Historia</h2>
 		<div class="content" id="history">
-			{% for event in site.history reversed limit: 3 %}
+			{% assign events = site.history | sort: 'permalink' | reverse %}
+			{% for event in events limit: 3 %}
 			    {% assign image_array = event.image | split: "." %}
 		            <a href="{{ event.permalink }}">
 	        			<img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
