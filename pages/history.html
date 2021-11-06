@@ -12,9 +12,10 @@ css: history
     <div class="content list">
 
         {% for event in site.history reversed %}
+        {% assign image_array = event.image | split: "." %}
             <a href="{{ event.permalink }}">
                 <div>
-                    <img src="/assets/img/{{ event.image }}" width="110" />
+                    <img src="/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
                 </div>
                 <span>{{ event.title }}</span>
             </a>
