@@ -4,8 +4,6 @@ permalink: /billeteras/brd
 image: wallets/brd-256x256.png
 ---
 
-{% include image.html url=page.image %}
-
 La billetera BRD (antes conocida como Bread Wallet) es ideal para quien desea iniciarse con criptomonedas por su facilidad de uso.
 
 ## Características
