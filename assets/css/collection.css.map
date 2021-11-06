@@ -5,8 +5,8 @@
 		"collection.sass"
 	],
 	"sourcesContent": [
-		"#page-content .center {\n    width: 750px !important; }\n\n#page-content img {\n    display: block;\n    margin: 0 auto; }\n\n.collection-myth img {\n    margin-bottom: 30px !important; }\n\n@media screen and (max-width: 600px) {\n    #page-content {\n        padding-top: 17px; } }\n"
+		"#page-content .center {\n    width: 750px !important; }\n\n.title-container {\n    display: flex;\n    float: left;\n    margin: 10px 0 20px 0;\n    width: 100%; }\n\n.title-container img {\n    margin-top: 4px;\n    height: 60px; }\n\n.title-container h1 {\n    padding-left: 20px; }\n\n#page-content .content img {\n    display: block;\n    margin: 0 auto; }\n\n.collection-myth img {\n    margin-bottom: 30px !important; }\n\n@media screen and (max-width: 600px) {\n    #page-content {\n        padding-top: 17px; } }\n"
 	],
 	"names": [],
-	"mappings": "AAAA,AAAA,aAAa,CAAC,OAAO,AAAC,CAClB,KAAK,CAAE,gBAAgB,CAAG,AAE9B,AAAA,aAAa,CAAC,GAAG,AAAC,CACd,OAAO,CAAE,KAAK,CACd,MAAM,CAAE,MAAM,CAAG,AAErB,AAAA,gBAAgB,CAAC,GAAG,AAAC,CACjB,aAAa,CAAE,eAAe,CAAG,AAErC,MAAM,8BACF,CAAA,AAAA,aAAa,AAAC,CACV,WAAW,CAAE,IAAI,CAAG,CAAA"
+	"mappings": "AAAA,AAAA,aAAa,CAAC,OAAO,AAAC,CAClB,KAAK,CAAE,gBAAgB,CAAG,AAE9B,AAAA,gBAAgB,AAAC,CACb,OAAO,CAAE,IAAI,CACb,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,aAAa,CACrB,KAAK,CAAE,IAAI,CAAG,AAElB,AAAA,gBAAgB,CAAC,GAAG,AAAC,CACjB,UAAU,CAAE,GAAG,CACf,MAAM,CAAE,IAAI,CAAG,AAEnB,AAAA,gBAAgB,CAAC,EAAE,AAAC,CAChB,YAAY,CAAE,IAAI,CAAG,AAEzB,AAAA,aAAa,CAAC,QAAQ,CAAC,GAAG,AAAC,CACvB,OAAO,CAAE,KAAK,CACd,MAAM,CAAE,MAAM,CAAG,AAErB,AAAA,gBAAgB,CAAC,GAAG,AAAC,CACjB,aAAa,CAAE,eAAe,CAAG,AAErC,MAAM,8BACF,CAAA,AAAA,aAAa,AAAC,CACV,WAAW,CAAE,IAAI,CAAG,CAAA"
 }
