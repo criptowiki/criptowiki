@@ -1,4 +1,7 @@
 # cripto.wiki
+
+![cripto.wiki](/assets/img/screenshots/index.png?raw=true "cripto.wiki")
+
 Is Bitcoin really a bubble? Is the dollar truly backed by gold? We invite you to ask yourself what money is and why privacy is a right. In addition, learn to protect yourself in cyberspace without the need of prior knowledge.
 
 
