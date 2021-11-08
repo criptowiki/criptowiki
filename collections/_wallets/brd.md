@@ -25,3 +25,8 @@ La billetera BRD (antes conocida como Bread Wallet) es ideal para quien desea in
 3. Luego muestra la [**frase de recuperación**]({{ site.baseurl }}/diccionario/frase-de-recuperacion-semilla-seed), que debemos anotar en un papel y guardar varias copias.
 
 4. Por último, nos pedirá que ingresemos algunas palabras de la frase de recuperación para **confirmar que las hayamos anotado correctamente**.
+
+
+## Importante
+
+Para guardar satoshis a largo plazo o para administrar una cantidad importante es preferible utilizar una billetera hardware.
