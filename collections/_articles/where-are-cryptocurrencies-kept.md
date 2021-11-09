@@ -1,59 +1,119 @@
 ---
-title: ¿Dónde se guardan las criptomonedas?
+title: ¿Dónde se guardan los bitcoins?
 permalink: donde-se-guardan-las-criptomonedas
 position: 2
-updated: 21/05/2020
+updated: 09/11/2021
 ---
 
-Así como para navegar por internet utilizamos navegadores web como Google Chrome o Safari, para enviar, recibir y “guardar” criptomonedas usamos billeteras (también conocidas como **monederos** o **wallets**). Decimos "guardar" porque en realidad las criptomonedas se guardan en una **blockchain**; la billetera funciona como una pantalla que nos permite interactuar con ellas.
+Así como para navegar por internet utilizamos navegadores web como Firefox o Safari, para enviar, recibir y “guardar” bitcoins usamos billeteras (también conocidas como **monederos** o en inglés, **wallets**). Decimos "guardar" porque en realidad los bitcoins existen como registros en la blockchain de Bitcoin; la billetera funciona como una pantalla que nos permite interactuar con ellos.
 
 ## ¿Qué es una billetera?
 
-Una billetera se encarga de generar y guardar las claves que nos permiten usar nuestras criptomonedas. Pero, ¿qué son estas claves? En su forma más básica, cuando uno crea una billetera, lo que hace es crear un espacio (puede ser virtual o físico) donde se guardan uno o más **pares de claves públicas y privadas**. Son pares porque se generan de a dos y están vinculadas entre sí, solo que no es posible conocer la clave privada a partir de la pública pero sí viceversa. Estas claves no las elige uno sino que **se generan al azar y no es necesario memorizarlas**. 
+Una billetera se encarga de generar y administrar las claves que nos permiten usar nuestros bitcoins. Pero, ¿qué son estas **claves**? Para entender, veamos lo que sucede cuando uno prepara una billetera, que es lo que uno debe hacer si quiere recibir bitcoins.
 
-La **clave privada** se ve como una serie de números y letras pero en realidad es un número muy grande elegido al azar que se representa de esa manera para no tener que escribir un número muy grande. Este es un ejemplo de una clave privada:
+<p class="important">Nota: Para una explicación concisa y práctica que nos permita comenzar a utilizar Bitcoin, en este artículo nos concentraremos en las billeteras Bitcoin determinísticas, que son las que permiten generar e importar una frase de recuperación. Hoy en día son las más utilizadas, por lejos.</p>
 
-> **5JxJWLzGpQoGG7QDiGXxLZZyARCdVYzxoAPTujkZsViS2MeZjfh**
 
-Nos permite enviar las criptomonedas a otra persona y es por eso que debemos mantenerla en secreto. **No debemos compartirla con nadie**, jamás, diga lo que diga. Con la clave privada lo que hacemos es firmar digitalmente las transacciones y así enviamos nuestras monedas a otras personas. Además, podremos acceder a nuestro dinero usando cualquier billetera que nos permita importar la clave privada, independientemente de la que hayamos usado antes.
+#### Olvidando lo conocido
 
-A partir de la clave privada se genera una **clave pública** y a partir de esta se genera una **dirección pública** (o simplemente dirección), que es la que debemos compartir para que nos envíen criptomonedas. Esta es la dirección asociada a la clave privada anterior:
+Las billeteras Bitcoin **son diferentes a las billeteras digitales de bancos o fintechs**. Si bien hay billeteras Bitcoin que solicitan datos personales, hay otras más orientadas a la privacidad que no solicitan ningún dato personal (al menos no explícitamente). No es necesario ingresar nombre ni dirección de correo electrónico ni número de celular. Estos datos no son necesarios porque es la **blockchain de Bitcoin** la que lleva un registro de cuántos y cuáles bitcoins hay en cada dirección, y es con la **frase de recuperación** que podemos acceder a determinados bitcoins.
 
-> **16HzCp2oAPnz2cc9q5vEjMbXzWau5je7Q9**
+Descifremos entonces qué es la frase de recuperación y qué es la blockchain de Bitcoin.
 
-**Es importante entender que en la billetera se guardan las claves y no las criptomonedas en sí. Las criptomonedas solo existen digitalmente y es en la blockchain donde se lleva un registro de cuántas monedas le pertenece a cada dirección pública**. Como comparación algo burda pero útil para comenzar a visualizar qué es una blockchain, podemos imaginarla como un documento de Excel online al cual todos podemos acceder, donde se registran todas las transacciones que ocurren en todo el mundo. Se registra qué dirección envía qué monedas a qué otra dirección, junto con la fecha y hora. Es **inmutable** porque una vez que se registró una transacción no hay manera de eliminarla o editarla. Además, es **transparente** porque cualquiera puede ver todos los registros. Hay páginas web (como [blockstream.info](https://blockstream.info/tx/recent)) que nos permiten explorar la blockchain de bitcoin, por ejemplo.
+<p class="important">Nota: Que una billetera no nos solicite explícitamente datos personales (como una dirección de correo electrónico) no significa que seamos usuarios anónimos. Por ejemplo, las billeteras podrían registrar, entre otros datos, nuestra dirección IP.</p>
 
-Si uno genera muchas direcciones en la billetera, ¿tiene que guardar una copia de cada clave privada generada (asociada a cada dirección nueva)? Depende, pero hoy en general la respuesta es no. Hay varios tipos de billeteras según cómo se crean las claves privadas. Dos importantes a conocer son las **no determinísticas** y las determinísticas. Las primeras, también conocidas como "billeteras aleatorias", generan claves privadas independientes, que no están vinculadas entre sí. Entonces si, por ejemplo, uno quisiera tener 3 direcciones, este tipo de billetera crea 3 claves privadas distintas, cada una asociada a una dirección. Este tipo de billetera es la que se usaba en los comienzos de bitcoin pero resulta poco práctica ya que uno tiene que hacer una copia de seguridad de la billetera cada vez que genera una dirección nueva.
 
-Hoy la mayoría de las billeteras son **determinísticas**, donde primero se genera una **semilla (también conocida como frase de recuperación)** y a partir de esta se generan todas las claves privadas y direcciones. Esta semilla es un número grande que se lo suele representar por medio de 12 o 24 palabras, donde el orden de las mismas importa. ¿Cuántas direcciones se pueden generar? Infinitas. Este un ejemplo de una semilla: **obtain sheriff early develop thing increase horror safe arrive honey hedgehog arm**
+## Blockchain de Bitcoin
 
-Solo tenemos que guardar una copia de la frase de recuperación en un lugar seguro al crear la billetera. Luego, si perdemos la billetera, solo debemos importar las palabras a una billetera nueva. La billetera automáticamente generará todas las claves privadas y direcciones correspondientes a partir de la semilla, y tendremos acceso a nuestro dinero nuevamente. **Como usuarios nunca nos cruzamos con las claves privadas y claves públicas.** Cuando le queremos enviar criptomonedas a alguien necesitamos saber su direccion, pero generalmente no la ingresamos a mano, sino que escaneamos un [código QR]({{ site.baseurl }}/diccionario/codigo-qr), o en todo caso, copiamos y pegamos la dirección. Nunca las copiamos a mano ya que es un método lento y podemos equivocarnos.
+Es un libro contable digital, descentralizado, público e inmutable. "Libro contable" porque registra todas las transacciones realizadas entre direcciones de manera cronológica; "descentralizado" porque el mismo registro completo se encuentra disponible en miles de computadoras o nodos; "público" porque cualquiera puede leer los registros (y verificarlos); "inmutable" porque una vez incorporada y verificada una transacción no se puede editar ni eliminar.
+
+Cuando uno realiza una transacción, donde se incluye la cantidad de [satoshis]({{ site.baseurl }}/diccionario/satoshi) a enviar, la dirección destinataria que recibirá los satoshis y la comisión que uno está dispuesto a pagar, al principio estará pendiente de confirmación. Las confirmación lleva entre 10 a 60 minutos en promedio. Cuanto más comisión se pague, menor será el tiempo de espera[^1].
+
+Las transacciones confirmadas se van agrupando en bloques de información, donde cada bloque añadido enlaza solo al bloque inmediatamente anterior, y así hasta llegar al primer bloque; de ahí su nombre "blockchain" o en español, "cadena de bloques". Cada uno de estos bloques se añade a la blockchain cada 10 minutos en promedio porque así está diseñado (por eso la espera mínima mencionada) y solo se añade una vez que una de las tantas computadoras que se encuentran realizando cálculos, conocidas como "mineros", efectivamente encuentra la solución. En realidad, como a una sola computadora le llevaría mucho tiempo, trabajan juntas en "piletas de minería" ("mining pools").
+
+Hay exploradores de la blockchain de Bitcoin, como **[Blockstream Explorer](https://blockstream.info/)**, que nos permiten ver en detalle los últimos bloques añadidos y las últimas transacciones realizadas.
+
+<p class="important">¿Qué se calcula exactamente? ¿Por qué 10 minutos? Seguramente tendrás muchas preguntas. Blockchain es solo una de las tantas tecnologías que utiliza Bitcoin. En próximos artículos veremos en mayor detalle cómo la genial combinación de ellas da forma a Bitcoin.</p>
+
+#### Frase de recuperación
+
+Las billeteras muestran por lo menos 2 opciones en su inicio:
+> 1) Generar (o crear) una frase de recuperación
+
+> 2) Importar una frase de recuperación
+
+Como es posible observar, las billeteras Bitcoin de hoy en día se centran en la frase de recuperación, y es por eso que es tan importante entender qué implica.
+
+Cuando coloquialmente se habla de "crear una billetera Bitcoin" en realidad significa, en la práctica, generar una frase de recuperación. Para eso elegimos dicha opción y el programa generará y nos mostrará la frase de recuperación, que debemos guardar en absoluto secreto.
+
+Dependiendo de la billetera, la frase de recuperación está formada por 12 a 27 palabras. Uno no elige las palabras ni el orden. No debemos compartir mediante mensaje de texto ni correo electrónico ni mensajería, ni siquiera en un mensaje a nosotros mismos. Tampoco debemos imprimir ni tomar una fotografía ni realizar captura de pantalla. No debemos compartirla con nadie, jamás, diga lo que diga.
+
+{% include image.html url="articles/ejemplo-frase-de-recuperacion.png" description="Ejemplo de una frase de recuperación." width="500" %}
+
+#### ¿Por qué es tan importante la frase de recuperación?
+
+La frase de recuperación, también conocida como "frase semilla" (en inglés, "*seed phrase*"), es una manera práctica de representar un número aleatorio muy grande (que como usuarios nunca vemos). Detrás de escena lo que sucede cuando seleccionamos "Crear billetera" es que el programa genera un número aleatorio enorme. Para poder copiarlo fácilmente se representa mediante palabras en un determinado orden. Es a partir del número que se representa mediante la frase que se pueden generar ilimitada cantidad de direcciones (para recibir bitcoins) y de cada una se deriva su correspondiente clave privada (para poder enviarlos)[^2][^3].
+
+En pocas palabras, quien tenga acceso a la frase de recuperación puede acceder a los bitcoins. Por eso la importancia de mantenerla en secreto. Como usuarios solo vemos la frase de recuperación al crear la billetera (o al importarla). Veremos direcciones a medida que las generemos cada vez que queremos recibir un pago. Salvo excepciones, no nos cruzaremos con claves privadas ni públicas.
+
+## Direcciones y claves
+
+Cuando uno ingresa una frase de recuperación en una billetera, la billetera deriva (utilizando matemática) las claves y las direcciones.
+
+Siguiendo el ejemplo previo, si uno ingresa dicha frase de recuperación en la billetera [BRD]({{ site.baseurl }}/billeteras/brd), selecciona Bitcoin y selecciona "recibir", la billetera generará y mostrará la siguiente dirección: 
+
+> 1MCmRGGmgUqURMy3LiVJb38Q323FBvKThS
+
+La dirección que nos muestre la compartimos a quien nos quiera enviar bitcoins, ya sea así textual o mediante un [código QR]({{ site.baseurl }}/diccionario/codigo-qr) (es lo mismo pero con otra forma).
+
+<p class="important">Nota: La frase de recuperación y la dirección presentadas son solo ejemplos. No utilizar ni enviar satoshis allí.</p>
+
+
+##### Ejemplo
+
+Si perdemos nuestro dispositivo, por ejemplo un celular donde teníamos 0.01 BTC, solo basta con conseguir otro dispositivo donde descargaremos una billetera (que puede ser de otra empresa) y esta vez elegiremos la otra opción (es decir "importar una frase de recuperación") e ingresamos las palabras de manera ordenada. En realidad, dicho 0.01 BTC **nunca estuvo en el celular; solo existe como un registro en la blockchain de Bitcoin**. Por eso al ingresar la frase de recuperación en otra billetera en otro celular estaremos importando parte de la información necesaria para poder acceder a esos 0.01 BTC.
+
+Nótese que en ningún momento estamos ingresando una dirección de correo electrónico o número de teléfono.
+
+<p class="important">Nota: Decimos que la frase de recuperación es "parte de la información necesaria" para tener acceso a los bitcoins porque además de ingresar la frase de recuperación, a veces hay que ingresar la "ruta de derivación". (Ver abajo).</p>
+
+
 
 ## Información muy importante
 
-- **Podemos tener tantas billeteras y direcciones como queramos sin tener que aportar datos personales** (aunque hay billeteras que sí piden datos, pero uno siempre puede elegir alternativas si quisiera).
-- **Debemos guardar una copia (o varias) de la semilla o clave privada**. En caso de perder la billetera, siempre podremos acceder a nuestras criptomonedas con esa información.
-- **Si perdemos la semilla o clave privada, perdemos todas las criptomonedas guardadas allí**. Es imposible recuperarlas y no hay a quien reclamarle.
-- **Cada criptomoneda tiene asociado un tipo de dirección determinado y no es posible tener en una única dirección todas las criptomonedas que queramos**. Entonces si enviamos, por ejemplo, bitcoins (BTC) a una dirección de otra criptomoneda, por ejemplo, ether (ETH), las perderemos.
-- **No es necesario tener conexión a internet para crear una billetera**. Por increíble que suene, las claves se generan mediante algoritmos que generan números muy grandes. La blockchain no se tiene que actualizar para incorporar nuestras direcciones. Es extremadamente poco probable (sino es que imposible) que otra persona genere las mismas claves.
+1. **Podemos generar tantas frases de recuperación como queramos, gratuitamente y sin tener que ingresar datos personales**. Si bien existen billeteras que sí piden datos, uno siempre puede elegir alternativas más privadas.
+
+2. **Cada frase de recuperación nos permite generar ilimitada cantidad de direcciones. Distintas frases de recuperación nos dan acceso a diferentes direcciones**.
+
+3. **Debemos guardar varias copias de la frase de recuperación en diferentes lugares**. En caso de perder el dispositivo (sea celular o billetera hardware, por ejemplo), siempre podremos acceder a los satoshis con esa información.
+
+4. **Si perdemos toda copia de la frase de recuperación, perdemos acceso a todos los satoshis "guardados" en las direcciones asociadas**. Es imposible recuperar el acceso y no hay a quién o qué reclamarle.
+
+5. **No es necesario tener conexión a internet para crear una frase de recuperación**. La blockchain de Bitcoin no tiene que incorporar las direcciones a medida que las generamos y tampoco tenemos que conectarnos a internet para recibir bitcoins. Solo es necesario que la persona que realiza un pago en Bitcoin se conecte para poder "mover" sus bitcoins a nuestra dirección. Es extremadamente poco probable (sino es que imposible) que otra persona genere las mismas claves y direcciones.
+
+
+## Ruta de derivación
+
+Usualmente como usuarios no vemos la "ruta de derivación" porque muchas billeteras no la muestran con la intención de mejorar la experiencia de usuario. Sin embargo, dado que la ruta de derivación varía entre billeteras, si eventualmente la organización que desarrollaba la billetera que uno utiliza deja de operar, cuando queramos acceder utilizando otra billetera, necesitaremos la ruta derivación para poder importarla correctamente.
+
+Como hemos visto, utilizando diferentes frases de recuperación es posible generar diferentes direcciones. Ahora expandimos: con una misma frase de recuperación, si se modifica la ruta de derivación, se tendrá acceso a **otro** conjunto ilimitado de direcciones.
+
+No es necesario entrar en pánico si uno no tiene a mano la ruta de derivación dado que hay sitios web como **[walletsrecovery.org](https://walletsrecovery.org/)** que llevan un registro de las rutas de derivación que utilizan distintas billeteras.
+
 
 ## Tipos de billeteras
 
-Hay distintas maneras de clasificar a los distintos tipos de billeteras. Una es **según la plataforma sobre la que funciona**:
-- Escritorio
-- Web
-- Móvil
-- Hardware
-- Papel
+Hay distintas maneras de clasificar a los distintos tipos de billeteras. Una es **según la plataforma sobre la que funciona**: escritorio, web, móvil, hardware.
 
-Otra manera de categorizarlas es según **si la clave privada es expuesta a internet en algún momento o no**:
-- Billetera caliente (o hot wallet)
-- Billetera fría (o cold wallet)
+Otra manera de categorizarlas es según **si la frase de recuperación entra en contacto con internet en algún momento o no**: billetera caliente (o *hot wallet*) y billetera fría (o *cold wallet*).
 
 > Conoce las [ventajas y desventajas de cada tipo de billetera]({{ site.baseurl }}/tipos-de-billeteras).
 
+
 ### Bibliografía
-<div id="bibliography">
-<div>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc</div>
-<div>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc</div>
-</div>
+
+[^1]: Saylor Academy. PRDV151: Bitcoin for Everybody. How Bitcoin Works Under the Hood. Retrieved from [https://learn.saylor.org/mod/page/view.php?id=30739](https://learn.saylor.org/mod/page/view.php?id=30739)
+
+[^2]: Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from [https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc)
+
+[^3]: Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from [https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc)
