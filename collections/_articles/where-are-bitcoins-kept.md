@@ -37,6 +37,8 @@ Hay exploradores de la blockchain de Bitcoin, como **[Blockstream Explorer](http
 
 #### Frase de recuperación
 
+{% include image.html url="articles/ejemplo-frase-de-recuperacion.png" description="Ejemplo de una frase de recuperación." width="500" %}
+
 Las billeteras muestran por lo menos 2 opciones en su inicio:
 > 1) Generar (o crear) una frase de recuperación
 
@@ -47,8 +49,6 @@ Como es posible observar, las billeteras Bitcoin de hoy en día se centran en la
 Cuando coloquialmente se habla de "crear una billetera Bitcoin" en realidad significa, en la práctica, generar una frase de recuperación. Para eso elegimos dicha opción y el programa generará y nos mostrará la frase de recuperación, que debemos guardar en absoluto secreto.
 
 Dependiendo de la billetera, la frase de recuperación está formada por 12 a 27 palabras. Uno no elige las palabras ni el orden. No debemos compartir mediante mensaje de texto ni correo electrónico ni mensajería, ni siquiera en un mensaje a nosotros mismos. Tampoco debemos imprimir ni tomar una fotografía ni realizar captura de pantalla. No debemos compartirla con nadie, jamás, diga lo que diga.
-
-{% include image.html url="articles/ejemplo-frase-de-recuperacion.png" description="Ejemplo de una frase de recuperación." width="500" %}
 
 #### ¿Por qué es tan importante la frase de recuperación?
 
