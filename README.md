@@ -1,17 +1,20 @@
-# cripto.wiki
-
+# [cripto.wiki](https://cripto.wiki)
 ![cripto.wiki](/assets/img/screenshots/index.png?raw=true "cripto.wiki")
 
 Is Bitcoin really a bubble? Is the dollar truly backed by gold? We invite you to ask yourself what money is and why privacy is a right. In addition, learn to protect yourself in cyberspace without the need of prior knowledge.
 
 
-## Content
-In this repository you will find the source code of [cripto.wiki](https://cripto.wiki), created with [Jekyll](https://jekyllrb.com/), a static site generator. There are 2 important branches:
-- **main**: the development branch; contains the full source code, including the file [.github/workflows/jekyll.yml](.github/workflows/jekyll.yml), which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
-- **gh-pages**: the production branch; its static content is created automatically on every push to the main branch.
+## For new visitors
+To read and learn, please visit [https://cripto.wiki](https://cripto.wiki).
 
 
-## Installation (for developers)
+## For developers
+In this repository you will find the source code of **cripto.wiki**, created with [Jekyll](https://jekyllrb.com/), a static site generator. There are 2 important branches:
+- **main**: the full source code of the website including the file [.github/workflows/jekyll.yml](.github/workflows/jekyll.yml), which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
+- **gh-pages**: the actually served built website; its static content is automatically built on every push to the `main` branch.
+
+
+### Installation
 To run and develop this website in your computer:
 
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/).
@@ -36,7 +39,7 @@ bundle exec jekyll serve
 http://localhost:4000
 ```
 
-## Contributing
+### Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/criptowiki/criptowiki. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
