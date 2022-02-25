@@ -21,15 +21,14 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 		</div>
 
 		<div class="articles-list">
-			{% assign articles = site.articles | sort: 'position' %}
-			{% for article in articles reversed limit: 5 %}
+			{% for post in site.posts limit: 5 %}
 
-				<a href="{{ article.permalink }}">
+				<a href="{{ post.permalink }}">
 					<div class="article">
-						<div class="article-img"><img src="{{ site.baseurl }}/assets/img/articles-thumbnails/{{ article.permalink }}-300x210.jpg" alt="" /></div>
+						<div class="article-img"><img src="{{ site.baseurl }}/assets/img/articles-thumbnails/{{ post.permalink }}-300x210.jpg" alt="" /></div>
 						<div class="article-txt">
-							<div class="article-title">{{ article.title }}</div>
-							<div class="article-description">{{ article.content | strip_html | truncatewords: 18}}</div>
+							<div class="article-title">{{ post.title }}</div>
+							<div class="article-description">{{ post.content | strip_html | truncatewords: 18}}</div>
 						</div>
 					</div>
 				</a>

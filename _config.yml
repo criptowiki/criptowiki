@@ -12,8 +12,6 @@ social:
 
 collections_dir: collections
 collections:
-  articles:
-    output: true
   history:
     output: true
   tutorials:
@@ -36,7 +34,7 @@ defaults:
       layout: 'default'
   - scope:
       path: ''
-      type: 'articles'
+      type: 'posts'
     values:
       layout: 'article'
   - scope:
