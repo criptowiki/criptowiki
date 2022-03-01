@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://cripto.wiki/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cripto.wiki/" rel="alternate" type="text/html" /><updated>2022-03-01T03:35:44+00:00</updated><id>https://cripto.wiki/feed.xml</id><title type="html">cripto.wiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">¿Cómo comprar bitcoin?</title><link href="https://cripto.wiki/como-comprar-bitcoin" rel="alternate" type="text/html" title="¿Cómo comprar bitcoin?" /><published>2019-10-03T00:00:00+00:00</published><updated>2019-10-03T00:00:00+00:00</updated><id>https://cripto.wiki/how-to-buy-bitcoin</id><content type="html" xml:base="https://cripto.wiki/como-comprar-bitcoin"><![CDATA[<p>En sus comienzos, comprar bitcoin era una tarea complicada dado que muy pocas empresas y personas vendían, y había poca información sobre el tema en internet. Hoy ya no es así. Mes tras mes surgen en el mundo nuevas empresas que compiten por vender bitcoins rápidamente, con menores comisiones y ofreciendo diversos medios de pago. También surgen nuevos métodos para comprar entre personas.</p>
+
+<p>Veamos entonces los distintos caminos y pasos a seguir para comprar bitcoins.</p>
+
+<h2 id="paso-1-crear-una-billetera">Paso 1: crear una billetera</h2>
+
+<p>Dado que bitcoin solo existe digitalmente, <a href="/donde-se-guardan-las-criptomonedas">necesitamos crear nuestra billetera, que generará y administrará las claves que nos permiten enviar y recibir bitcoins</a>. Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y la facilidad de uso que uno requiera.</p>
+
+<p>Es muy importante conocer el funcionamiento básico de una billetera para poder elegir la que se adecúe a nuestras necesidades y para no perder nuestro dinero. <a href="/tipos-de-billeteras">Si no tienes una billetera o crees que puede ser insegura la que tienes, lee este otro artículo práctico sobre los distintos tipos de billeteras antes de continuar</a>.</p>
+
+<h2 id="paso-2-comprar-los-bitcoins">Paso 2: comprar los bitcoins</h2>
+
+<p>Una vez que tenemos nuestra billetera, ya tenemos un lugar donde guardar los bitcoins y entonces ahora sí podemos comprarlos. Hay múltiples maneras y la opción que uno elija dependerá de muchos factores, como el país donde viva y del método de pago (efectivo, transferencia bancaria, PayPal, etc).</p>
+
+<p>Las opciones son: casa de cambio en línea, cajero automático de bitcoins y entre personas.</p>
+
+<h3 id="a-casa-de-cambio-online-o-exchange">A) Casa de cambio online (o “exchange”)</h3>
+
+<p>Es una empresa que vende bitcoins (u otras criptomonedas) en línea.</p>
+
+<p class="important">Podemos identificar 3 tipos de casas de cambio según el tipo de dinero con el que operan: las fiat-cripto (permiten comprar y vender criptomonedas con monedas nacionales como dólares, pesos u otras, dependiendo del país donde se encuentre); las cripto-cripto (permiten comprar criptomonedas con otras criptomonedas); y las que ofrecen ambas opciones. En este artículo nos interesan las del primer o tercer tipo.</p>
+
+<p>La mayoría de los exchanges que operan con dinero fiat tienen una dinámica similar:</p>
+<ol>
+  <li>Uno se registra ingresando una dirección de correo electrónico, una contraseña y varios datos personales.</li>
+  <li>Una vez que la casa de cambio verifica los datos aportados (<a href="/diccionario/kyc">KYC</a>), el siguiente paso es “fondear la cuenta”, es decir, enviar el dinero a la cuenta. Esto puede ser a través de transferencia bancaria, tarjeta de crédito, efectivo u otras, y dependerá de la empresa.</li>
+  <li>Luego de acreditarse el saldo en la cuenta (el tiempo de espera dependerá de la empresa y del método de pago) ya es posible comprar los bitcoins. La casa de cambio muestra a qué precio vende un bitcoin y si uno está de acuerdo, compra con el dinero que ya tiene acreditado en la cuenta. (<a href="/mitos/solo-es-posible-comprar-un-bitcoin-entero">No es necesario comprar un bitcoin entero</a>).</li>
+  <li>Los bitcoins están ahora en una dirección de una billetera que la casa de cambio creó y asignó a la cuenta del usuario. El problema es que como es la empresa la que generó las claves de la billetera, es la empresa la que tiene el control sobre esos bitcoins. Es por eso que debemos enviarlos a la billetera que creamos en el paso 1, sobre la cual tenemos el control total porque solo nosotros tenemos la frase de recuperación.</li>
+</ol>
+
+<p>Hay algunas casas de cambio que simplifican los últimos 2 pasos y en lugar de otorgarnos una billetera, nos piden una dirección y envían los bitcoins ahí directamente.</p>
+
+<p class="important">Antes de registrarse en una casa de cambio es importante averiguar qué métodos de pago ofrecen y cuáles son sus comisiones.</p>
+
+<h3 id="b-cajero-automático-de-bitcoins-o-bitcoin-atm">B) Cajero automático de bitcoins (o “bitcoin ATM”)</h3>
+
+<p>Los cajeros automáticos de bitcoins aceptan, en su mayoría, únicamente efectivo. Simplemente hay que dirigirse al mismo y seguir las intrucciones en pantalla. Para saber dónde se encuentran localizados podemos visitar <a href="https://coinatmradar.com/bitcoin-atm-map/">Coin ATM Radar</a>.</p>
+
+<p>Recordar que previamente debemos crear una billetera y llevar los documentos legales necesarios (suelen ser documento de identidad o pasaporte). Si uno no tiene una billetera, el cajero automático crea una en el momento pero es menos seguro ya que debemos confiar en la empresa que la creó.</p>
+
+<h3 id="c-entre-personas">C) Entre personas</h3>
+
+<p>Comprarle a una persona no necesariamente implica encontrarse con ella cara a cara. Hay 2 maneras. La más obvia es comprarle a alguien que uno conozca que venda bitcoins. Existe <a href="https://decrypt.co/2018/12/11/buying-bitcoin-from-the-back-of-a-london-taxi/">el caso del taxista londinense que vende bitcoins en su taxi</a>, pero es un caso muy particular. ¿Qué hace uno si no conoce a nadie que venda? Recurre a la segunda opción que es usar un sitio web que conecta compradores y vendedores individuales. Servicios populares a nivel global son:</p>
+<blockquote>
+  <p><a href="https://localbitcoins.com/">LocalBitcoins</a></p>
+</blockquote>
+
+<blockquote>
+  <p><a href="https://www.hodlhodl.com/">HodlHodl</a></p>
+</blockquote>
+
+<blockquote>
+  <p><a href="https://bisq.network">Bisq</a></p>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[En sus comienzos, comprar bitcoin era una tarea complicada dado que muy pocas empresas y personas vendían, y había poca información sobre el tema en internet. Hoy ya no es así. Mes tras mes surgen en el mundo nuevas empresas que compiten por vender bitcoins rápidamente, con menores comisiones y ofreciendo diversos medios de pago. También surgen nuevos métodos para comprar entre personas.]]></summary></entry><entry><title type="html">Tipos de billeteras</title><link href="https://cripto.wiki/tipos-de-billeteras" rel="alternate" type="text/html" title="Tipos de billeteras" /><published>2019-10-01T00:00:00+00:00</published><updated>2019-10-01T00:00:00+00:00</updated><id>https://cripto.wiki/types-of-wallets</id><content type="html" xml:base="https://cripto.wiki/tipos-de-billeteras"><![CDATA[<p><a href="/donde-se-guardan-las-criptomonedas">Ya vimos dónde se guardan los bitcoins y el funcionamiento básico de una billetera</a>. Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir bitcoins. Hay distintas maneras de clasificar a los distintos tipos de billeteras.</p>
+
+<h2 id="según-su-plataforma">Según su plataforma</h2>
+
+<p>Una es <strong>según la plataforma sobre la cual funciona</strong>: escritorio, web, móvil, hardware y de papel.</p>
+
+<h3 id="1-escritorio">1) Escritorio</h3>
+
+<p>Son <strong>programas que funcionan en computadoras personales (PC)</strong>. Suelen contar con funcionalidades avanzadas, y también <em>pueden</em> ser muy privadas, pero al mismo tiempo, si se infecta con software malicioso la computadora, los bitcoins pueden ser robados. Es por esto que es solo para usuarios más experimentados.</p>
+
+<p>Bitcoin Core, Electrum y Wasabi son ejemplos de billeteras de escritorio.</p>
+
+<h3 id="2-web">2) Web</h3>
+
+<p>Son <strong>sitios web</strong> que ofrecen la posibilidad de crear una cuenta con pocos, o ningún, dato personal explícito (si piden, generalmente no es más que una dirección de correo electrónico y una contraseña).</p>
+
+<p>Muchas veces, al crear la cuenta, la página web nos muestra una <a href="/diccionario/frase-de-recuperacion-semilla-seed">frase de recuperación</a>, de la cual tenemos que realizar varias copias en distintos lugares. De esta manera, por más que la empresa desaparezca, podemos, en teoría, recuperar nuestros bitcoins. Decimos “en teoría” porque la realidad es que en todo momento debemos confiar que la empresa que nos creó la billetera no guarde una copia de la frase de recuperación con la que tendrían acceso a los bitcoins.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/billetera-blockchaincom-750x.png" />
+	<figcaption>Blockchain.com es un ejemplo de billetera web.</figcaption>
+</figure>
+
+<h3 id="3-móvil">3) Móvil</h3>
+
+<p>Son <strong>apps para smartphones</strong>. Se distinguen por ser muy fáciles de usar. Son ideales para moverse en la calle, para pequeñas operaciones del día a día.</p>
+
+<p>BRD y Samourai son ejemplos de billeteras móviles.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/billetera-brd.png" width="500" />
+	<figcaption>BRD, una billetera de criptomonedas para smartphones. Fuente: <a href="https://brd.com/">brd.com</a></figcaption>
+</figure>
+
+<h3 id="4-hardware">4) Hardware</h3>
+
+<p>Son <strong>dispositivos que tienen el tamaño de un pendrive y cuentan con una pantalla y unos pocos botones</strong>. Se conectan a una computadora, celular o tablet donde previamente descargamos un programa que utilizamos para interactuar con la billetera.</p>
+
+<p>Son consideradas muy seguras porque las transacciones se firman con la clave privada <strong>en el dispositivo</strong> (la clave privada no sale del mismo). Luego se transmite la transacción firmada a los nodos y se añadirá a la blockchain de Bitcoin si es válida.</p>
+
+<p>Cuando uno configura una nueva billetera de hardware e ingresa una frase de recuperación que generó previamente en otra billetera, lo hace directamente utilizando los botones de la billetera de hardware. De esta manera la frase de recuperación no es ingresada mediante un teclado en una computadora que podría estar comprometida.</p>
+
+<p>Ledger y Trezor son ejemplos de empresas reconocidas que producen billeteras de hardware.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/ledger-nano-s.png" />
+	<figcaption>Ledger Nano S, una billetera de hardware.</figcaption>
+</figure>
+
+<h3 id="5-papel">5) Papel</h3>
+
+<p class="important">
+No es recomendable utilizar este tipo de billeteras.
+</p>
+
+<p>La claves <strong>se imprimen literalmente en un papel, fuera de línea</strong>. Es considerado un método obsoleto y no es recomendable.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/billetera-papel-bitcoin.png" />
+	<figcaption>Billetera de papel. No recomendables.</figcaption>
+</figure>
+
+<p>Al enviar una clave privada a una impresora, se aumenta la superficie de ataque y hay más cosas que podrían salir mal: la impresora podría estar conectada a internet o a una red inalámbrica, y la clave ser interceptada; se podría recuperar la información de la impresora; el programa para generar las claves podría estar manipulado; entre otros riesgos que con otras billeteras no existen.</p>
+
+<p>Las billeteras de papel son de la época donde se utilizaban las “billeteras aleatorias”. Cada vez que uno quería una nueva dirección para recibir bitcoins, debía generar una clave privada y realizar una copia de esta clave. Hoy en día las billeteras generan una frase de recuperación. Al guardar una copia de la frase de recuperación, uno está realizando una copia de seguridad de ilimitada cantidad de claves privadas y direcciones en un solo movimiento.</p>
+
+<p>Si lo que uno quiere es almacenar la frase de recuperación en un medio más duradero que el papel, hay artefactos de metal que permiten hacerlo. Por ejemplo, SeedPlate.</p>
+
+<p class="important">
+En casi todos los casos, las billeteras no solicitan datos personales explícitamente. Sin embargo, esto no significa que sean anónimas, ya que pueden registrar datos importantes como nuestra dirección IP.
+</p>
+
+<h2 id="según-su-conexión-a-internet">Según su conexión a internet</h2>
+
+<p>Otra manera de categorizarlas es según <strong>si la clave privada de la billetera entra en contacto con internet o no</strong>:</p>
+
+<ul>
+  <li><strong>Billeteras calientes</strong> (también conocidas como “almacenamiento caliente”, “almacenamiento en línea” o “<em>hot wallets</em>”). Las clave privada maestra es generada en un dispositivo conectado a internet, lo cual las hace menos seguras ya que si alguien obtiene una copia de esa clave puede enviarse todos los bitcoins “guardados” en esas direcciones asociadas. Pero cuentan con la ventaja de que son <strong>más fáciles y rápidas de utilizar</strong>.</li>
+</ul>
+
+<p>Las billeteras web son un ejemplo de este tipo de billeteras.</p>
+
+<ul>
+  <li><strong>Billeteras frías</strong> (también conocidas como “almacenamiento en frío”, “almacenamiento fuera de línea o “<em>cold wallets</em>”). Las clave privada maestra nunca entra en contacto con internet. Son muy seguras porque las transacciones se firman con la clave privada fuera de línea y luego se difunden los detalles de la operación a la blockchain a través de internet. Como las billeteras frías gratuitas son complicadas de utilizar, y las billeteras frías fáciles de utilizar hay que comprarlas (las de hardware), se usan para guardar el dinero a largo plazo, como una suerte de caja de seguridad privada donde tenemos el control absoluto.</li>
+</ul>
+
+<p>Las billeteras de hardware son un ejemplo de este tipo de almacenamiento.</p>
+
+<p class="important">Como las billeteras frías son más seguras, se suele recomendar tener gran parte del dinero en este tipo de almacenamiento para guardar a largo plazo y una pequeña parte en billeteras calientes para las operaciones del día a día.</p>
+
+<p>Para más información sobre billeteras de bitcoin, puedes compararlas en <a href="https://bitcoin.org/es/elige-tu-monedero">bitcoin.org</a>.</p>
+
+<p>Las billeteras mencionadas son solo algunas de las opciones y criptowiki no garantiza la seguridad de ninguna. Sin embargo, veremos cada una en más detalle para poder elegir con libertad.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Ya vimos dónde se guardan los bitcoins y el funcionamiento básico de una billetera. Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir bitcoins. Hay distintas maneras de clasificar a los distintos tipos de billeteras.]]></summary></entry><entry><title type="html">¿Dónde se guardan los bitcoins?</title><link href="https://cripto.wiki/donde-se-guardan-los-bitcoins" rel="alternate" type="text/html" title="¿Dónde se guardan los bitcoins?" /><published>2019-09-29T00:00:00+00:00</published><updated>2019-09-29T00:00:00+00:00</updated><id>https://cripto.wiki/where-are-bitcoins-kept</id><content type="html" xml:base="https://cripto.wiki/donde-se-guardan-los-bitcoins"><![CDATA[<p>Así como para navegar por internet utilizamos navegadores web como Firefox o Safari, para enviar, recibir y “guardar” bitcoins usamos billeteras (también conocidas como <strong>monederos</strong> o en inglés, <strong>wallets</strong>). Decimos “guardar” porque en realidad los bitcoins existen como registros en la blockchain de Bitcoin; la billetera funciona como una pantalla que nos permite interactuar con ellos.</p>
+
+<h2 id="qué-es-una-billetera">¿Qué es una billetera?</h2>
+
+<p>Una billetera se encarga de generar y administrar las claves que nos permiten usar nuestros bitcoins. Pero, ¿qué son estas <strong>claves</strong>? Para entender, veamos lo que sucede cuando uno prepara una billetera, que es lo que uno debe hacer si quiere recibir bitcoins.</p>
+
+<p class="important">Nota: Para una explicación concisa y práctica que nos permita comenzar a utilizar Bitcoin, en este artículo nos concentraremos en las billeteras Bitcoin determinísticas, que son las que permiten generar e importar una frase de recuperación. Hoy en día son las más utilizadas, por lejos.</p>
+
+<h4 id="olvidando-lo-conocido">Olvidando lo conocido</h4>
+
+<p>Las billeteras Bitcoin <strong>son diferentes a las billeteras digitales de bancos o fintechs</strong>. Si bien hay billeteras Bitcoin que solicitan datos personales, hay otras más orientadas a la privacidad que no solicitan ningún dato personal (al menos no explícitamente). No es necesario ingresar nombre ni dirección de correo electrónico ni número de celular. Estos datos no son necesarios porque es la <strong>blockchain de Bitcoin</strong> la que lleva un registro de cuántos y cuáles bitcoins hay en cada dirección, y es con la <strong>frase de recuperación</strong> que podemos acceder a determinados bitcoins.</p>
+
+<p>Descifremos entonces qué es la frase de recuperación y qué es la blockchain de Bitcoin.</p>
+
+<p class="important">Nota: Que una billetera no nos solicite explícitamente datos personales (como una dirección de correo electrónico) no significa que seamos usuarios anónimos. Por ejemplo, las billeteras podrían registrar, entre otros datos, nuestra dirección IP.</p>
+
+<h2 id="blockchain-de-bitcoin">Blockchain de Bitcoin</h2>
+
+<p>Es un libro contable digital, descentralizado, público e inmutable. “Libro contable” porque registra todas las transacciones realizadas entre direcciones de manera cronológica; “descentralizado” porque el mismo registro completo se encuentra disponible en miles de computadoras o nodos; “público” porque cualquiera puede leer los registros (y verificarlos); “inmutable” porque una vez incorporada y verificada una transacción no se puede editar ni eliminar.</p>
+
+<p>Cuando uno realiza una transacción, donde se incluye la cantidad de <a href="/diccionario/satoshi">satoshis</a> a enviar, la dirección destinataria que recibirá los satoshis y la comisión que uno está dispuesto a pagar, al principio estará pendiente de confirmación. Las confirmación lleva entre 10 a 60 minutos en promedio. Cuanto más comisión se pague, menor será el tiempo de espera<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>Las transacciones confirmadas se van agrupando en bloques de información, donde cada bloque añadido enlaza solo al bloque inmediatamente anterior, y así hasta llegar al primer bloque; de ahí su nombre “blockchain” o en español, “cadena de bloques”. Cada uno de estos bloques se añade a la blockchain cada 10 minutos en promedio porque así está diseñado (por eso la espera mínima mencionada) y solo se añade una vez que una de las tantas computadoras que se encuentran realizando cálculos, conocidas como “mineros”, efectivamente encuentra la solución. En realidad, como a una sola computadora le llevaría mucho tiempo, trabajan juntas en “piletas de minería” (“mining pools”).</p>
+
+<p>Hay exploradores de la blockchain de Bitcoin, como <strong><a href="https://blockstream.info/">Blockstream Explorer</a></strong>, que nos permiten ver en detalle los últimos bloques añadidos y las últimas transacciones realizadas.</p>
+
+<p class="important">¿Qué se calcula exactamente? ¿Por qué 10 minutos? Seguramente tendrás muchas preguntas. Blockchain es solo una de las tantas tecnologías que utiliza Bitcoin. En próximos artículos veremos en mayor detalle cómo la genial combinación de ellas da forma a Bitcoin.</p>
+
+<h4 id="frase-de-recuperación">Frase de recuperación</h4>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/ejemplo-frase-de-recuperacion.png" width="500" />
+	<figcaption>Ejemplo de una frase de recuperación.</figcaption>
+</figure>
+
+<p>Las billeteras muestran por lo menos 2 opciones en su inicio:</p>
+<blockquote>
+  <p>1) Generar (o crear) una frase de recuperación</p>
+</blockquote>
+
+<blockquote>
+  <p>2) Importar una frase de recuperación</p>
+</blockquote>
+
+<p>Como es posible observar, las billeteras Bitcoin de hoy en día se centran en la frase de recuperación, y es por eso que es tan importante entender qué implica.</p>
+
+<p>Cuando coloquialmente se habla de “crear una billetera Bitcoin” en realidad significa, en la práctica, generar una frase de recuperación. Para eso elegimos dicha opción y el programa generará y nos mostrará la frase de recuperación, que debemos guardar en absoluto secreto.</p>
+
+<p>Dependiendo de la billetera, la frase de recuperación está formada por 12 a 27 palabras. Uno no elige las palabras ni el orden. No debemos compartir mediante mensaje de texto ni correo electrónico ni mensajería, ni siquiera en un mensaje a nosotros mismos. Tampoco debemos imprimir ni tomar una fotografía ni realizar captura de pantalla. No debemos compartirla con nadie, jamás, diga lo que diga.</p>
+
+<h4 id="por-qué-es-tan-importante-la-frase-de-recuperación">¿Por qué es tan importante la frase de recuperación?</h4>
+
+<p>La frase de recuperación, también conocida como “frase semilla” (en inglés, “<em>seed phrase</em>”), es una manera práctica de representar un número aleatorio muy grande (que como usuarios nunca vemos). Detrás de escena lo que sucede cuando seleccionamos “Crear billetera” es que el programa genera un número aleatorio enorme. Para poder copiarlo fácilmente se representa mediante palabras en un determinado orden. Es a partir del número que se representa mediante la frase que se pueden generar ilimitada cantidad de direcciones (para recibir bitcoins) y de cada una se deriva su correspondiente clave privada (para poder enviarlos)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup><sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>.</p>
+
+<p>En pocas palabras, quien tenga acceso a la frase de recuperación puede acceder a los bitcoins. Por eso la importancia de mantenerla en secreto. Como usuarios solo vemos la frase de recuperación al crear la billetera (o al importarla). Veremos direcciones a medida que las generemos cada vez que queremos recibir un pago. Salvo excepciones, no nos cruzaremos con claves privadas ni públicas.</p>
+
+<h2 id="direcciones-y-claves">Direcciones y claves</h2>
+
+<p>Cuando uno ingresa una frase de recuperación en una billetera, la billetera deriva (utilizando matemática) las claves y las direcciones.</p>
+
+<p>Siguiendo el ejemplo previo, si uno ingresa dicha frase de recuperación en la billetera <a href="/billeteras/brd">BRD</a>, selecciona Bitcoin y selecciona “recibir”, la billetera generará y mostrará la siguiente dirección:</p>
+
+<blockquote>
+  <p>1MCmRGGmgUqURMy3LiVJb38Q323FBvKThS</p>
+</blockquote>
+
+<p>La dirección que nos muestre la compartimos a quien nos quiera enviar bitcoins, ya sea así textual o mediante un <a href="/diccionario/codigo-qr">código QR</a> (es lo mismo pero con otra forma).</p>
+
+<p class="important">Nota: La frase de recuperación y la dirección presentadas son solo ejemplos. No utilizar ni enviar satoshis allí.</p>
+
+<h5 id="ejemplo">Ejemplo</h5>
+
+<p>Si perdemos nuestro dispositivo, por ejemplo un celular donde teníamos 0.01 BTC, solo basta con conseguir otro dispositivo donde descargaremos una billetera (que puede ser de otra empresa) y esta vez elegiremos la otra opción (es decir “importar una frase de recuperación”) e ingresamos las palabras de manera ordenada. En realidad, dicho 0.01 BTC <strong>nunca estuvo en el celular; solo existe como un registro en la blockchain de Bitcoin</strong>. Por eso al ingresar la frase de recuperación en otra billetera en otro celular estaremos importando parte de la información necesaria para poder acceder a esos 0.01 BTC.</p>
+
+<p>Nótese que en ningún momento estamos ingresando una dirección de correo electrónico o número de teléfono.</p>
+
+<p class="important">Nota: Decimos que la frase de recuperación es "parte de la información necesaria" para tener acceso a los bitcoins porque además de ingresar la frase de recuperación, a veces hay que ingresar la "ruta de derivación". (Ver abajo).</p>
+
+<h2 id="información-muy-importante">Información muy importante</h2>
+
+<ol>
+  <li>
+    <p><strong>Podemos generar tantas frases de recuperación como queramos, gratuitamente y sin tener que ingresar datos personales</strong>. Si bien existen billeteras que sí piden datos, uno siempre puede elegir alternativas más privadas.</p>
+  </li>
+  <li>
+    <p><strong>Cada frase de recuperación nos permite generar ilimitada cantidad de direcciones. Distintas frases de recuperación nos dan acceso a diferentes direcciones</strong>.</p>
+  </li>
+  <li>
+    <p><strong>Debemos guardar varias copias de la frase de recuperación en diferentes lugares</strong>. En caso de perder el dispositivo (sea celular o billetera hardware, por ejemplo), siempre podremos acceder a los satoshis con esa información.</p>
+  </li>
+  <li>
+    <p><strong>Si perdemos toda copia de la frase de recuperación, perdemos acceso a todos los satoshis “guardados” en las direcciones asociadas</strong>. Es imposible recuperar el acceso y no hay a quién o qué reclamarle.</p>
+  </li>
+  <li>
+    <p><strong>No es necesario tener conexión a internet para crear una frase de recuperación</strong>. La blockchain de Bitcoin no tiene que incorporar las direcciones a medida que las generamos y tampoco tenemos que conectarnos a internet para recibir bitcoins. Solo es necesario que la persona que realiza un pago en Bitcoin se conecte para poder “mover” sus bitcoins a nuestra dirección. Es extremadamente poco probable (sino es que imposible) que otra persona genere las mismas claves y direcciones.</p>
+  </li>
+</ol>
+
+<h2 id="ruta-de-derivación">Ruta de derivación</h2>
+
+<p>Usualmente como usuarios no vemos la “ruta de derivación” porque muchas billeteras no la muestran con la intención de mejorar la experiencia de usuario. Sin embargo, dado que la ruta de derivación varía entre billeteras, si eventualmente la organización que desarrollaba la billetera que uno utiliza deja de operar, cuando queramos acceder utilizando otra billetera, necesitaremos la ruta derivación para poder importarla correctamente.</p>
+
+<p>Como hemos visto, utilizando diferentes frases de recuperación es posible generar diferentes direcciones. Ahora expandimos: con una misma frase de recuperación, si se modifica la ruta de derivación, se tendrá acceso a <strong>otro</strong> conjunto ilimitado de direcciones.</p>
+
+<p>No es necesario entrar en pánico si uno no tiene a mano la ruta de derivación dado que hay sitios web como <strong><a href="https://walletsrecovery.org/">walletsrecovery.org</a></strong> que llevan un registro de las rutas de derivación que utilizan distintas billeteras.</p>
+
+<h2 id="tipos-de-billeteras">Tipos de billeteras</h2>
+
+<p>Hay distintas maneras de clasificar a los distintos tipos de billeteras. Una es <strong>según la plataforma sobre la que funciona</strong>: escritorio, web, móvil, hardware.</p>
+
+<p>Otra manera de categorizarlas es según <strong>si la frase de recuperación entra en contacto con internet en algún momento o no</strong>: billetera caliente (o <em>hot wallet</em>) y billetera fría (o <em>cold wallet</em>).</p>
+
+<blockquote>
+  <p>Conoce las <a href="/tipos-de-billeteras">ventajas y desventajas de cada tipo de billetera</a>.</p>
+</blockquote>
+
+<h3 id="bibliografía">Bibliografía</h3>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Saylor Academy. PRDV151: Bitcoin for Everybody. How Bitcoin Works Under the Hood. Retrieved from <a href="https://learn.saylor.org/mod/page/view.php?id=30739">https://learn.saylor.org/mod/page/view.php?id=30739</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from <a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from <a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc">https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Así como para navegar por internet utilizamos navegadores web como Firefox o Safari, para enviar, recibir y “guardar” bitcoins usamos billeteras (también conocidas como monederos o en inglés, wallets). Decimos “guardar” porque en realidad los bitcoins existen como registros en la blockchain de Bitcoin; la billetera funciona como una pantalla que nos permite interactuar con ellos.]]></summary></entry><entry><title type="html">¿Qué es el dinero?</title><link href="https://cripto.wiki/que-es-el-dinero" rel="alternate" type="text/html" title="¿Qué es el dinero?" /><published>2019-07-07T00:00:00+00:00</published><updated>2019-07-07T00:00:00+00:00</updated><id>https://cripto.wiki/what-is-money</id><content type="html" xml:base="https://cripto.wiki/que-es-el-dinero"><![CDATA[<p>El dinero lo utilizamos todos los días y no nos preguntamos qué es o por qué lo usamos, sino que solemos darlo por sentado como si fuera algo obvio. Pero no lo es. Para entender qué es una criptomoneda, primero hay que entender qué es el dinero. Veamos rápidamente algunos de los distintos tipos de dinero y algunos capítulos importantes de su historia.</p>
+
+<h2 id="intercambios-no-monetarios">Intercambios no monetarios</h2>
+
+<p><strong>Durante 2000 años la sociedad no utilizó dinero para comerciar</strong>, sino que intercambiaba unos bienes y servicios por otros bienes y servicios. Este sistema es conocido como <strong>trueque</strong>. Analicemos el siguiente ejemplo concreto. Juan tiene 1 vaca y desea pescados, y Martina tiene 4 pescados y desea vacas. Si Juan y Martina quieren intercambiar sus animales deben cumplirse varias condiciones:</p>
+
+<ul>
+  <li>Debe ocurrir la <strong>“doble coincidencia de deseos”</strong>, es decir, que ambos quieran exactamente al mismo tiempo lo que el otro ofrece.</li>
+  <li>Deben ponerse de acuerdo con la equivalencia de bienes a intercambiar. En este caso, supongamos que Juan y Martina están de acuerdo con que 1 vaca vale lo mismo que 4 pescados.</li>
+  <li>Deben poseer una cantidad excedente que sea equivalente. En el ejemplo, si Martina hubiera tenido solo 2 pescados, ese intercambio no sería posible ya que 2 pescados solo los podría intercambiar por la mitad de una vaca, pero esta no es divisible.</li>
+</ul>
+
+<h2 id="surgimiento-del-dinero-dinero-mercancía">Surgimiento del dinero: dinero mercancía</h2>
+
+<p>Atrás quedaron los problemas mencionados cuando surge el dinero mercancía. Este dinero tiene <strong>valor intrínseco</strong>, es decir, toma el valor del bien que la compone y era aceptado en su momento por la mayoría de la sociedad. Bienes utilizados como dinero mercancía han sido el <strong>ganado en la Antigua Grecia, la sal en el Imperio Antiguo de Egipto y conchas de cauri en China</strong>. Si todos ofrecen sus productos y servicios a cambio de un bien común, se facilita el intercambio.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/hombres-sal.jpg" />
+	<figcaption>Incluso la sal fue dinero en el Antiguo Egipto.</figcaption>
+</figure>
+
+<h3 id="metales-preciosos">Metales preciosos</h3>
+
+<p>Luego, los bienes que se utilizaron como dinero mercancía fueron aquellos hechos con metales preciosos, como lingotes, aros y cuchillos hechos en oro o plata, porque ofrecen una serie de ventajas con respecto a los otros bienes:</p>
+<ul>
+  <li>Son durables y almacenables: el ganado muere; el oro no</li>
+  <li>Tienen valor intrínseco: se podían utilizar para crear herramientas o armas</li>
+  <li>Son escasos</li>
+  <li>Son divisibles</li>
+  <li>Son más fáciles de transportar</li>
+</ul>
+
+<h3 id="las-primeras-monedas">Las primeras monedas</h3>
+
+<p>Alrededor del siglo VII a.C, en lo que hoy sería <strong>Turquía</strong>, se acuñaron las <strong>primeras monedas occidentales</strong> hechas de forma irregular con una mezcla natural de oro y plata (llamada electro) en las cuales había una imagen estampada que indicaba su peso y su consecuente valor.</p>
+
+<p>Paralelamente, en <strong>China</strong> se comienza a utilizar las propias monedas aunque eran <strong>muy distintas</strong>. En lugar de tener una forma circular, eran objetos cotidianos en miniatura hechos en bronce. Luego le siguen otras regiones del mundo, como lo que hoy sería India (siglo IV a.C) y Grecia (siglo V a.C).</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/coin-hollow-china.jpg" />
+	<figcaption>Moneda china con la forma de una pala primitiva. Crédito: <a href="https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx">British Museum</a></figcaption>
+</figure>
+
+<p>Así, el dinero va a ir tomando distintas formas pero siempre buscando cumplir* 3 funciones:</p>
+<ul>
+  <li><strong>Medio de intercambio</strong>: se utiliza para acceder a bienes y servicios.</li>
+  <li><strong>Unidad de cuenta</strong>: se utiliza para expresar los precios de aquellos bienes y servicios.</li>
+  <li><strong>Depósito de valor</strong>: se utiliza para ahorrar.</li>
+</ul>
+
+<p>En Venezuela, la moneda de curso legal es el bolívar. No cumple la función de depósito de valor (nadie que tiene alternativas elige esa moneda para ahorrar) debido a la hiperinflación que experimenta y sin embargo se la sigue considerando dinero.</p>
+
+<h2 id="dinero-representativo">Dinero representativo</h2>
+
+<p>Es dinero basado en otro activo, como el oro o la plata, generalmente impreso en papel y por lo tanto, sin valor intrínseco.</p>
+
+<h3 id="papel-moneda">Papel moneda</h3>
+
+<p>Se refiere a los billetes o notas de crédito que son literalmente impresos en papel. <strong>No necesariamente es dinero representativo, sino que tiene que ver con la forma física</strong>.</p>
+
+<p>Es en China, durante el siglo VII, que se crea el papel moneda, <strong>posible gracias a la invención del papel y la imprenta</strong>. Al principio eran solo notas de crédito entre privados para poder transferir gran cantidad de valor fácilmente. Luego, durante la dinastía Yuan, las autoridades establecen el monopolio sobre la emisión del dinero y el papel moneda pasa a ser el único dinero de curso legal. Es decir que si alguien quiere comprar algo o pagar una deuda con este dinero, la otra parte debe aceptar porque así lo dice la ley. El papel moneda se usó en China hasta 1455, cuando el gobierno decidió eliminarlo dado que habían emitido mucho del mismo y generaron una gran inflación. Recién lo adoptarían nuevamente varios siglos después.</p>
+
+<p>A Europa llegó recién en el siglo XVII, cuando Johan Palmstruch, el director del “Stockholms Banco” (el primer banco central del mundo), decidió imprimir sus propios billetes bancarios respaldados por monedas de oro y plata en 1661. Pero 7 años después, <strong>el banco colapsó luego de emitir dinero irresponsablemente sin estar verdaderamente respaldado</strong>. Interesante final del primer banco central.</p>
+
+<p>A lo largo de los siglos siguientes, el papel moneda se expandió por el mundo, siendo a veces representativo y otras veces fiat.</p>
+
+<h2 id="dinero-fiat">Dinero fiat</h2>
+
+<p>Es el dinero que el Estado establece como tal, <strong>sin valor intrínseco y sin respaldo alguno</strong>. De ahí su nombre “fiat”, cuya traducción del latín es “hágase”. La sociedad lo utiliza porque es moneda de curso legal o por la confianza que le transmite.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/articles/billetes-un-dolar-estadounidense.jpg" />
+	<figcaption>Billetes estadounidenses. Desde 1971 no tienen respaldo en oro (ni en nada).</figcaption>
+</figure>
+
+<p>Como ejemplo, si bien en Argentina el dólar estadounidense no es moneda de curso legal, se suele preferir a la hora de ahorrar en lugar del peso argentino, que sí lo es. A su vez, el dólar no tiene ningún tipo de respaldo, más que la confianza que transmite el poderío de EEUU en el mundo y la confianza en que Reserva Federal no devaluará la moneda de manera abrupta emitiendo irresponsablemente.</p>
+
+<p>El dinero fiat lo usamos hoy cuando pagamos con billetes y monedas. También es el que utilizamos al comprar con una tarjeta de crédito o al realizar una transferencia bancaria, solo que en lugar de ser un bien material como los billetes, pasa a ser uno virtual, siendo solo números que se registran en bases de datos bancarias.</p>
+
+<h2 id="conclusión">Conclusión</h2>
+
+<p>El dinero es un bien que facilita el comercio y funciona principalmente porque la sociedad confía en él. La sociedad confía en que el dinero le permitirá acceder a diversos bienes y servicios, <strong>independientemente de la forma que tome y características que presente</strong>.</p>
+
+<p>Nuestra idea sobre el dinero cambió constantemente a lo largo de la historia a medida que surgieron avances en su tecnología que nos hicieron la vida más sencilla: más fácil de transportar, de almacenar, de usar en el día a día. No sería ridículo creer que el dinero volverá a cambiar de forma, eventualmente, por otra más eficiente.</p>
+
+<p><strong>¿Sigue sonando absurdo que algo tan distinto como las criptomonedas podrían ser la próxima etapa en la evolución del dinero?</strong></p>
+
+<div class="subtitle-2">Bibliografía</div>
+<div id="bibliography">
+<div>BBVA. (2018, April 08). ¿Qué es el dinero? Retrieved July 7, 2019, from https://www.bbva.com/es/que-es-el-dinero/</div>
+<div>British Museum. (n.d.). The origins of coinage. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx</div>
+<div>British Museum. (n.d.). The beginnings of coinage. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx</div>
+<div>British Museum. (n.d.). Currency in the modern world. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/currency_in_the_modern_world.aspx</div>
+<div>Desjardins, J. (2015, December 17). Infographic: The Properties of Money. Retrieved July 7, 2019, from http://money.visualcapitalist.com/infographic-the-properties-of-money/</div>
+<div>European Central Bank. (2015, November 24). ¿Qué es el dinero? Retrieved July 7, 2019, from https://www.ecb.europa.eu/explainers/tell-me-more/html/what_is_money.es.html</div>
+<div>Maranzani, B. (2012, November 27). 8 Things You May Not Know About Money. Retrieved July 7, 2019, from https://www.history.com/news/8-things-you-may-not-know-about-money</div>
+<div>Self Bank. (2016, January 15). Dinero fiduciario, cuestión de confianza. Retrieved July 7, 2019, from https://blog.selfbank.es/dinero-fiduciario-cuestion-de-confianza/</div>
+<div>Zeder, R. (2019, March 17). The Four Different Types of Money. Retrieved July 7, 2019, from https://quickonomics.com/different-types-of-money/</div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[El dinero lo utilizamos todos los días y no nos preguntamos qué es o por qué lo usamos, sino que solemos darlo por sentado como si fuera algo obvio. Pero no lo es. Para entender qué es una criptomoneda, primero hay que entender qué es el dinero. Veamos rápidamente algunos de los distintos tipos de dinero y algunos capítulos importantes de su historia.]]></summary></entry></feed>
