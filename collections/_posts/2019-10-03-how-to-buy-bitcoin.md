@@ -1,7 +1,6 @@
 ---
 title: ¿Cómo comprar bitcoin?
 permalink: como-comprar-bitcoin
-position: 4
 updated: 7/10/2021
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tipos de billeteras
 permalink: tipos-de-billeteras
-position: 3
 updated: 8/10/2021
 ---
 

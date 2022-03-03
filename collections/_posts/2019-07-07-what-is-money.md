@@ -1,7 +1,6 @@
 ---
 title: ¿Qué es el dinero?
 permalink: que-es-el-dinero
-position: 1
 published: 07/07/2019
 ---
 
