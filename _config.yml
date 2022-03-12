@@ -82,6 +82,8 @@ compress_html:
   endings: all
   blanklines: false
   profile: false
+  ignore:
+    envs: [development] # bundle exec jekyll serve JEKYLL_ENV=development
 
 include: [CNAME]
 exclude: [LICENSE.txt, README.md, cripto.wiki.gemspec]
