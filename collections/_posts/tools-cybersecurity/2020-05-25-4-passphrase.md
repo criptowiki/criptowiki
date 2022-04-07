@@ -1,6 +1,7 @@
 ---
 title: Frase de contraseña
 permalink: /herramientas/frase-de-contrasena
+position: 4
 ---
 
 Las frases de contraseñas no son tan conocidas pero pueden ser tan o más seguras que las contraseñas.
