@@ -10,9 +10,8 @@ css: items-list
     <h1 class="title">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
     <div class="content items-list">
-    	{% assign myths = site.myths | sort: 'title' %}
-    	{% for myth in myths reversed %}
-			<a href="{{ myth.permalink }}"><div>{{ myth.title }}</div></a>
+    	{% for post in site.categories.myths %}
+			<a href="{{ post.permalink }}"><div>{{ post.title }}</div></a>
 		{% endfor %}
     </div>
 </div>

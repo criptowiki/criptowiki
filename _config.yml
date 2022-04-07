@@ -53,10 +53,10 @@ defaults:
     values:
       layout: 'tool'
   - scope:
-      path: ''
-      type: 'myths'
+      path: '_posts/myths/'
     values:
       layout: 'myth'
+      category: 'myths'
   - scope:
       path: '_posts/dictionary/'
     values:
