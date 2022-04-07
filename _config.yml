@@ -33,10 +33,10 @@ defaults:
     values:
       layout: 'default'
   - scope:
-      path: ''
-      type: 'posts'
+      path: '_posts/bitcoin/'
     values:
       layout: 'article'
+      category: 'bitcoin'
   - scope:
       path: ''
       type: 'history'
@@ -63,10 +63,10 @@ defaults:
     values:
       layout: 'dictionary-definition'
   - scope:
-      path: ''
-      type: 'wallets'
+      path: '_posts/wallets/'
     values:
       layout: 'wallet'
+      category: 'wallets'
 
 sass:
   style: compressed
