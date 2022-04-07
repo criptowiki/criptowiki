@@ -11,21 +11,6 @@ social:
   mastodon: criptowiki
 
 collections_dir: collections
-collections:
-  history:
-    output: true
-  tutorials:
-    output: true
-  tools-bitcoin:
-    output: true
-  tools-cybersecurity:
-    output: true
-  myths:
-    output: true
-  dictionary:
-    output: true
-  wallets:
-    output: true
 
 defaults:
   - scope:
@@ -42,11 +27,6 @@ defaults:
     values:
       layout: 'history'
       category: 'history'
-  - scope:
-      path: ''
-      type: 'tutorials'
-    values:
-      layout: 'tutorial'
   - scope:
       path: '_posts/tools-cybersecurity/'
     values:
