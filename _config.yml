@@ -48,10 +48,10 @@ defaults:
     values:
       layout: 'tutorial'
   - scope:
-      path: ''
-      type: 'tools-cybersecurity'
+      path: '_posts/tools-cybersecurity/'
     values:
       layout: 'tool'
+      category: 'tools-cybersecurity'
   - scope:
       path: '_posts/myths/'
     values:

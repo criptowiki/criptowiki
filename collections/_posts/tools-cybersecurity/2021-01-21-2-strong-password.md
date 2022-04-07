@@ -1,6 +1,7 @@
 ---
 title: Contraseña fuerte
 permalink: /herramientas/contrasena-fuerte
+position: 2
 ---
 
 Cuando creas una cuenta en una red social, o una cuenta en un exchange para comprar criptomonedas, o cuando creas cualquier cuenta... **¿cómo eliges la contraseña?**
