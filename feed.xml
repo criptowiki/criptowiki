@@ -1,374 +1,286 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://cripto.wiki/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cripto.wiki/" rel="alternate" type="text/html" /><updated>2022-04-06T19:35:21+00:00</updated><id>https://cripto.wiki/feed.xml</id><title type="html">cripto.wiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">¿Cómo comprar bitcoin?</title><link href="https://cripto.wiki/como-comprar-bitcoin" rel="alternate" type="text/html" title="¿Cómo comprar bitcoin?" /><published>2019-10-03T00:00:00+00:00</published><updated>2019-10-03T00:00:00+00:00</updated><id>https://cripto.wiki/how-to-buy-bitcoin</id><content type="html" xml:base="https://cripto.wiki/como-comprar-bitcoin"><![CDATA[<p>En sus comienzos, comprar bitcoin era una tarea complicada dado que muy pocas empresas y personas vendían, y había poca información sobre el tema en internet. Hoy ya no es así. Mes tras mes surgen en el mundo nuevas empresas que compiten por vender bitcoins rápidamente, con menores comisiones y ofreciendo diversos medios de pago. También surgen nuevos métodos para comprar entre personas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://cripto.wiki/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cripto.wiki/" rel="alternate" type="text/html" /><updated>2022-04-07T22:00:05+00:00</updated><id>https://cripto.wiki/feed.xml</id><title type="html">cripto.wiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">Cubrir las cámaras</title><link href="https://cripto.wiki/herramientas/cubrir-las-camaras" rel="alternate" type="text/html" title="Cubrir las cámaras" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>https://cripto.wiki/herramientas/6-cover-the-cameras</id><content type="html" xml:base="https://cripto.wiki/herramientas/cubrir-las-camaras"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img/tools-cybersecurity/cubrir-las-camaras.png" width="500" />
+	<figcaption></figcaption>
+</figure>
 
-<p>Veamos entonces los distintos caminos y pasos a seguir para comprar bitcoins.</p>
+<p>En junio de 2016, Mark Zuckerberg, fundador y CEO de Facebook, publicó una fotografía en esa red social acompañado de un texto donde celebraba el haber alcanzado los 500 millones de usuarios en Instagram (que también pertenece a Facebook Inc.). En la foto es posible ver que la cámara de su computadora está cubierta.</p>
 
-<h2 id="paso-1-crear-una-billetera">Paso 1: crear una billetera</h2>
+<figure>
+	<img class="lazy" data-src="/assets/img/tools-cybersecurity/cubrir-las-camaras-mark-zuckerberg.png" width="500" />
+	<figcaption></figcaption>
+</figure>
 
-<p>Dado que bitcoin solo existe digitalmente, <a href="/donde-se-guardan-las-criptomonedas">necesitamos crear nuestra billetera, que generará y administrará las claves que nos permiten enviar y recibir bitcoins</a>. Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y la facilidad de uso que uno requiera.</p>
+<p>En septiembre de ese año, el <strong>ex director del FBI, James Comey</strong>, recomendó a los usuarios de internet cubrir sus cámaras web para que <strong>“tomen responsabilidad de su propia seguridad y privacidad”</strong>.</p>
 
-<p>Es muy importante conocer el funcionamiento básico de una billetera para poder elegir la que se adecúe a nuestras necesidades y para no perder nuestro dinero. <a href="/tipos-de-billeteras">Si no tienes una billetera o crees que puede ser insegura la que tienes, lee este otro artículo práctico sobre los distintos tipos de billeteras antes de continuar</a>.</p>
+<p>Ocurre que luego pueden extorsionar a usuarios desprevenidos pidendo recompensas en criptomonedas. Por más que uno pague, uno no puede estar seguro que nunca las revelarán. Por eso es tan <strong>importante anticiparse y prevenir esa situación</strong>. También se recomienda no pagar para no fomentar estos delitos.</p>
 
-<h2 id="paso-2-comprar-los-bitcoins">Paso 2: comprar los bitcoins</h2>
+<p>Además, uno podría no darse cuenta y ser espíado o sufrir robo de identidad.</p>
 
-<p>Una vez que tenemos nuestra billetera, ya tenemos un lugar donde guardar los bitcoins y entonces ahora sí podemos comprarlos. Hay múltiples maneras y la opción que uno elija dependerá de muchos factores, como el país donde viva y del método de pago (efectivo, transferencia bancaria, PayPal, etc).</p>
+<h3 id="cómo-protegerse">¿Cómo protegerse?</h3>
 
-<p>Las opciones son: casa de cambio en línea, cajero automático de bitcoins y entre personas.</p>
+<p>En el mercado hay disponibles <strong>cobertores de cámaras web</strong>. Otra opción más sencilla y barata es utilizar un <strong>pedazo de cinta</strong> o si no tienes a mano, <strong>un pedazo de papel con cinta adhesiva</strong>. Ten cuidado de no dañar la cámara.</p>
 
-<h3 id="a-casa-de-cambio-online-o-exchange">A) Casa de cambio online (o “exchange”)</h3>
+<p>Puedes <strong>encenderla brevemente para confirmar que efectivamente la cámara no vea nada</strong>. Considera realizar lo mismo para tu dispositivos móviles y para todas las cámaras conectadas a internet que pueden pasar desapercibidas, como las que se encuentran conectadas a televisores inteligentes y consolas de videojuegos.</p>]]></content><author><name></name></author><category term="tools-cybersecurity" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/tools-cybersecurity/cubrir-las-camaras.png" /><media:content medium="image" url="https://cripto.wiki/tools-cybersecurity/cubrir-las-camaras.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Edward Snowden: “Borrar es una ficción”</title><link href="https://cripto.wiki/herramientas/borrar-es-una-ficcion" rel="alternate" type="text/html" title="Edward Snowden: “Borrar es una ficción”" /><published>2021-11-02T00:00:00+00:00</published><updated>2021-11-02T00:00:00+00:00</updated><id>https://cripto.wiki/herramientas/1-delete-function-is-fiction</id><content type="html" xml:base="https://cripto.wiki/herramientas/borrar-es-una-ficcion"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img//tools-cybersecurity/borrar-es-una-ficcion.png" width="500" />
+	<figcaption></figcaption>
+</figure>
 
-<p>Es una empresa que vende bitcoins (u otras criptomonedas) en línea.</p>
+<p>Edward Snowden, ex empleado de la CIA y quien hizo públicos documentos sobre cómo diversos gobiernos realizan espionaje masivo, publicó en el 2019 una autobiografía titulada <strong>“Permanent Record”</strong>.</p>
 
-<p class="important">Podemos identificar 3 tipos de casas de cambio según el tipo de dinero con el que operan: las fiat-cripto (permiten comprar y vender criptomonedas con monedas nacionales como dólares, pesos u otras, dependiendo del país donde se encuentre); las cripto-cripto (permiten comprar criptomonedas con otras criptomonedas); y las que ofrecen ambas opciones. En este artículo nos interesan las del primer o tercer tipo.</p>
+<p>En el mismo, en el capítulo <strong>“Encryption”</strong>, explica que si bien como usuarios vemos la tecla o la función “Borrar” en la pantalla, estas son <strong>“una ficción colectiva”</strong>.</p>
 
-<p>La mayoría de los exchanges que operan con dinero fiat tienen una dinámica similar:</p>
-<ol>
-  <li>Uno se registra ingresando una dirección de correo electrónico, una contraseña y varios datos personales.</li>
-  <li>Una vez que la casa de cambio verifica los datos aportados (<a href="/diccionario/kyc">KYC</a>), el siguiente paso es “fondear la cuenta”, es decir, enviar el dinero a la cuenta. Esto puede ser a través de transferencia bancaria, tarjeta de crédito, efectivo u otras, y dependerá de la empresa.</li>
-  <li>Luego de acreditarse el saldo en la cuenta (el tiempo de espera dependerá de la empresa y del método de pago) ya es posible comprar los bitcoins. La casa de cambio muestra a qué precio vende un bitcoin y si uno está de acuerdo, compra con el dinero que ya tiene acreditado en la cuenta. (<a href="/mitos/solo-es-posible-comprar-un-bitcoin-entero">No es necesario comprar un bitcoin entero</a>).</li>
-  <li>Los bitcoins están ahora en una dirección de una billetera que la casa de cambio creó y asignó a la cuenta del usuario. El problema es que como es la empresa la que generó las claves de la billetera, es la empresa la que tiene el control sobre esos bitcoins. Es por eso que debemos enviarlos a la billetera que creamos en el paso 1, sobre la cual tenemos el control total porque solo nosotros tenemos la frase de recuperación.</li>
-</ol>
+<p>Detrás de escena, cuando cliqueamos “borrar”, solo se le dice a la computadora que el espacio que ocupa el archivo en cuestión puede ser ocupado por otro contenido.</p>
 
-<p>Hay algunas casas de cambio que simplifican los últimos 2 pasos y en lugar de otorgarnos una billetera, nos piden una dirección y envían los bitcoins ahí directamente.</p>
+<p>Si bien es posible utilizar un programa para sobreescribir la información y hacerla más difícil de acceder, no es posible descartar la opción de que es recuperable “si alguien sabe buscar”.</p>
 
-<p class="important">Antes de registrarse en una casa de cambio es importante averiguar qué métodos de pago ofrecen y cuáles son sus comisiones.</p>
-
-<h3 id="b-cajero-automático-de-bitcoins-o-bitcoin-atm">B) Cajero automático de bitcoins (o “bitcoin ATM”)</h3>
-
-<p>Los cajeros automáticos de bitcoins aceptan, en su mayoría, únicamente efectivo. Simplemente hay que dirigirse al mismo y seguir las intrucciones en pantalla. Para saber dónde se encuentran localizados podemos visitar <a href="https://coinatmradar.com/bitcoin-atm-map/">Coin ATM Radar</a>.</p>
-
-<p>Recordar que previamente debemos crear una billetera y llevar los documentos legales necesarios (suelen ser documento de identidad o pasaporte). Si uno no tiene una billetera, el cajero automático crea una en el momento pero es menos seguro ya que debemos confiar en la empresa que la creó.</p>
-
-<h3 id="c-entre-personas">C) Entre personas</h3>
-
-<p>Comprarle a una persona no necesariamente implica encontrarse con ella cara a cara. Hay 2 maneras. La más obvia es comprarle a alguien que uno conozca que venda bitcoins. Existe <a href="https://decrypt.co/2018/12/11/buying-bitcoin-from-the-back-of-a-london-taxi/">el caso del taxista londinense que vende bitcoins en su taxi</a>, pero es un caso muy particular. ¿Qué hace uno si no conoce a nadie que venda? Recurre a la segunda opción que es usar un sitio web que conecta compradores y vendedores individuales. Servicios populares a nivel global son:</p>
+<p>¿Qué propone? <strong>Encriptar nuestra información desde el comienzo</strong>.</p>]]></content><author><name></name></author><category term="tools-cybersecurity" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/tools-cybersecurity/borrar-es-una-ficcion.png" /><media:content medium="image" url="https://cripto.wiki/tools-cybersecurity/borrar-es-una-ficcion.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Samourai Wallet</title><link href="https://cripto.wiki/billeteras/samourai" rel="alternate" type="text/html" title="Samourai Wallet" /><published>2021-10-30T00:00:00+00:00</published><updated>2021-10-30T00:00:00+00:00</updated><id>https://cripto.wiki/billeteras/samourai</id><content type="html" xml:base="https://cripto.wiki/billeteras/samourai"><![CDATA[<h2 id="características">Características</h2>
 <blockquote>
-  <p><a href="https://localbitcoins.com/">LocalBitcoins</a></p>
+  <p>Es una billetera móvil sin custodia, disponible para Android</p>
 </blockquote>
 
 <blockquote>
-  <p><a href="https://www.hodlhodl.com/">HodlHodl</a></p>
+  <p>Muy enfocada en la privacidad del usuario</p>
 </blockquote>
 
 <blockquote>
-  <p><a href="https://bisq.network">Bisq</a></p>
-</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[En sus comienzos, comprar bitcoin era una tarea complicada dado que muy pocas empresas y personas vendían, y había poca información sobre el tema en internet. Hoy ya no es así. Mes tras mes surgen en el mundo nuevas empresas que compiten por vender bitcoins rápidamente, con menores comisiones y ofreciendo diversos medios de pago. También surgen nuevos métodos para comprar entre personas.]]></summary></entry><entry><title type="html">Tipos de billeteras</title><link href="https://cripto.wiki/tipos-de-billeteras" rel="alternate" type="text/html" title="Tipos de billeteras" /><published>2019-10-01T00:00:00+00:00</published><updated>2019-10-01T00:00:00+00:00</updated><id>https://cripto.wiki/types-of-wallets</id><content type="html" xml:base="https://cripto.wiki/tipos-de-billeteras"><![CDATA[<p><a href="/donde-se-guardan-las-criptomonedas">Ya vimos dónde se guardan los bitcoins y el funcionamiento básico de una billetera</a>. Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir bitcoins. Hay distintas maneras de clasificar a los distintos tipos de billeteras.</p>
-
-<h2 id="según-su-plataforma">Según su plataforma</h2>
-
-<p>Una es <strong>según la plataforma sobre la cual funciona</strong>: escritorio, web, móvil, hardware y de papel.</p>
-
-<h3 id="1-escritorio">1) Escritorio</h3>
-
-<p>Son <strong>programas que funcionan en computadoras personales (PC)</strong>. Suelen contar con funcionalidades avanzadas, y también <em>pueden</em> ser muy privadas, pero al mismo tiempo, si se infecta con software malicioso la computadora, los bitcoins pueden ser robados. Es por esto que es solo para usuarios más experimentados.</p>
-
-<p>Bitcoin Core, Electrum y Wasabi son ejemplos de billeteras de escritorio.</p>
-
-<h3 id="2-web">2) Web</h3>
-
-<p>Son <strong>sitios web</strong> que ofrecen la posibilidad de crear una cuenta con pocos, o ningún, dato personal explícito (si piden, generalmente no es más que una dirección de correo electrónico y una contraseña).</p>
-
-<p>Muchas veces, al crear la cuenta, la página web nos muestra una <a href="/diccionario/frase-de-recuperacion-semilla-seed">frase de recuperación</a>, de la cual tenemos que realizar varias copias en distintos lugares. De esta manera, por más que la empresa desaparezca, podemos, en teoría, recuperar nuestros bitcoins. Decimos “en teoría” porque la realidad es que en todo momento debemos confiar que la empresa que nos creó la billetera no guarde una copia de la frase de recuperación con la que tendrían acceso a los bitcoins.</p>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/billetera-blockchaincom-750x.png" />
-	<figcaption>Blockchain.com es un ejemplo de billetera web.</figcaption>
-</figure>
-
-<h3 id="3-móvil">3) Móvil</h3>
-
-<p>Son <strong>apps para smartphones</strong>. Se distinguen por ser muy fáciles de usar. Son ideales para moverse en la calle, para pequeñas operaciones del día a día.</p>
-
-<p>BRD y Samourai son ejemplos de billeteras móviles.</p>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/billetera-brd.png" width="500" />
-	<figcaption>BRD, una billetera de criptomonedas para smartphones. Fuente: <a href="https://brd.com/">brd.com</a></figcaption>
-</figure>
-
-<h3 id="4-hardware">4) Hardware</h3>
-
-<p>Son <strong>dispositivos que tienen el tamaño de un pendrive y cuentan con una pantalla y unos pocos botones</strong>. Se conectan a una computadora, celular o tablet donde previamente descargamos un programa que utilizamos para interactuar con la billetera.</p>
-
-<p>Son consideradas muy seguras porque las transacciones se firman con la clave privada <strong>en el dispositivo</strong> (la clave privada no sale del mismo). Luego se transmite la transacción firmada a los nodos y se añadirá a la blockchain de Bitcoin si es válida.</p>
-
-<p>Cuando uno configura una nueva billetera de hardware e ingresa una frase de recuperación que generó previamente en otra billetera, lo hace directamente utilizando los botones de la billetera de hardware. De esta manera la frase de recuperación no es ingresada mediante un teclado en una computadora que podría estar comprometida.</p>
-
-<p>Ledger y Trezor son ejemplos de empresas reconocidas que producen billeteras de hardware.</p>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/ledger-nano-s.png" />
-	<figcaption>Ledger Nano S, una billetera de hardware.</figcaption>
-</figure>
-
-<h3 id="5-papel">5) Papel</h3>
-
-<p class="important">
-No es recomendable utilizar este tipo de billeteras.
-</p>
-
-<p>La claves <strong>se imprimen literalmente en un papel, fuera de línea</strong>. Es considerado un método obsoleto y no es recomendable.</p>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/billetera-papel-bitcoin.png" />
-	<figcaption>Billetera de papel. No recomendables.</figcaption>
-</figure>
-
-<p>Al enviar una clave privada a una impresora, se aumenta la superficie de ataque y hay más cosas que podrían salir mal: la impresora podría estar conectada a internet o a una red inalámbrica, y la clave ser interceptada; se podría recuperar la información de la impresora; el programa para generar las claves podría estar manipulado; entre otros riesgos que con otras billeteras no existen.</p>
-
-<p>Las billeteras de papel son de la época donde se utilizaban las “billeteras aleatorias”. Cada vez que uno quería una nueva dirección para recibir bitcoins, debía generar una clave privada y realizar una copia de esta clave. Hoy en día las billeteras generan una frase de recuperación. Al guardar una copia de la frase de recuperación, uno está realizando una copia de seguridad de ilimitada cantidad de claves privadas y direcciones en un solo movimiento.</p>
-
-<p>Si lo que uno quiere es almacenar la frase de recuperación en un medio más duradero que el papel, hay artefactos de metal que permiten hacerlo. Por ejemplo, SeedPlate.</p>
-
-<p class="important">
-En casi todos los casos, las billeteras no solicitan datos personales explícitamente. Sin embargo, esto no significa que sean anónimas, ya que pueden registrar datos importantes como nuestra dirección IP.
-</p>
-
-<h2 id="según-su-conexión-a-internet">Según su conexión a internet</h2>
-
-<p>Otra manera de categorizarlas es según <strong>si la clave privada de la billetera entra en contacto con internet o no</strong>:</p>
-
-<ul>
-  <li><strong>Billeteras calientes</strong> (también conocidas como “almacenamiento caliente”, “almacenamiento en línea” o “<em>hot wallets</em>”). Las clave privada maestra es generada en un dispositivo conectado a internet, lo cual las hace menos seguras ya que si alguien obtiene una copia de esa clave puede enviarse todos los bitcoins “guardados” en esas direcciones asociadas. Pero cuentan con la ventaja de que son <strong>más fáciles y rápidas de utilizar</strong>.</li>
-</ul>
-
-<p>Las billeteras web son un ejemplo de este tipo de billeteras.</p>
-
-<ul>
-  <li><strong>Billeteras frías</strong> (también conocidas como “almacenamiento en frío”, “almacenamiento fuera de línea o “<em>cold wallets</em>”). Las clave privada maestra nunca entra en contacto con internet. Son muy seguras porque las transacciones se firman con la clave privada fuera de línea y luego se difunden los detalles de la operación a la blockchain a través de internet. Como las billeteras frías gratuitas son complicadas de utilizar, y las billeteras frías fáciles de utilizar hay que comprarlas (las de hardware), se usan para guardar el dinero a largo plazo, como una suerte de caja de seguridad privada donde tenemos el control absoluto.</li>
-</ul>
-
-<p>Las billeteras de hardware son un ejemplo de este tipo de almacenamiento.</p>
-
-<p class="important">Como las billeteras frías son más seguras, se suele recomendar tener gran parte del dinero en este tipo de almacenamiento para guardar a largo plazo y una pequeña parte en billeteras calientes para las operaciones del día a día.</p>
-
-<p>Para más información sobre billeteras de bitcoin, puedes compararlas en <a href="https://bitcoin.org/es/elige-tu-monedero">bitcoin.org</a>.</p>
-
-<p>Las billeteras mencionadas son solo algunas de las opciones y criptowiki no garantiza la seguridad de ninguna. Sin embargo, veremos cada una en más detalle para poder elegir con libertad.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Ya vimos dónde se guardan los bitcoins y el funcionamiento básico de una billetera. Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir bitcoins. Hay distintas maneras de clasificar a los distintos tipos de billeteras.]]></summary></entry><entry><title type="html">¿Dónde se guardan los bitcoins?</title><link href="https://cripto.wiki/donde-se-guardan-los-bitcoins" rel="alternate" type="text/html" title="¿Dónde se guardan los bitcoins?" /><published>2019-09-29T00:00:00+00:00</published><updated>2019-09-29T00:00:00+00:00</updated><id>https://cripto.wiki/where-are-bitcoins-kept</id><content type="html" xml:base="https://cripto.wiki/donde-se-guardan-los-bitcoins"><![CDATA[<p>Así como para navegar por internet utilizamos navegadores web como Firefox o Safari, para enviar, recibir y “guardar” bitcoins usamos billeteras (también conocidas como <strong>monederos</strong> o en inglés, <strong>wallets</strong>). Decimos “guardar” porque en realidad los bitcoins existen como registros en la blockchain de Bitcoin; la billetera funciona como una pantalla que nos permite interactuar con ellos.</p>
-
-<h2 id="qué-es-una-billetera">¿Qué es una billetera?</h2>
-
-<p>Una billetera se encarga de generar y administrar las claves que nos permiten usar nuestros bitcoins. Pero, ¿qué son estas <strong>claves</strong>? Para entender, veamos lo que sucede cuando uno prepara una billetera, que es lo que uno debe hacer si quiere recibir bitcoins.</p>
-
-<p class="important">Nota: Para una explicación concisa y práctica que nos permita comenzar a utilizar Bitcoin, en este artículo nos concentraremos en las billeteras Bitcoin determinísticas, que son las que permiten generar e importar una frase de recuperación. Hoy en día son las más utilizadas, por lejos.</p>
-
-<h4 id="olvidando-lo-conocido">Olvidando lo conocido</h4>
-
-<p>Las billeteras Bitcoin <strong>son diferentes a las billeteras digitales de bancos o fintechs</strong>. Si bien hay billeteras Bitcoin que solicitan datos personales, hay otras más orientadas a la privacidad que no solicitan ningún dato personal (al menos no explícitamente). No es necesario ingresar nombre ni dirección de correo electrónico ni número de celular. Estos datos no son necesarios porque es la <strong>blockchain de Bitcoin</strong> la que lleva un registro de cuántos y cuáles bitcoins hay en cada dirección, y es con la <strong>frase de recuperación</strong> que podemos acceder a determinados bitcoins.</p>
-
-<p>Descifremos entonces qué es la frase de recuperación y qué es la blockchain de Bitcoin.</p>
-
-<p class="important">Nota: Que una billetera no nos solicite explícitamente datos personales (como una dirección de correo electrónico) no significa que seamos usuarios anónimos. Por ejemplo, las billeteras podrían registrar, entre otros datos, nuestra dirección IP.</p>
-
-<h2 id="blockchain-de-bitcoin">Blockchain de Bitcoin</h2>
-
-<p>Es un libro contable digital, descentralizado, público e inmutable. “Libro contable” porque registra todas las transacciones realizadas entre direcciones de manera cronológica; “descentralizado” porque el mismo registro completo se encuentra disponible en miles de computadoras o nodos; “público” porque cualquiera puede leer los registros (y verificarlos); “inmutable” porque una vez incorporada y verificada una transacción no se puede editar ni eliminar.</p>
-
-<p>Cuando uno realiza una transacción, donde se incluye la cantidad de <a href="/diccionario/satoshi">satoshis</a> a enviar, la dirección destinataria que recibirá los satoshis y la comisión que uno está dispuesto a pagar, al principio estará pendiente de confirmación. Las confirmación lleva entre 10 a 60 minutos en promedio. Cuanto más comisión se pague, menor será el tiempo de espera<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
-
-<p>Las transacciones confirmadas se van agrupando en bloques de información, donde cada bloque añadido enlaza solo al bloque inmediatamente anterior, y así hasta llegar al primer bloque; de ahí su nombre “blockchain” o en español, “cadena de bloques”. Cada uno de estos bloques se añade a la blockchain cada 10 minutos en promedio porque así está diseñado (por eso la espera mínima mencionada) y solo se añade una vez que una de las tantas computadoras que se encuentran realizando cálculos, conocidas como “mineros”, efectivamente encuentra la solución. En realidad, como a una sola computadora le llevaría mucho tiempo, trabajan juntas en “piletas de minería” (“mining pools”).</p>
-
-<p>Hay exploradores de la blockchain de Bitcoin, como <strong><a href="https://blockstream.info/">Blockstream Explorer</a></strong>, que nos permiten ver en detalle los últimos bloques añadidos y las últimas transacciones realizadas.</p>
-
-<p class="important">¿Qué se calcula exactamente? ¿Por qué 10 minutos? Seguramente tendrás muchas preguntas. Blockchain es solo una de las tantas tecnologías que utiliza Bitcoin. En próximos artículos veremos en mayor detalle cómo la genial combinación de ellas da forma a Bitcoin.</p>
-
-<h4 id="frase-de-recuperación">Frase de recuperación</h4>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/ejemplo-frase-de-recuperacion.png" width="500" />
-	<figcaption>Ejemplo de una frase de recuperación.</figcaption>
-</figure>
-
-<p>Las billeteras muestran por lo menos 2 opciones en su inicio:</p>
-<blockquote>
-  <p>1) Generar (o crear) una frase de recuperación</p>
+  <p>Soporta Bitcoin; no muestra valores en monedas nacionales</p>
 </blockquote>
 
-<blockquote>
-  <p>2) Importar una frase de recuperación</p>
-</blockquote>
+<h2 id="sobre-samourai">Sobre Samourai</h2>
 
-<p>Como es posible observar, las billeteras Bitcoin de hoy en día se centran en la frase de recuperación, y es por eso que es tan importante entender qué implica.</p>
+<p>En su <a href="https://samouraiwallet.com/">sitio web</a> se presentan como (traducido): “activistas de la privacidad que hemos dedicado nuestras vidas a crear el software que Silicon Valley nunca construirá, que los reguladores nunca permitirán y en el que los <em>venture capital</em> nunca invertirán. Construimos el software que Bitcoin merece.”</p>
 
-<p>Cuando coloquialmente se habla de “crear una billetera Bitcoin” en realidad significa, en la práctica, generar una frase de recuperación. Para eso elegimos dicha opción y el programa generará y nos mostrará la frase de recuperación, que debemos guardar en absoluto secreto.</p>
+<p>Entre los productos que ofrecen se encuentra la billetera Samourai Wallet.</p>
 
-<p>Dependiendo de la billetera, la frase de recuperación está formada por 12 a 27 palabras. Uno no elige las palabras ni el orden. No debemos compartir mediante mensaje de texto ni correo electrónico ni mensajería, ni siquiera en un mensaje a nosotros mismos. Tampoco debemos imprimir ni tomar una fotografía ni realizar captura de pantalla. No debemos compartirla con nadie, jamás, diga lo que diga.</p>
+<figure>
+	<img class="lazy" data-src="/assets/img/wallets/samourai-homescreen.png" width="300" />
+	<figcaption>Pantalla de inicio. Créditos: Samourai.</figcaption>
+</figure>
 
-<h4 id="por-qué-es-tan-importante-la-frase-de-recuperación">¿Por qué es tan importante la frase de recuperación?</h4>
+<h2 id="importante">Importante</h2>
 
-<p>La frase de recuperación, también conocida como “frase semilla” (en inglés, “<em>seed phrase</em>”), es una manera práctica de representar un número aleatorio muy grande (que como usuarios nunca vemos). Detrás de escena lo que sucede cuando seleccionamos “Crear billetera” es que el programa genera un número aleatorio enorme. Para poder copiarlo fácilmente se representa mediante palabras en un determinado orden. Es a partir del número que se representa mediante la frase que se pueden generar ilimitada cantidad de direcciones (para recibir bitcoins) y de cada una se deriva su correspondiente clave privada (para poder enviarlos)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup><sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>.</p>
+<p>En la tienda de aplicaciones Google Play, Samourai Wallet figura como una <strong>“aplicación con acceso anticipado”</strong>. Según la tienda de aplicaciones, es posible que este tipo de aplicaciones <strong>“se bloqueen o que algunas de sus funciones no se ejecuten correctamente”</strong>. Para guardar una cantidad importante de <a href="/diccionario/satoshi">satoshis</a> a largo plazo es preferible utilizar una billetera hardware.</p>
 
-<p>En pocas palabras, quien tenga acceso a la frase de recuperación puede acceder a los bitcoins. Por eso la importancia de mantenerla en secreto. Como usuarios solo vemos la frase de recuperación al crear la billetera (o al importarla). Veremos direcciones a medida que las generemos cada vez que queremos recibir un pago. Salvo excepciones, no nos cruzaremos con claves privadas ni públicas.</p>
-
-<h2 id="direcciones-y-claves">Direcciones y claves</h2>
-
-<p>Cuando uno ingresa una frase de recuperación en una billetera, la billetera deriva (utilizando matemática) las claves y las direcciones.</p>
-
-<p>Siguiendo el ejemplo previo, si uno ingresa dicha frase de recuperación en la billetera <a href="/billeteras/brd">BRD</a>, selecciona Bitcoin y selecciona “recibir”, la billetera generará y mostrará la siguiente dirección:</p>
-
-<blockquote>
-  <p>1MCmRGGmgUqURMy3LiVJb38Q323FBvKThS</p>
-</blockquote>
-
-<p>La dirección que nos muestre la compartimos a quien nos quiera enviar bitcoins, ya sea así textual o mediante un <a href="/diccionario/codigo-qr">código QR</a> (es lo mismo pero con otra forma).</p>
-
-<p class="important">Nota: La frase de recuperación y la dirección presentadas son solo ejemplos. No utilizar ni enviar satoshis allí.</p>
-
-<h5 id="ejemplo">Ejemplo</h5>
-
-<p>Si perdemos nuestro dispositivo, por ejemplo un celular donde teníamos 0.01 BTC, solo basta con conseguir otro dispositivo donde descargaremos una billetera (que puede ser de otra empresa) y esta vez elegiremos la otra opción (es decir “importar una frase de recuperación”) e ingresamos las palabras de manera ordenada. En realidad, dicho 0.01 BTC <strong>nunca estuvo en el celular; solo existe como un registro en la blockchain de Bitcoin</strong>. Por eso al ingresar la frase de recuperación en otra billetera en otro celular estaremos importando parte de la información necesaria para poder acceder a esos 0.01 BTC.</p>
-
-<p>Nótese que en ningún momento estamos ingresando una dirección de correo electrónico o número de teléfono.</p>
-
-<p class="important">Nota: Decimos que la frase de recuperación es "parte de la información necesaria" para tener acceso a los bitcoins porque además de ingresar la frase de recuperación, a veces hay que ingresar la "ruta de derivación". (Ver abajo).</p>
-
-<h2 id="información-muy-importante">Información muy importante</h2>
-
+<h2 id="cómo-comenzar">Cómo comenzar</h2>
 <ol>
   <li>
-    <p><strong>Podemos generar tantas frases de recuperación como queramos, gratuitamente y sin tener que ingresar datos personales</strong>. Si bien existen billeteras que sí piden datos, uno siempre puede elegir alternativas más privadas.</p>
+    <p>Primero que nada, <strong>descargar</strong> la billetera para Android buscando “Samourai Wallet” en la tienda de aplicaciones y asegurarse que sea la aplicación oficial. Otra opción es visitar <a href="https://samouraiwallet.com/download/wallet">la página oficial</a> y seguir el enlace de descarga.</p>
   </li>
   <li>
-    <p><strong>Cada frase de recuperación nos permite generar ilimitada cantidad de direcciones. Distintas frases de recuperación nos dan acceso a diferentes direcciones</strong>.</p>
+    <p>La app nos pedirá <strong>permiso</strong> para acceder al “Almacenamiento” del dispositivo y nos preguntará en qué carpeta deseamos guardar una copia de seguridad encriptada de la billetera que estamos por crear.</p>
   </li>
   <li>
-    <p><strong>Debemos guardar varias copias de la frase de recuperación en diferentes lugares</strong>. En caso de perder el dispositivo (sea celular o billetera hardware, por ejemplo), siempre podremos acceder a los satoshis con esa información.</p>
+    <p>Luego veremos que es posible <strong>conectarse a la red Tor o a un servidor Dojo propio</strong>. Conectarse a alguna opción o saltear este paso.</p>
   </li>
   <li>
-    <p><strong>Si perdemos toda copia de la frase de recuperación, perdemos acceso a todos los satoshis “guardados” en las direcciones asociadas</strong>. Es imposible recuperar el acceso y no hay a quién o qué reclamarle.</p>
+    <p>Seleccionamos <strong>“Crear nueva billetera”</strong>, ingresamos una <strong><a href="/herramientas/frase-de-contrasena">frase de contraseña</a></strong> y tildamos, si estamos de acuerdo, donde dice que entendemos que Samourai no nos puede ayudar si perdemos las claves. (Notar que ninguna billetera sin custodia correctamente diseñada podrá ayudarnos si perdemos las claves).</p>
   </li>
   <li>
-    <p><strong>No es necesario tener conexión a internet para crear una frase de recuperación</strong>. La blockchain de Bitcoin no tiene que incorporar las direcciones a medida que las generamos y tampoco tenemos que conectarnos a internet para recibir bitcoins. Solo es necesario que la persona que realiza un pago en Bitcoin se conecte para poder “mover” sus bitcoins a nuestra dirección. Es extremadamente poco probable (sino es que imposible) que otra persona genere las mismas claves y direcciones.</p>
+    <p>Ingresamos un <strong>PIN</strong>, que en este caso es un número entre 5 y 8 cifras. Este será solicitado cada vez que iniciamos la app (para no tener que ingresar la frase de recuperación y frase de contraseña cada vez).</p>
+  </li>
+  <li>
+    <p><strong>Nos recuerda que debemos crear una copia de respaldo de nuestra billetera</strong>. Ofrece un <a href="https://samouraiwallet.com/recovery/worksheet">archivo PDF</a> para, una vez impreso, escribir la frase de recuperación y la frase de contraseña allí (en dos hojas separadas).</p>
+  </li>
+  <li>
+    <p>Muestra un listado numerado que contiene 12 palabras. Esta es la <strong><a href="/diccionario/frase-de-recuperacion-semilla-seed">frase de recuperación</a></strong>. Nos recuerda que debemos anotar las palabras, mantenerlas en secreto, y que junto con la frase de contraseña, podremos recuperar la billetera.</p>
+  </li>
+  <li>
+    <p>Muestra la frase de contraseña. Seleccionamos “continuar” y ya podemos usar nuestra billetera.</p>
   </li>
 </ol>
 
-<h2 id="ruta-de-derivación">Ruta de derivación</h2>
+<h2 id="importante-1">Importante</h2>
 
-<p>Usualmente como usuarios no vemos la “ruta de derivación” porque muchas billeteras no la muestran con la intención de mejorar la experiencia de usuario. Sin embargo, dado que la ruta de derivación varía entre billeteras, si eventualmente la organización que desarrollaba la billetera que uno utiliza deja de operar, cuando queramos acceder utilizando otra billetera, necesitaremos la ruta derivación para poder importarla correctamente.</p>
+<ul>
+  <li>
+    <p>La billetera creada en Samourai Wallet <strong>se puede recuperar</strong> mediante 2 caminos. <strong>Camino 1</strong>: se tiene la copia de seguridad que genera la app (archivo “samourai.txt”) y la frase de contraseña (que ingresamos al crear la billetera). <strong>Camino 2</strong>: se tiene la frase de recuperación (es decir, las 12 palabras numeradas que generó la app) y la frase de contraseña. <strong>Samourai <a href="https://docs.samourai.io/wallet/restore-recovery#restore-samourai-paper-backup">recomienda</a> intentar restaurarla primero mediante el primer camino</strong>.</p>
+  </li>
+  <li>
+    <p>El PIN será solicitado cada vez que uno inicia la app. Si uno lo ingresa incorrectamente 3 veces consecutivas, la app solicitará la frase de contraseña. Si esta frase es correcta, mostrará el PIN.</p>
+  </li>
+</ul>
 
-<p>Como hemos visto, utilizando diferentes frases de recuperación es posible generar diferentes direcciones. Ahora expandimos: con una misma frase de recuperación, si se modifica la ruta de derivación, se tendrá acceso a <strong>otro</strong> conjunto ilimitado de direcciones.</p>
+<h2 id="enfocada-en-la-privacidad">Enfocada en la privacidad</h2>
 
-<p>No es necesario entrar en pánico si uno no tiene a mano la ruta de derivación dado que hay sitios web como <strong><a href="https://walletsrecovery.org/">walletsrecovery.org</a></strong> que llevan un registro de las rutas de derivación que utilizan distintas billeteras.</p>
+<ul>
+  <li>La posición de los números del <strong>teclado numérico cambia</strong> cada vez que hay que ingresar el PIN. De esta manera, si hay alguien merodeando y mirando sobre nuestros hombros, se le dificultará reconocer el PIN.</li>
+</ul>
 
-<h2 id="tipos-de-billeteras">Tipos de billeteras</h2>
+<figure>
+	<img class="lazy" data-src="/assets/img/wallets/samourai-scrambled-pin.png" width="200" />
+	<figcaption>El teclado numérico para ingresar el PIN está desordenado intencionalmente.</figcaption>
+</figure>
 
-<p>Hay distintas maneras de clasificar a los distintos tipos de billeteras. Una es <strong>según la plataforma sobre la que funciona</strong>: escritorio, web, móvil, hardware.</p>
+<ul>
+  <li>
+    <p>La <strong>frase de contraseña</strong> que uno ingresa se utiliza para encriptar la copia de seguridad en el dispositivo. Además, toma el rol de la palabra #13 en la frase de recuperación. Por eso en cualquier caso <strong>es necesaria para restaurar la billetera</strong>. Y por eso es recomendable usar una <a href="/herramientas/frase-de-contrasena">frase de contraseña fuerte</a>.</p>
+  </li>
+  <li>
+    <p>Cuenta con varias funciones innovadoras para proteger la privacidad del usuario. Una de ellas es <a href="https://docs.samourai.io/whirlpool/start"><strong>Whirpool</strong></a>, que permite realizar CoinJoins fácilmente, con el objetivo de dificultar el rastreo de los satoshis de un usuario en la blockchain.</p>
+  </li>
+</ul>
 
-<p>Otra manera de categorizarlas es según <strong>si la frase de recuperación entra en contacto con internet en algún momento o no</strong>: billetera caliente (o <em>hot wallet</em>) y billetera fría (o <em>cold wallet</em>).</p>
+<p>Más sobre Samourai Wallet, próximamente en cripto.wiki.</p>]]></content><author><name></name></author><category term="wallets" /><summary type="html"><![CDATA[Características Es una billetera móvil sin custodia, disponible para Android]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/wallets/samourai-180x180.png" /><media:content medium="image" url="https://cripto.wiki/wallets/samourai-180x180.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Binance exige verificar identidad a todos sus usuarios</title><link href="https://cripto.wiki/historia/2021/08/20/binance-exige-verificar-identidad-usuarios" rel="alternate" type="text/html" title="Binance exige verificar identidad a todos sus usuarios" /><published>2021-08-20T00:00:00+00:00</published><updated>2021-08-20T00:00:00+00:00</updated><id>https://cripto.wiki/historia/2021/08/20/binance-exige-verificar-identidad-usuarios</id><content type="html" xml:base="https://cripto.wiki/historia/2021/08/20/binance-exige-verificar-identidad-usuarios"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img/history/2021/08/20-binance-exige-verificar-identidad-usuarios.png" width="350" />
+	<figcaption></figcaption>
+</figure>
 
-<blockquote>
-  <p>Conoce las <a href="/tipos-de-billeteras">ventajas y desventajas de cada tipo de billetera</a>.</p>
-</blockquote>
+<p>Binance es el mayor exchange de criptomonedas por volumen operado en el mundo. Su alta liquidez, amplia variedad de instrumentos para operar y su continuo desarrollo son los principales atractivos para traders, junto con su política flexible de Conozca a Su Cliente (KYC). O al menos eso era así hasta hace unas horas.</p>
 
-<h3 id="bibliografía">Bibliografía</h3>
+<p>Binance fue fundada en el 2017 por Changpeng Zhao, quien fue su CEO hasta hace unos meses y quien previamente había trabajado en otros exchanges como empleado. En los comienzos de Binance solo era posible operar con criptomonedas y no solicitaban datos personales. Lo único que solicitaban era un correo electrónico y una contraseña. Luego, agregaron distintos canales para poder fondear la cuenta con monedas nacionales bajo la condición de aportar más datos.</p>
+
+<p>Conozca a Su Cliente (KYC) y Anti-Lavado de Dinero (AML) son regulaciones que apuntan a recolectar más información sobre los usuarios de servicios financieros con el objetivo de prevenir que criminales utilicen dinero obtenido ilícitamente (publicación enero 2020).</p>
+
+<p>En los últimos meses, gobiernos alrededor del mundo han exigido a Binance que refuerce su sistema KYC. A fines de julio redujeron de 2 a 0.06 la cantidad de bitcoins que se pueden retirar en un periodo de 24 horas para cuentas sin KYC. Desde ahora, todo nuevo usuario debe pasar por el proceso. Usuarios existentes también deben ingresar sus datos, salvo que retiren sus criptomonedas<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>Si ya tienes una cuenta allí y quieres evitar ingresar tus datos personales ya que eso no era parte de las condiciones cuando te registraste, te recomendamos retirar tu dinero cuanto antes. No hay razón para creer que no seguirán contemplando más casos a la hora de exigir información personal por presión de gobiernos. También podrían seguir disminuyendo el límite de retiro para cuentas sin KYC, generando un mayor gasto en comisiones para el usuario.</p>
+
+<p>Además, recordemos que si tu dinero está en un exchange centralizado corres más riesgos. Si quieres tener control de tu dinero, entonces debes guardarlo en una billetera sin custodia y tener tu propia frase de recuperación.</p>
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>Saylor Academy. PRDV151: Bitcoin for Everybody. How Bitcoin Works Under the Hood. Retrieved from <a href="https://learn.saylor.org/mod/page/view.php?id=30739">https://learn.saylor.org/mod/page/view.php?id=30739</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from <a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>Antonopoulos, A. M. (2018). Mastering bitcoin: programming the open blockchain. Retrieved from <a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc">https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Important Changes About Binance Identity Verification. <a href="https://www.binance.com/en/support/announcement/51bf294e26324211a4731ca998e110ca/">https://www.binance.com/en/support/announcement/51bf294e26324211a4731ca998e110ca/</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Así como para navegar por internet utilizamos navegadores web como Firefox o Safari, para enviar, recibir y “guardar” bitcoins usamos billeteras (también conocidas como monederos o en inglés, wallets). Decimos “guardar” porque en realidad los bitcoins existen como registros en la blockchain de Bitcoin; la billetera funciona como una pantalla que nos permite interactuar con ellos.]]></summary></entry><entry><title type="html">¿Qué es el dinero?</title><link href="https://cripto.wiki/que-es-el-dinero" rel="alternate" type="text/html" title="¿Qué es el dinero?" /><published>2019-07-07T00:00:00+00:00</published><updated>2019-07-07T00:00:00+00:00</updated><id>https://cripto.wiki/what-is-money</id><content type="html" xml:base="https://cripto.wiki/que-es-el-dinero"><![CDATA[<p>El dinero lo utilizamos todos los días y no nos preguntamos qué es o por qué lo usamos, sino que solemos darlo por sentado como si fuera algo obvio. Pero no lo es. Para entender qué es una criptomoneda, primero hay que entender qué es el dinero. Veamos rápidamente algunos de los distintos tipos de dinero y algunos capítulos importantes de su historia.</p>
-
-<h2 id="intercambios-no-monetarios">Intercambios no monetarios</h2>
-
-<p><strong>Durante 2000 años la sociedad no utilizó dinero para comerciar</strong>, sino que intercambiaba unos bienes y servicios por otros bienes y servicios. Este sistema es conocido como <strong>trueque</strong>. Analicemos el siguiente ejemplo concreto. Juan tiene 1 vaca y desea pescados, y Martina tiene 4 pescados y desea vacas. Si Juan y Martina quieren intercambiar sus animales deben cumplirse varias condiciones:</p>
-
-<ul>
-  <li>Debe ocurrir la <strong>“doble coincidencia de deseos”</strong>, es decir, que ambos quieran exactamente al mismo tiempo lo que el otro ofrece.</li>
-  <li>Deben ponerse de acuerdo con la equivalencia de bienes a intercambiar. En este caso, supongamos que Juan y Martina están de acuerdo con que 1 vaca vale lo mismo que 4 pescados.</li>
-  <li>Deben poseer una cantidad excedente que sea equivalente. En el ejemplo, si Martina hubiera tenido solo 2 pescados, ese intercambio no sería posible ya que 2 pescados solo los podría intercambiar por la mitad de una vaca, pero esta no es divisible.</li>
-</ul>
-
-<h2 id="surgimiento-del-dinero-dinero-mercancía">Surgimiento del dinero: dinero mercancía</h2>
-
-<p>Atrás quedaron los problemas mencionados cuando surge el dinero mercancía. Este dinero tiene <strong>valor intrínseco</strong>, es decir, toma el valor del bien que la compone y era aceptado en su momento por la mayoría de la sociedad. Bienes utilizados como dinero mercancía han sido el <strong>ganado en la Antigua Grecia, la sal en el Imperio Antiguo de Egipto y conchas de cauri en China</strong>. Si todos ofrecen sus productos y servicios a cambio de un bien común, se facilita el intercambio.</p>
-
-<figure>
-	<img class="lazy" data-src="/assets/img/articles/hombres-sal.jpg" />
-	<figcaption>Incluso la sal fue dinero en el Antiguo Egipto.</figcaption>
+</div>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/history/2021/08/20-binance-exige-verificar-identidad-usuarios.png" /><media:content medium="image" url="https://cripto.wiki/history/2021/08/20-binance-exige-verificar-identidad-usuarios.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ex subdirector de la CIA: “Exagerados los vínculos entre Bitcoin y delitos”</title><link href="https://cripto.wiki/historia/2021/04/06/ex-subdirector-cia-exagerados-bitcoin-delitos" rel="alternate" type="text/html" title="Ex subdirector de la CIA: “Exagerados los vínculos entre Bitcoin y delitos”" /><published>2021-04-06T00:00:00+00:00</published><updated>2021-04-06T00:00:00+00:00</updated><id>https://cripto.wiki/historia/2021/04/06/ex-subdirector-cia-exagerados-bitcoin-delitos</id><content type="html" xml:base="https://cripto.wiki/historia/2021/04/06/ex-subdirector-cia-exagerados-bitcoin-delitos"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img/history/2021/04/06-ex-subdirector-cia-exagerados-bitcoin-delitos.png" width="350" />
+	<figcaption></figcaption>
 </figure>
 
-<h3 id="metales-preciosos">Metales preciosos</h3>
+<p>En octubre de 2019 derribamos dos mitos: <a href="/mitos/bitcoin-es-anonimo">Bitcoin es anónimo</a> y <a href="/mitos/bitcoin-es-utilizado-solo-por-criminales">solo los criminales lo usan</a>. Ahora gracias a Michael Morell, ex subdirector de la CIA, tenemos más información.</p>
 
-<p>Luego, los bienes que se utilizaron como dinero mercancía fueron aquellos hechos con metales preciosos, como lingotes, aros y cuchillos hechos en oro o plata, porque ofrecen una serie de ventajas con respecto a los otros bienes:</p>
-<ul>
-  <li>Son durables y almacenables: el ganado muere; el oro no</li>
-  <li>Tienen valor intrínseco: se podían utilizar para crear herramientas o armas</li>
-  <li>Son escasos</li>
-  <li>Son divisibles</li>
-  <li>Son más fáciles de transportar</li>
-</ul>
-
-<h3 id="las-primeras-monedas">Las primeras monedas</h3>
-
-<p>Alrededor del siglo VII a.C, en lo que hoy sería <strong>Turquía</strong>, se acuñaron las <strong>primeras monedas occidentales</strong> hechas de forma irregular con una mezcla natural de oro y plata (llamada electro) en las cuales había una imagen estampada que indicaba su peso y su consecuente valor.</p>
-
-<p>Paralelamente, en <strong>China</strong> se comienza a utilizar las propias monedas aunque eran <strong>muy distintas</strong>. En lugar de tener una forma circular, eran objetos cotidianos en miniatura hechos en bronce. Luego le siguen otras regiones del mundo, como lo que hoy sería India (siglo IV a.C) y Grecia (siglo V a.C).</p>
+<p>“Un Análisis del Uso de Bitcoin en Finanzas Ilícitas”<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> es el título del reporte escrito por Morell junto con dos de sus colegas del Beacon Global Strategies, una consultora a la cual le fue asignada la tarea por el Crypto Council For Innovation, un grupo de lobby conformado recientemente por Fidelity, Square, Coinbase y Paradigm para hacer presión por una regulación que permita la adopción de criptomonedas.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/articles/coin-hollow-china.jpg" />
-	<figcaption>Moneda china con la forma de una pala primitiva. Crédito: <a href="https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx">British Museum</a></figcaption>
+	<img class="lazy" data-src="/assets/img/history/2021/04/06-ex-subdirector-cia-exagerados-bitcoin-delitos-reporte.png" />
+	<figcaption></figcaption>
 </figure>
 
-<p>Así, el dinero va a ir tomando distintas formas pero siempre buscando cumplir* 3 funciones:</p>
+<p>Afirma que la tecnología blockchain y las criptomonedas a las que da soporte “están en su camino a revolucionar las finanzas globales y los sistemas de pago”. Reconoce que él creía que las criptomonedas son una manera de transferir dinero de manera anónima y que había asumido que los funcionarios que estaban preocupados por la relación entre Bitcoin y el mundo criminal estaban muy bien informados. Para su sorpresa, dice, esas afirmaciones “están ampliamente sobreestimadas”.</p>
+
+<p>Cita, entre otras fuentes, un estudio de la firma de análisis de blockchain Chainanalysis que muestra que entre el 2017 y 2020 las transacciones ilegales de las criptomonedas eran menor al 1%. Según un ex analista de la CIA a quien consultó, <strong>“la mayor actividad ilícita todavía ocurre en el sistema bancario tradicional y no en criptomonedas”</strong>.</p>
+
+<p>Por otra parte, el analista alerta que están comenzando a utilizar alternativas para anonimizar el flujo de dinero, por ejemplo, mediante “criptomonedas privadas”, como Monero, que sí tiene una proporción mayor de transacciones utilizadas para actividades ilegales. También describe cómo los requerimientos Conozca a Su Cliente (KYC) ayudan a identificar a actores ilícitos que utilizan exchanges centralizados y por eso también advierte sobre los exchanges descentralizados (DEXs).</p>
+
+<p>Afirma haber llegado a 3 conclusiones:</p>
 <ul>
-  <li><strong>Medio de intercambio</strong>: se utiliza para acceder a bienes y servicios.</li>
-  <li><strong>Unidad de cuenta</strong>: se utiliza para expresar los precios de aquellos bienes y servicios.</li>
-  <li><strong>Depósito de valor</strong>: se utiliza para ahorrar.</li>
+  <li>Bitcoin es una tecnología “complicada de aprender y <strong>en general la gente teme lo que no entiende</strong>”</li>
+  <li>Las <strong>malas noticias llaman más la atención que las buenas</strong>, alterando nuestra percepción</li>
+  <li><strong>Instituciones financieras tradicionales podrían adaptarse e incorporarlo en sus negocios</strong></li>
 </ul>
 
-<p>En Venezuela, la moneda de curso legal es el bolívar. No cumple la función de depósito de valor (nadie que tiene alternativas elige esa moneda para ahorrar) debido a la hiperinflación que experimenta y sin embargo se la sigue considerando dinero.</p>
+<p>Morell propone utilizar la blockchain de Bitcoin como <strong>herramienta forense</strong> para identificar criminales, arrestarlos y realizar confiscaciones, y así dejarían de utilizarla completamente.</p>
 
-<h2 id="dinero-representativo">Dinero representativo</h2>
-
-<p>Es dinero basado en otro activo, como el oro o la plata, generalmente impreso en papel y por lo tanto, sin valor intrínseco.</p>
-
-<h3 id="papel-moneda">Papel moneda</h3>
-
-<p>Se refiere a los billetes o notas de crédito que son literalmente impresos en papel. <strong>No necesariamente es dinero representativo, sino que tiene que ver con la forma física</strong>.</p>
-
-<p>Es en China, durante el siglo VII, que se crea el papel moneda, <strong>posible gracias a la invención del papel y la imprenta</strong>. Al principio eran solo notas de crédito entre privados para poder transferir gran cantidad de valor fácilmente. Luego, durante la dinastía Yuan, las autoridades establecen el monopolio sobre la emisión del dinero y el papel moneda pasa a ser el único dinero de curso legal. Es decir que si alguien quiere comprar algo o pagar una deuda con este dinero, la otra parte debe aceptar porque así lo dice la ley. El papel moneda se usó en China hasta 1455, cuando el gobierno decidió eliminarlo dado que habían emitido mucho del mismo y generaron una gran inflación. Recién lo adoptarían nuevamente varios siglos después.</p>
-
-<p>A Europa llegó recién en el siglo XVII, cuando Johan Palmstruch, el director del “Stockholms Banco” (el primer banco central del mundo), decidió imprimir sus propios billetes bancarios respaldados por monedas de oro y plata en 1661. Pero 7 años después, <strong>el banco colapsó luego de emitir dinero irresponsablemente sin estar verdaderamente respaldado</strong>. Interesante final del primer banco central.</p>
-
-<p>A lo largo de los siglos siguientes, el papel moneda se expandió por el mundo, siendo a veces representativo y otras veces fiat.</p>
-
-<h2 id="dinero-fiat">Dinero fiat</h2>
-
-<p>Es el dinero que el Estado establece como tal, <strong>sin valor intrínseco y sin respaldo alguno</strong>. De ahí su nombre “fiat”, cuya traducción del latín es “hágase”. La sociedad lo utiliza porque es moneda de curso legal o por la confianza que le transmite.</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf">https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/history/2021/04/06-ex-subdirector-cia-exagerados-bitcoin-delitos.png" /><media:content medium="image" url="https://cripto.wiki/history/2021/04/06-ex-subdirector-cia-exagerados-bitcoin-delitos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tesla acepta bitcoin como medio de pago, y hodleará</title><link href="https://cripto.wiki/historia/2021/03/24/tesla-acepta-bitcoin-hodl" rel="alternate" type="text/html" title="Tesla acepta bitcoin como medio de pago, y hodleará" /><published>2021-03-24T00:00:00+00:00</published><updated>2021-03-24T00:00:00+00:00</updated><id>https://cripto.wiki/historia/2021/03/24/tesla-accepts-bitcoin-hodl</id><content type="html" xml:base="https://cripto.wiki/historia/2021/03/24/tesla-acepta-bitcoin-hodl"><![CDATA[<p>El 24 de marzo de 2021, Elon Musk anunció en Twitter<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> que es posible comprar un Tesla con bitcoin.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/articles/billetes-un-dolar-estadounidense.jpg" />
-	<figcaption>Billetes estadounidenses. Desde 1971 no tienen respaldo en oro (ni en nada).</figcaption>
+	<img class="lazy" data-src="/assets/img/history/2021/03/24-tesla-acepta-bitcoin-hodl-checkout.png" />
+	<figcaption>Página web de Tesla aceptando bitcoin</figcaption>
 </figure>
 
-<p>Como ejemplo, si bien en Argentina el dólar estadounidense no es moneda de curso legal, se suele preferir a la hora de ahorrar en lugar del peso argentino, que sí lo es. A su vez, el dólar no tiene ningún tipo de respaldo, más que la confianza que transmite el poderío de EEUU en el mundo y la confianza en que Reserva Federal no devaluará la moneda de manera abrupta emitiendo irresponsablemente.</p>
+<p>Este movimiento estratégico ya lo había anticipado en febrero, en su última presentación del formulario 10-K<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>, un informe sobre el desempeño financiero que las empresas públicas en EE. UU. están obligadas a presentar anualmente. En el mismo mencionaron que en enero habían modificado su política de inversiones para poder invertir en bitcoin. Anunciaron que adquirieron $1,5 mil millones de dólares en bitcoin y también adelantaron que esperaban aceptar a la principal criptomoneda como medio de pago en un futuro cercano. Ese futuro ya llegó. Si bien este medio de pago solo está disponible en EE. UU., el CEO también tuiteó<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> que estará disponible en otros países más tarde este mismo año.</p>
 
-<p>El dinero fiat lo usamos hoy cuando pagamos con billetes y monedas. También es el que utilizamos al comprar con una tarjeta de crédito o al realizar una transferencia bancaria, solo que en lugar de ser un bien material como los billetes, pasa a ser uno virtual, siendo solo números que se registran en bases de datos bancarias.</p>
+<p>Es muy importante destacar 2 cuestiones. La primera es que Tesla utiliza sus propios nodos de bitcoin<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>, eliminando intermediarios y fortaleciendo la red. La segunda es que no los convertirán a dinero fiat, esto es, el dinero que emiten los gobiernos alrededor del mundo, como pesos argentinos, uruguayos o dólares estadounidenses, que valen menos en el largo plazo. En su lugar, lo guardarán porque también lo ven como reserva de valor.</p>
 
-<h2 id="conclusión">Conclusión</h2>
+<p>Además, Tesla actualizó su sitio web y agregó una página<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup> donde responde preguntas frecuentes sobre bitcoin como medio de pago.</p>
 
-<p>El dinero es un bien que facilita el comercio y funciona principalmente porque la sociedad confía en él. La sociedad confía en que el dinero le permitirá acceder a diversos bienes y servicios, <strong>independientemente de la forma que tome y características que presente</strong>.</p>
+<figure>
+	<img class="lazy" data-src="/assets/img/history/2021/03/24-tesla-acepta-bitcoin-hodl-soporte.png" />
+	<figcaption>Preguntas frecuentes sobre bitcoin en Tesla.com</figcaption>
+</figure>
 
-<p>Nuestra idea sobre el dinero cambió constantemente a lo largo de la historia a medida que surgieron avances en su tecnología que nos hicieron la vida más sencilla: más fácil de transportar, de almacenar, de usar en el día a día. No sería ridículo creer que el dinero volverá a cambiar de forma, eventualmente, por otra más eficiente.</p>
+<p>En una publicación que realizamos en julio del 2019 en Instagram<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>, habíamos visto que Musk no se encontraba en la industria de las criptomonedas. En su momento había opinado que la tecnología detrás de Bitcoin es brillante pero que gasta mucha electricidad. Hoy, más de un año y medio después, vemos que su opinión cambió significativamente. En los últimos meses tuiteó positivamente sobre Bitcoin, colocó dinero de su empresa en la criptomoneda y ahora su empresa la acepta como medio de pago.</p>
 
-<p><strong>¿Sigue sonando absurdo que algo tan distinto como las criptomonedas podrían ser la próxima etapa en la evolución del dinero?</strong></p>
+<p>¿Por qué no es necesariamente un problema que Bitcoin gaste “mucha” electricidad? ¿Por qué fortalece la red correr sus propios nodos y qué ventajas le ofrece exactamente? Próximamente, en cripto.wiki</p>
 
-<div class="subtitle-2">Bibliografía</div>
-<div id="bibliography">
-<div>BBVA. (2018, April 08). ¿Qué es el dinero? Retrieved July 7, 2019, from https://www.bbva.com/es/que-es-el-dinero/</div>
-<div>British Museum. (n.d.). The origins of coinage. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/the_origins_of_coinage.aspx</div>
-<div>British Museum. (n.d.). The beginnings of coinage. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/the_beginnings_of_coinage.aspx</div>
-<div>British Museum. (n.d.). Currency in the modern world. Retrieved July 7, 2019, from https://www.britishmuseum.org/explore/themes/money/currency_in_the_modern_world.aspx</div>
-<div>Desjardins, J. (2015, December 17). Infographic: The Properties of Money. Retrieved July 7, 2019, from http://money.visualcapitalist.com/infographic-the-properties-of-money/</div>
-<div>European Central Bank. (2015, November 24). ¿Qué es el dinero? Retrieved July 7, 2019, from https://www.ecb.europa.eu/explainers/tell-me-more/html/what_is_money.es.html</div>
-<div>Maranzani, B. (2012, November 27). 8 Things You May Not Know About Money. Retrieved July 7, 2019, from https://www.history.com/news/8-things-you-may-not-know-about-money</div>
-<div>Self Bank. (2016, January 15). Dinero fiduciario, cuestión de confianza. Retrieved July 7, 2019, from https://blog.selfbank.es/dinero-fiduciario-cuestion-de-confianza/</div>
-<div>Zeder, R. (2019, March 17). The Four Different Types of Money. Retrieved July 7, 2019, from https://quickonomics.com/different-types-of-money/</div>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[El dinero lo utilizamos todos los días y no nos preguntamos qué es o por qué lo usamos, sino que solemos darlo por sentado como si fuera algo obvio. Pero no lo es. Para entender qué es una criptomoneda, primero hay que entender qué es el dinero. Veamos rápidamente algunos de los distintos tipos de dinero y algunos capítulos importantes de su historia.]]></summary></entry></feed>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://twitter.com/elonmusk/status/1374617643446063105">Musk: “You can now buy a Tesla with Bitcoin”</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p><a href="https://sec.report/Document/0001564590-21-004599/">Form 10-K Tesla, Inc. Annual report</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p><a href="https://twitter.com/elonmusk/status/1374619672973221892">Musk: “Pay by Bitcoin capability available outside US later this year”</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p><a href="https://twitter.com/elonmusk/status/1374619379929772034">Musk: “Tesla is using only internal &amp; open source software &amp; operates Bitcoin nodes directly […]”</a> <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p><a href="https://www.tesla.com/support/bitcoin">Bitcoin | Tesla</a> <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p><a href="https://www.instagram.com/p/B0ZW0PsARUR/">Publicación en Instagram</a> <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[El 24 de marzo de 2021, Elon Musk anunció en Twitter1 que es posible comprar un Tesla con bitcoin. Musk: “You can now buy a Tesla with Bitcoin” &#8617;]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/history/2021/03/24-tesla-acepta-bitcoin-hodl.png" /><media:content medium="image" url="https://cripto.wiki/history/2021/03/24-tesla-acepta-bitcoin-hodl.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Contraseña fuerte</title><link href="https://cripto.wiki/herramientas/contrasena-fuerte" rel="alternate" type="text/html" title="Contraseña fuerte" /><published>2021-01-21T00:00:00+00:00</published><updated>2021-01-21T00:00:00+00:00</updated><id>https://cripto.wiki/herramientas/2-strong-password</id><content type="html" xml:base="https://cripto.wiki/herramientas/contrasena-fuerte"><![CDATA[<p>Cuando creas una cuenta en una red social, o una cuenta en un exchange para comprar criptomonedas, o cuando creas cualquier cuenta… <strong>¿cómo eliges la contraseña?</strong></p>
+
+<p><strong>“123456”</strong> y <strong>“111111”</strong> se encuentran entre las contraseñas más utilizadas, descubiertas gracias a <strong>filtraciones de bases de datos donde quedan expuestas</strong>. Quienes utilizan este tipo de contraseñas corren un gran riesgo.</p>
+
+<p>Cuanto más larga la contraseña mejor, siempre y cuando incluya también letras (minúsculas y mayúsculas), números y símbolos. También es importante que la contraseña sea generada “aleatoriamente” para que otra persona no la adivine y para que una computadora no la encuentre rápidamente probando combinaciones. Esto es porque los humanos no tenemos la capacidad de generar datos de manera impredescible, mientras que las computadoras son mejores para hacer esa tarea.</p>
+
+<p>EVITAR:</p>
+<ul>
+  <li>reutilizarlas</li>
+  <li>incluir datos personales</li>
+  <li>compartirlas</li>
+  <li>guardarlas en un archivo de texto</li>
+</ul>
+
+<p>A su vez, por más que generemos contraseñas con un programa, resultaría imposible memorizar las decenas de contraseñas que utilizamos para ingresar a nuestro correo electrónico, redes sociales, otros servicios y dispositivos. Tampoco es una opción anotarla en un papel y dejarlo al lado de nuestra computadora, ya que otra persona la podría ver.</p>
+
+<p>¿Cuál es la solución? Usar un <strong><a href="/herramientas/gestor-de-contrasenas">gestor de contraseñas</a></strong>.</p>]]></content><author><name></name></author><category term="tools-cybersecurity" /><summary type="html"><![CDATA[Cuando creas una cuenta en una red social, o una cuenta en un exchange para comprar criptomonedas, o cuando creas cualquier cuenta… ¿cómo eliges la contraseña?]]></summary></entry><entry><title type="html">Símbolo bursátil</title><link href="https://cripto.wiki/diccionario/simbolo-bursatil" rel="alternate" type="text/html" title="Símbolo bursátil" /><published>2021-01-03T00:00:00+00:00</published><updated>2021-01-03T00:00:00+00:00</updated><id>https://cripto.wiki/diccionario/simbolo-bursatil</id><content type="html" xml:base="https://cripto.wiki/diccionario/simbolo-bursatil"><![CDATA[<p>Todas las criptomonedas tienen un nombre y un símbolo bursátil (o <em>ticker</em>). Los símbolos bursátiles nos permiten identificar rápidamente a cada criptomoneda y sirven para no confundirnos una con otra.</p>
+
+<h5 id="ejemplo">Ejemplo</h5>
+
+<p>El símbolo bursátil de <strong>bitcoin</strong> es <strong>BTC</strong>. En cambio, el símbolo bursátil de <strong>bitcoin cash</strong> es <strong>BCH</strong>. Bitcoin y bitcoin cash son dos criptomonedas distintas.</p>
+
+<p>Es por eso que es importante ver correctamente los símbolos bursátiles, porque sino uno puede comprar la criptomoneda equivocada.</p>]]></content><author><name></name></author><category term="dictionary" /><summary type="html"><![CDATA[Todas las criptomonedas tienen un nombre y un símbolo bursátil (o ticker). Los símbolos bursátiles nos permiten identificar rápidamente a cada criptomoneda y sirven para no confundirnos una con otra.]]></summary></entry><entry><title type="html">MicroStrategy adopta Bitcoin como activo de reserva principal</title><link href="https://cripto.wiki/historia/2020/08/11/microstrategy-adopta-bitcoin-activo-reserva-principal" rel="alternate" type="text/html" title="MicroStrategy adopta Bitcoin como activo de reserva principal" /><published>2020-08-11T00:00:00+00:00</published><updated>2020-08-11T00:00:00+00:00</updated><id>https://cripto.wiki/historia/2020/08/11/microstrategy-adopta-bitcoin-activo-reserva-principal</id><content type="html" xml:base="https://cripto.wiki/historia/2020/08/11/microstrategy-adopta-bitcoin-activo-reserva-principal"><![CDATA[<p>Primera publicación: 12 agosto 2020 en <a href="https://www.instagram.com/p/CDz8PxThzfz/">Instagram @cripto.wiki</a></p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" width="350" />
+	<figcaption></figcaption>
+</figure>
+
+<p>MicroStrategy publicó ayer un comunicado en su sitio web donde, luego de presentarse como “la mayor empresa de inteligencia empresarial independiente que cotiza en bolsa”, anunció que destinó la mitad de su dinero excedente a comprar 21,454 bitcoins por 250 millones de dólares.</p>
+
+<p>Michael J. Saylor, CEO de la compañía, cuenta que creen que Bitcoin “es un depósito confiable de valor y un activo de inversión atractivo con más potencial de apreciación a largo plazo que tener efectivo”.</p>
+
+<p>Además, dice que MicroStrategy pasó meses deliberando sobre cuál sería su estrategia de asignación de capital. Tuvieron en cuenta factores macro como “la crisis económica y salud pública precipitada por COVID-19, medidas de estímulo financiero gubernamentales sin precedentes […] y la incertidumbre política y económica mudial”. Sostiene que estos factores pueden llevar a que las monedas fiduciarias y muchos otros tipos de activos convencionales se deprecien significativamente.</p>
+
+<p>En cuanto a por qué Bitcoin, Saylor afirma que “Bitcoin es oro digital más duro, más fuerte, más rápido e inteligente que cualquier dinero que lo haya precedido.” Afirma también que desde la empresa esperan que su valor se incremente a medida que su tecnología se perfeccione, aumente su adopción y su efecto de red.</p>
+
+<p>El comunicado finaliza reconociendo que todas las declaraciones que hablan del futuro involucran riesgos e incertidumbres, tales como volatilidad histórica de los precios de Bitcoin, incertidumbre con respecto al tratamiento regulatorio de Bitcoin y potenciales ataques cibernéticos que podrían resultar en una pérdida parcial o total de los activos de Bitcoin de la compañia, entre otras.</p>
+
+<p>Sin duda alguna, esta es una de las noticias más emocionantes del año para la comunidad Bitcoin: una sola gran empresa compró el 0.1% de todos los bitcoins que existirán y cree en su presente y futuro. ¿Impulsará esta decisión, la de una empresa que se dedica precisamente a la inteligencia, a que otras sigan su camino?</p>
+
+<p>Fuente: https://www.microstrategy.com/us/company/press/microstrategy-adopts-bitcoin-as-primary-treasury-reserve-asset</p>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[Primera publicación: 12 agosto 2020 en Instagram @cripto.wiki]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" /><media:content medium="image" url="https://cripto.wiki/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Frase de recuperación / Semilla / Seed</title><link href="https://cripto.wiki/diccionario/frase-de-recuperacion-semilla-seed" rel="alternate" type="text/html" title="Frase de recuperación / Semilla / Seed" /><published>2020-05-25T00:00:00+00:00</published><updated>2020-05-25T00:00:00+00:00</updated><id>https://cripto.wiki/diccionario/seed</id><content type="html" xml:base="https://cripto.wiki/diccionario/frase-de-recuperacion-semilla-seed"><![CDATA[<p>Cuando uno crea una billetera de criptomonedas, esta le muestra, por lo general <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, una lista de palabras que debe anotar y guardar en un lugar seguro. Esta <strong>lista de palabras, donde el orden importa</strong>, es la frase de recuperación (también conocida como <em>semilla</em> o <em>seed</em>).</p>
+
+<p>El siguiente es un ejemplo de una frase de recuperación:</p>
+
+<blockquote>
+  <p>ópera letra diamante paella letal perfil década vinagre burro musgo talla caimán</p>
+</blockquote>
+
+<p>A partir de la frase de recuperación se pueden generar ilimitadas direcciones para recibir criptomonedas <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. Es muy importante guardar varias copias offline ya que con esa frase se pueden volver a generar todas las direcciones nuevamente desde cualquier lugar.</p>
+
+<p>Solo es necesario utilizar una billetera que permita importar las palabras para acceder al dinero. No es necesario utilizar la misma billetera específica, uno es libre de elegir otra billetera en cualquier momento y por lo tanto uno tampoco está atado a la existencia de determinada billetera.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Por lo general, porque no todas las billeteras utilizan este sistema de frase de recuperación, aunque sí la gran mayoría. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Las billeteras que soportan distintas criptomonedas permitirán generar ilimitadas direcciones para recibir esas criptomonedas. Las billeteras que solo soportan bitcoin, solo permitirán generar ilimitadas direcciones para recibir bitcoin. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="dictionary" /><summary type="html"><![CDATA[Cuando uno crea una billetera de criptomonedas, esta le muestra, por lo general 1, una lista de palabras que debe anotar y guardar en un lugar seguro. Esta lista de palabras, donde el orden importa, es la frase de recuperación (también conocida como semilla o seed). Por lo general, porque no todas las billeteras utilizan este sistema de frase de recuperación, aunque sí la gran mayoría. &#8617;]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cripto.wiki/dictionary/es/semilla.png" /><media:content medium="image" url="https://cripto.wiki/dictionary/es/semilla.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
