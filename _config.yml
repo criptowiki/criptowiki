@@ -58,10 +58,10 @@ defaults:
     values:
       layout: 'myth'
   - scope:
-      path: ''
-      type: 'dictionary'
+      path: '_posts/dictionary/'
     values:
       layout: 'dictionary-definition'
+      category: 'dictionary'
   - scope:
       path: '_posts/wallets/'
     values:
