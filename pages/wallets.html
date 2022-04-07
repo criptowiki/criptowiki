@@ -11,12 +11,12 @@ css: wallets
     <p>{{ page.description }}</p>
     <div class="content list">
 
-    	{% for wallet in site.wallets %}
-        	<a href="{{ wallet.permalink }}">
+    	{% for post in site.categories.wallets %}
+        	<a href="{{ post.permalink }}">
                 <div>
-                    <img src="/assets/img/{{ wallet.image }}" width="100" />
+                    <img src="/assets/img/{{ post.image }}" width="100" />
                 </div>
-                <span>{{ wallet.title }}</span>
+                <span>{{ post.title }}</span>
             </a>
 		{% endfor %}
     </div>

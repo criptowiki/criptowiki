@@ -10,18 +10,17 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 		<div id="welcome" class="section border">
 			<h2 class="subtitle">Billeteras</h2>
 			<div id="wallets">
-				{% assign wallets = site.wallets | sort: 'position' %}
-				{% for wallet in wallets limit: 2 %}
-					<a href="{{ wallet.permalink }}">
-						<img src="{{ site.baseurl }}/assets/img/{{ wallet.image }}" width="50" />
-						<div><span>{{ wallet.title }}</span></div>
+				{% for post in site.categories.wallets limit: 2 %}
+					<a href="{{ post.permalink }}">
+						<img src="{{ site.baseurl }}/assets/img/{{ post.image }}" width="50" />
+						<div><span>{{ post.title }}</span></div>
 					</a>
 				{% endfor %}
 			</div>
 		</div>
 
 		<div class="articles-list">
-			{% for post in site.posts limit: 5 %}
+			{% for post in site.categories.bitcoin limit: 5 %}
 
 				<a href="{{ post.permalink }}">
 					<div class="article">
