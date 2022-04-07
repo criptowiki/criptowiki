@@ -38,10 +38,10 @@ defaults:
       layout: 'article'
       category: 'bitcoin'
   - scope:
-      path: ''
-      type: 'history'
+      path: '_posts/history/'
     values:
       layout: 'history'
+      category: 'history'
   - scope:
       path: ''
       type: 'tutorials'
