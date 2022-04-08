@@ -1,10 +1,10 @@
 {% if page.description %}
     {% capture pageDescription %}{{ page.description }}{% endcapture %}
-{% elsif page.collection == 'articles' %}
+{% elsif page.layout == 'article' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
-{% elsif page.collection == 'dictionary' %}
+{% elsif page.layout == 'dictionary-definition' %}
     {% capture pageDescription %}¿Qué significa '{{ page.title }}'? {{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
-{% elsif page.collection == 'tools-cybersecurity' or page.collection == 'myths' or page.collection == 'wallets' or page.collection == 'history' %}
+{% elsif page.layout == 'tool' or page.layout == 'myth' or page.layout == 'wallet' or page.layout == 'history' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% else %}
     {% capture pageDescription %}{{ site.description }}{% endcapture %}
