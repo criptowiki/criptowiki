@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "cripto.wiki"
-  spec.version       = "0.1.1"
-  spec.authors       = ["cripto.wiki"]
+  spec.name          = "criptowiki"
+  spec.version       = "0.2"
+  spec.authors       = ["criptowiki"]
   spec.email         = ["criptowiki@protonmail.ch"]
 
-  spec.summary       = "cripto.wiki: descifrando el mundo de Bitcoin, privacidad & ciberseguridad"
-  spec.homepage      = "https://cripto.wiki/"
+  spec.summary       = "criptowiki: descifrando el mundo de Bitcoin, privacidad & ciberseguridad"
+  spec.homepage      = "https://criptowiki.com/"
   
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
