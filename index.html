@@ -7,17 +7,6 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 <h1 id="motto">{{ site.description }}</h1>
 <div id="column-left">
 	<div id="column-left-flex">
-		<div id="welcome" class="section border">
-			<h2 class="subtitle">Billeteras</h2>
-			<div id="wallets">
-				{% for post in site.categories.wallets limit: 2 %}
-					<a href="{{ post.permalink }}">
-						<img src="{{ site.baseurl }}/assets/img/{{ post.image }}" width="50" />
-						<div><span>{{ post.title }}</span></div>
-					</a>
-				{% endfor %}
-			</div>
-		</div>
 
 		<div class="articles-list">
 			{% for post in site.categories.bitcoin limit: 5 %}
@@ -49,6 +38,20 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 			{% endfor %}
 		</div>
 	</div>
+
+	<div class="section border">
+		<h2 class="subtitle">Billeteras</h2>
+		<div class="content" id="wallets">
+			{% for post in site.categories.wallets limit: 2 %}
+			{% assign image_array = post.image | split: "." %}
+		            <a href="{{ post.permalink }}">
+	        			<img src="{{ site.baseurl }}/assets/img/{{ post.image }}" width="50" />
+	        			<div><span>{{ post.title }}</span></div>
+		            </a>
+			{% endfor %}
+		</div>
+	</div>
+
 	<div class="section border">
 		<h2 class="subtitle">Protégete de cibercriminales</h2>
 		<div class="content">
@@ -69,14 +72,6 @@ description: Descifrando el mundo de Bitcoin, privacidad & ciberseguridad. Apren
 				<a href="https://mastodon.social/@{{ site.social.mastodon }}/"><i class="icon-mastodon"></i></a>
 			</div>
 		</div>
-	</div>	
-	<div class="section border">
-		<h2 class="subtitle">cripto.wiki es transparente</h2>
-		<div class="content">
-			<p>
-				El código y el contenido de este sitio web se encuentra disponible en <a href="https://github.com/criptowiki/criptowiki">GitHub</a>.
-			</p>
-		</div>
-	</div>
+	</div>		
 </div>
 <div class="clear"></div>
