@@ -1,6 +1,6 @@
-title: cripto.wiki
+title: criptowiki
 description: descifrando el mundo de Bitcoin, privacidad & ciberseguridad
-url: https://cripto.wiki
+url: https://criptowiki.com
 language: es
 baseurl: ''
 
@@ -66,4 +66,4 @@ compress_html:
     envs: [development] # bundle exec jekyll serve JEKYLL_ENV=development
 
 include: [CNAME]
-exclude: [LICENSE.txt, README.md, cripto.wiki.gemspec]
+exclude: [LICENSE.txt, README.md, criptowiki.gemspec]

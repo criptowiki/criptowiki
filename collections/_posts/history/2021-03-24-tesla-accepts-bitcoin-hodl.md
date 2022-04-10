@@ -18,7 +18,7 @@ Además, Tesla actualizó su sitio web y agregó una página[^5] donde responde 
 
 En una publicación que realizamos en julio del 2019 en Instagram[^6], habíamos visto que Musk no se encontraba en la industria de las criptomonedas. En su momento había opinado que la tecnología detrás de Bitcoin es brillante pero que gasta mucha electricidad. Hoy, más de un año y medio después, vemos que su opinión cambió significativamente. En los últimos meses tuiteó positivamente sobre Bitcoin, colocó dinero de su empresa en la criptomoneda y ahora su empresa la acepta como medio de pago.
 
-¿Por qué no es necesariamente un problema que Bitcoin gaste "mucha" electricidad? ¿Por qué fortalece la red correr sus propios nodos y qué ventajas le ofrece exactamente? Próximamente, en cripto.wiki
+¿Por qué no es necesariamente un problema que Bitcoin gaste "mucha" electricidad? ¿Por qué fortalece la red correr sus propios nodos y qué ventajas le ofrece exactamente? Próximamente, en criptowiki.
 
 [^1]: [Musk: "You can now buy a Tesla with Bitcoin"](https://twitter.com/elonmusk/status/1374617643446063105)
 [^2]: [Form 10-K Tesla, Inc. Annual report](https://sec.report/Document/0001564590-21-004599/)
