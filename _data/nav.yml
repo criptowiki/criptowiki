@@ -1,5 +1,3 @@
-- name: Inicio
-  link: /
 - name: Billeteras
   link: /billeteras/
 - name: Herramientas
