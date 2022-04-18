@@ -1,0 +1,71 @@
+---
+---
+
+#page-content .center
+    width: 750px !important
+
+.articles-list
+    padding: 10px 0px
+    width: 100%
+    border: 1px solid #E5E5E5
+    border-radius: 7px
+    -moz-border-radius: 7px
+    -webkit-border-radius: 7px
+
+.articles-list a
+    text-decoration: none
+    border: none
+
+.articles-list a:hover .article-img img
+    opacity: 1
+
+.articles-list a:hover .article
+    color: #000
+
+.article
+    float: left
+    padding: 15px 20px
+    width: 100%
+    border: none
+
+.article-img
+    float: left
+    width: 300px
+    height: 210px
+    object-fit: cover
+    overflow: hidden
+    border-radius: 7px
+    -moz-border-radius: 7px
+    -webkit-border-radius: 7px
+
+.article-img img
+    display: block
+    max-width: 100%
+    opacity: 0.9
+
+.article-txt
+    padding: 5px 20px 20px 20px
+    margin-left: 300px
+    line-height: 1.45em
+
+.article-title
+    font-weight: bold
+    font-size: 1em
+
+.article-description
+    padding-top: 15px
+    font-size: 0.9em
+    color: #444
+
+@media screen and (max-width: 700px)
+    .article-txt
+        padding: 15px 5px 5px 5px
+
+    .article-img,
+    .article-txt
+        float: left
+        margin: 0
+        width: 100%
+
+    .article-img img
+        width: 100%
