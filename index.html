@@ -9,18 +9,22 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 	<div id="column-left-flex">
 
 		<div class="articles-list">
-			{% for post in site.categories.bitcoin limit: 5 %}
-
-				<a href="{{ post.permalink }}">
-					<div class="article">
-						<div class="article-img"><img src="{{ site.baseurl }}/assets/img/articles-thumbnails/{{ post.permalink }}-300x210.jpg" alt="" /></div>
-						<div class="article-txt">
-							<div class="article-title">{{ post.title }}</div>
-							<div class="article-description">{{ post.content | strip_html | truncatewords: 18}}</div>
-						</div>
-					</div>
-				</a>
-
+			{% assign n = 0 %}
+			{% for post in site.posts %}
+				{% if post.category == 'bitcoin' %}
+					{% if n < 4 %}
+						<a href="{{ post.permalink }}">
+							<div class="article">
+								<div class="article-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="" /></div>
+								<div class="article-txt">
+									<div class="article-title">{{ post.title }}</div>
+									<div class="article-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
+								</div>
+							</div>
+						</a>
+					{% endif %}
+					{% assign n = n | plus:1 %}
+				{% endif %}
 			{% endfor %}
 		</div> <!-- .articles-list -->
 	</div> <!-- #column-left-flex -->

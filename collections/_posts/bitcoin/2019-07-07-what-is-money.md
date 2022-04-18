@@ -1,6 +1,7 @@
 ---
 title: ¿Qué es el dinero?
 permalink: que-es-el-dinero
+image: articles-thumbnails/que-es-el-dinero-300x210.jpg
 published: 07/07/2019
 ---
 
