@@ -1,0 +1,27 @@
+---
+title: Bitcoin
+description: Todo sobre el fascinante mundo de Bitcoin.
+permalink: /bitcoin/
+layout: page
+css: bitcoin
+---
+
+<div class="section">
+    <h1 class="title">{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <div class="section articles-list">
+
+        {% for post in site.categories.bitcoin limit: 5 %}
+            <a href="{{ site.baseurl}}/{{ post.permalink }}">
+                <div class="article">
+                    <div class="article-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="" /></div>
+                    <div class="article-txt">
+                        <div class="article-title">{{ post.title }}</div>
+                        <div class="article-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        
+    </div>
+</div>
