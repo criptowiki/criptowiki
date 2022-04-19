@@ -1,7 +1,7 @@
 ---
-title: Herramientas
-description: Herramientas para proteger tu privacidad y seguridad.
-permalink: /herramientas/
+title: Ciberseguridad
+description: Herramientas y mejores prácticas para proteger tu privacidad y seguridad digital.
+permalink: /ciberseguridad/
 layout: page
 css: items-list
 ---
@@ -10,8 +10,8 @@ css: items-list
     <h1 class="title">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
     <div class="content items-list">
-        {% assign tools = site.categories.tools-cybersecurity | sort: 'position' %}
-    	{% for post in tools %}        	
+        {% assign cybersecurity = site.categories.cybersecurity | sort: 'position' %}
+    	{% for post in cybersecurity %}        	
             <a href="{{ post.permalink }}"><div>{{ post.title }}</div></a>
 		{% endfor %}
     </div>

@@ -1,6 +1,6 @@
 ---
 title: Frase de contraseña
-permalink: /herramientas/frase-de-contrasena
+permalink: /ciberseguridad/frase-de-contrasena
 position: 4
 ---
 

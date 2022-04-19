@@ -1,6 +1,6 @@
 ---
 title: Contraseña fuerte
-permalink: /herramientas/contrasena-fuerte
+permalink: /ciberseguridad/contrasena-fuerte
 position: 2
 ---
 

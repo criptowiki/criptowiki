@@ -1,6 +1,6 @@
 ---
 title: Gestor de contraseñas
-permalink: /herramientas/gestor-de-contrasenas
+permalink: /ciberseguridad/gestor-de-contrasenas
 position: 3
 ---
 

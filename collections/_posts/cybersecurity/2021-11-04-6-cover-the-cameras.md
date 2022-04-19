@@ -1,6 +1,6 @@
 ---
 title: Cubrir las cámaras
-permalink: /herramientas/cubrir-las-camaras
+permalink: /ciberseguridad/cubrir-las-camaras
 image: /tools-cybersecurity/cubrir-las-camaras.png
 position: 6
 ---
