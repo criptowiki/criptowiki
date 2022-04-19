@@ -28,10 +28,10 @@ defaults:
       layout: 'history'
       category: 'history'
   - scope:
-      path: '_posts/tools-cybersecurity/'
+      path: '_posts/cybersecurity/'
     values:
-      layout: 'tool'
-      category: 'tools-cybersecurity'
+      layout: 'cybersecurity'
+      category: 'cybersecurity'
   - scope:
       path: '_posts/myths/'
     values:
