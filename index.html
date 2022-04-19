@@ -31,7 +31,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 </div>
 <div id="column-right">
 	<div class="section border">
-		<h2 class="subtitle">Historia</h2>
+		<h2 class="subtitle"><a href="{{ site.baseurl }}/historia/">Historia</a></h2>
 		<div class="content" id="history">
 			{% for post in site.categories.history limit: 3 %}
 			{% assign image_array = post.image | split: "." %}
@@ -44,7 +44,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 	</div>
 
 	<div class="section border">
-		<h2 class="subtitle">Billeteras</h2>
+		<h2 class="subtitle"><a href="{{ site.baseurl }}/billeteras/">Billeteras</a></h2>
 		<div class="content" id="wallets">
 			{% for post in site.categories.wallets limit: 2 %}
 			{% assign image_array = post.image | split: "." %}
