@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2022-04-19T02:24:59+00:00</updated><id>https://criptowiki.com/feed.xml</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">Cubrir las cámaras</title><link href="https://criptowiki.com/ciberseguridad/cubrir-las-camaras" rel="alternate" type="text/html" title="Cubrir las cámaras" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/6-cover-the-cameras</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/cubrir-las-camaras"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2022-04-19T23:52:34+00:00</updated><id>https://criptowiki.com/feed.xml</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">¿Han filtrado mis datos? Have I Been Pwned?</title><link href="https://criptowiki.com/ciberseguridad/have-i-been-pwned" rel="alternate" type="text/html" title="¿Han filtrado mis datos? Have I Been Pwned?" /><published>2022-04-19T00:00:00+00:00</published><updated>2022-04-19T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/have-i-been-pwned</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/have-i-been-pwned"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img//cybersecurity/es/have-i-been-pwned/inicio.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+
+<p><a href="https://haveibeenpwned.com/">Have I Been Pwned</a> es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública.</p>
+
+<p>Conocido también por sus iniciales “<strong>HIBP</strong>”, fue creado en diciembre de 2013 por <strong>Troy Hunt</strong>, consultor de seguridad web y director regional de Microsoft. Lo creó para que cualquier persona u organización lo utilice para estar al tanto de nuevas filtraciones.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned/filtraciones.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+
+<p>Nada impide que una persona cualquiera ingrese la dirección de otra persona para saber qué cuentas fueron expuestas, pero la realidad es que cibercriminales ya estaban utilizando esa información y era la mayoría de las personas la que no estaba al tanto, y lo creó justamente para generar conciencia.</p>
+
+<p>El autor explica que una filtración de datos (o brecha de datos) es “un incidente en el que los datos quedan expuestos inadvertidamente en un sistema vulnerable, normalmente debido a controles de acceso insuficientes o a fallos de seguridad en el software.” Al momento de esta publicación, incluye 591 sitios web y más de 11700 millones de cuentas.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned/filtrado-no.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+
+<p>Es posible registrarse para estar al tanto de nuevas filtraciones y también es posible “optar por salir”, es decir, eliminar el correo electrónico para que no aparezca en consultas (<a href="https://haveibeenpwned.com/OptOut">haveibeenpwned.com/OptOut</a>).</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned/filtrado-si.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned/filtrado-si-2.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+
+<p>Para utilizar HIBP te recomendamos acceder mediante <strong>Tor</strong>, ya que no tenemos la certeza que del otro lado no están asociando búsquedas con direcciones IP.</p>
+
+<p>Además, se financia mediante donaciones en Bitcoin y Bitcoin Cash.</p>
+
+<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned/donaciones.png" width="500" />
+	<figcaption></figcaption>
+</figure>
+
+<p>¿Por qué “pwned” y de dónde obtiene la información? ¿Por qué Bitcoin es mejor que Bitcoin Cash y qué podemos hacer si nuestros datos se encuentran ahí? ¿Qué es Tor? Próximamente en criptowiki.</p>]]></content><author><name></name></author><category term="cybersecurity" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned/inicio.png" /><media:content medium="image" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned/inicio.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cubrir las cámaras</title><link href="https://criptowiki.com/ciberseguridad/cubrir-las-camaras" rel="alternate" type="text/html" title="Cubrir las cámaras" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/6-cover-the-cameras</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/cubrir-las-camaras"><![CDATA[<figure>
 	<img class="lazy" data-src="/assets/img/tools-cybersecurity/cubrir-las-camaras.png" width="500" />
 	<figcaption></figcaption>
 </figure>
@@ -262,6 +305,4 @@
 
 <p>Sin duda alguna, esta es una de las noticias más emocionantes del año para la comunidad Bitcoin: una sola gran empresa compró el 0.1% de todos los bitcoins que existirán y cree en su presente y futuro. ¿Impulsará esta decisión, la de una empresa que se dedica precisamente a la inteligencia, a que otras sigan su camino?</p>
 
-<p>Fuente: https://www.microstrategy.com/us/company/press/microstrategy-adopts-bitcoin-as-primary-treasury-reserve-asset</p>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[Primera publicación: 12 agosto 2020 en Instagram @cripto.wiki]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" /><media:content medium="image" url="https://criptowiki.com/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">KYC</title><link href="https://criptowiki.com/diccionario/kyc" rel="alternate" type="text/html" title="KYC" /><published>2020-05-25T00:00:00+00:00</published><updated>2020-05-25T00:00:00+00:00</updated><id>https://criptowiki.com/diccionario/kyc</id><content type="html" xml:base="https://criptowiki.com/diccionario/kyc"><![CDATA[<p>Iniciales de “Know Your Customer”, cuya traducción es “Conozca a su Cliente”.</p>
-
-<p>Las casas de cambio, bancos y otras instituciones financieras solicitan y verifican los datos personales de sus clientes para prevenir el lavado de dinero y financiamiento al terrorismo.</p>]]></content><author><name></name></author><category term="dictionary" /><summary type="html"><![CDATA[Iniciales de “Know Your Customer”, cuya traducción es “Conozca a su Cliente”.]]></summary></entry></feed>
+<p>Fuente: https://www.microstrategy.com/us/company/press/microstrategy-adopts-bitcoin-as-primary-treasury-reserve-asset</p>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[Primera publicación: 12 agosto 2020 en Instagram @cripto.wiki]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" /><media:content medium="image" url="https://criptowiki.com/history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
