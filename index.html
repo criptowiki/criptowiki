@@ -11,7 +11,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 		<div class="articles-list">
 			{% assign n = 0 %}
 			{% for post in site.posts %}
-				{% if post.category == 'bitcoin' %}
+				{% if post.category == 'bitcoin' or post.category == 'cybersecurity' %}
 					{% if n < 4 %}
 						<a href="{{ post.permalink }}">
 							<div class="article">
