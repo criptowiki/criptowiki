@@ -1,8 +1,11 @@
 ---
 title: Contraseña fuerte
 permalink: /ciberseguridad/contrasena-fuerte
+image: /cybersecurity/es/contrasena-fuerte/inicio.png
 position: 2
 ---
+
+{% include image.html url=page.image width="500" %}
 
 Cuando creas una cuenta en una red social, o una cuenta en un exchange para comprar criptomonedas, o cuando creas cualquier cuenta... **¿cómo eliges la contraseña?**
 
@@ -18,4 +21,4 @@ EVITAR:
 
 A su vez, por más que generemos contraseñas con un programa, resultaría imposible memorizar las decenas de contraseñas que utilizamos para ingresar a nuestro correo electrónico, redes sociales, otros servicios y dispositivos. Tampoco es una opción anotarla en un papel y dejarlo al lado de nuestra computadora, ya que otra persona la podría ver.
 
-¿Cuál es la solución? Usar un **[gestor de contraseñas]({{ site.baseurl }}/herramientas/gestor-de-contrasenas)**.
+¿Cuál es la solución? Usar un **[gestor de contraseñas]({{ site.baseurl }}/ciberseguridad/gestor-de-contrasenas)**.
