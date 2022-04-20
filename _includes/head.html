@@ -4,7 +4,7 @@
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% elsif page.layout == 'dictionary-definition' %}
     {% capture pageDescription %}¿Qué significa '{{ page.title }}'? {{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
-{% elsif page.layout == 'tool' or page.layout == 'myth' or page.layout == 'wallet' or page.layout == 'history' %}
+{% elsif page.layout == 'cybersecurity' or page.layout == 'myth' or page.layout == 'wallet' or page.layout == 'history' %}
     {% capture pageDescription %}{{ page.content | strip_html | escape | normalize_whitespace | truncate: 150 }}{% endcapture %}
 {% else %}
     {% capture pageDescription %}{{ site.description }}{% endcapture %}
@@ -49,9 +49,9 @@
     {% endif %}
 
     {% if page.collection == 'posts' %}
-    <meta property="og:image" content="{{ site.url }}/assets/img/articles-thumbnails/{{ page.permalink }}.jpg"/>
+    <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}"/>
     <style>
-        #article-header:after { background-image: url('{{ site.baseurl }}/assets/img/articles-thumbnails/{{ page.permalink }}.jpg'); }
+        #article-header:after { background-image: url('{{ site.url }}/assets/img/{{ page.image }}'); }
     </style>
     {% elsif page.image %}
     <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}"/>

@@ -1,7 +1,7 @@
 ---
 title: Edward Snowden&#58; "Borrar es una ficción"
 permalink: /ciberseguridad/borrar-es-una-ficcion
-image: /tools-cybersecurity/borrar-es-una-ficcion.png
+image: tools-cybersecurity/borrar-es-una-ficcion.png
 position: 1
 ---
 
