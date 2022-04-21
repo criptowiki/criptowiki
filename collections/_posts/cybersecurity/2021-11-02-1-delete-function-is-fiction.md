@@ -1,11 +1,11 @@
 ---
 title: Edward Snowden&#58; "Borrar es una ficción"
 permalink: /ciberseguridad/borrar-es-una-ficcion
-image: tools-cybersecurity/borrar-es-una-ficcion.png
+image: cybersecurity/es/borrar-es-una-ficcion/inicio-300x210.png
 position: 1
 ---
 
-{% include image.html url=page.image width="500" %}
+{% include image.html url="cybersecurity/es/borrar-es-una-ficcion/inicio.png" width="500" %}
 
 Edward Snowden, ex empleado de la CIA y quien hizo públicos documentos sobre cómo diversos gobiernos realizan espionaje masivo, publicó en el 2019 una autobiografía titulada **"Permanent Record"**.
 

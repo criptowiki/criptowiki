@@ -1,7 +1,7 @@
 ---
 title: ¿Han filtrado mis datos? Have I Been Pwned?
 permalink: /ciberseguridad/have-i-been-pwned
-image: cybersecurity/es/have-i-been-pwned/inicio.png?d=1942022
+image: cybersecurity/es/have-i-been-pwned/inicio-300x210.png?d=1942022
 position: 1
 ---
 

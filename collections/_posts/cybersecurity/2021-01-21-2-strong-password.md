@@ -1,11 +1,11 @@
 ---
 title: Contraseña fuerte
 permalink: /ciberseguridad/contrasena-fuerte
-image: cybersecurity/es/contrasena-fuerte/inicio.png
+image: cybersecurity/es/contrasena-fuerte/inicio-300x210.png
 position: 2
 ---
 
-{% include image.html url=page.image width="500" %}
+{% include image.html url="cybersecurity/es/contrasena-fuerte/inicio.png" width="500" %}
 
 Cuando creas una cuenta en una red social, o una cuenta en un exchange para comprar criptomonedas, o cuando creas cualquier cuenta... **¿cómo eliges la contraseña?**
 
