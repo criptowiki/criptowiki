@@ -1,11 +1,11 @@
 ---
 title: ¿Han filtrado mis datos? Have I Been Pwned?
 permalink: /ciberseguridad/have-i-been-pwned
-image: cybersecurity/es/have-i-been-pwned/inicio-300x210.png?d=1942022
+image: cybersecurity/es/have-i-been-pwned/inicio-300x210.png
 position: 1
 ---
 
-{% include image.html url=page.image width="500" %}
+{% include image.html url="cybersecurity/es/have-i-been-pwned/inicio.png" width="500" %}
 
 [Have I Been Pwned](https://haveibeenpwned.com/) es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública.
 
