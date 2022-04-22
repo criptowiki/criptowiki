@@ -1,11 +1,11 @@
 ---
 title: Cubrir las cámaras
 permalink: /ciberseguridad/cubrir-las-camaras
-image: cybersecurity/es/cubrir-las-camaras/inicio-300x210.png
+image: cybersecurity/es/cubrir-las-camaras-300x210.png
 position: 6
 ---
 
-{% include image.html url="cybersecurity/es/cubrir-las-camaras/inicio.png" width="500" %}
+{% include image.html url="cybersecurity/es/cubrir-las-camaras.png" width="500" %}
 
 En junio de 2016, Mark Zuckerberg, fundador y CEO de Facebook, publicó una fotografía en esa red social acompañado de un texto donde celebraba el haber alcanzado los 500 millones de usuarios en Instagram (que también pertenece a Facebook Inc.). En la foto es posible ver que la cámara de su computadora está cubierta.
 
