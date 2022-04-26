@@ -15,7 +15,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 					{% if n < 4 %}
 						<a href="{{ post.permalink }}">
 							<div class="post">
-								<div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="" /></div>
+								<div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title | escape }}" /></div>
 								<div class="post-txt">
 									<div class="post-title">{{ post.title }}</div>
 									<div class="post-description">{{ post.content | strip_html | truncatewords: 23 }}</div>

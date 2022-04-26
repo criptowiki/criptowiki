@@ -14,7 +14,7 @@ css: bitcoin
         {% for post in site.categories.bitcoin limit: 5 %}
             <a href="{{ site.baseurl}}/{{ post.permalink }}">
                 <div class="post">
-                    <div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="" /></div>
+                    <div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title | escape }}" /></div>
                     <div class="post-txt">
                         <div class="post-title">{{ post.title }}</div>
                         <div class="post-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
