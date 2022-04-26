@@ -9,17 +9,20 @@ css: history
 <div class="section">
     <h1 class="title">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
-    <div class="content list">
+    <div class="section posts-list">
 
         {% for post in site.categories.history %}
         {% assign image_array = post.image | split: "." %}
             <a href="{{ post.permalink }}">
-                <div>
-                    <img src="/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
+                <div class="post">
+                    <div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-300x210.{{ image_array[1] }}" alt="{{ post.title | escape }}" /></div>
+                    <div class="post-txt">
+                        <div class="post-title">{{ post.title }}</div>
+                        <div class="post-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
+                    </div>
                 </div>
-                <span>{{ post.title }}</span>
             </a>
         {% endfor %}
-
+        
     </div>
 </div>
