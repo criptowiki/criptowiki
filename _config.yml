@@ -52,7 +52,6 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
 
