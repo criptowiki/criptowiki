@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "myths.css",
+	"sources": [
+		"myths.sass"
+	],
+	"sourcesContent": [
+		"#page-content .center {\n    width: 750px !important; }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,aAAa,CAAC,OAAO,AAAC,CAClB,KAAK,CAAE,gBAAgB,CAAG"
+}
