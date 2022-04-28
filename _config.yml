@@ -55,6 +55,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
 
+feed:
+  path: /feed
+
 compress_html:
   clippings: all
   comments: all
