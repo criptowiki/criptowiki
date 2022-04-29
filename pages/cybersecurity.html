@@ -9,10 +9,19 @@ css: items-list
 <div class="section">
     <h1 class="title">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
-    <div class="content items-list">
-        {% assign cybersecurity = site.categories.cybersecurity | sort: 'position' %}
-    	{% for post in cybersecurity %}        	
-            <a href="{{ post.permalink }}"><div>{{ post.title }}</div></a>
-		{% endfor %}
+    <div class="section posts-list">
+
+        {% for post in site.categories.cybersecurity %}
+            <a href="{{ post.permalink }}">
+                <div class="post">
+                    <div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="" /></div>
+                    <div class="post-txt">
+                        <div class="post-title">{{ post.title }}</div>
+                        <div class="post-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        
     </div>
 </div>

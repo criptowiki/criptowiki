@@ -1,6 +1,7 @@
 ---
 title: Frase de contraseña
 permalink: /ciberseguridad/frase-de-contrasena
+image: cybersecurity/es/frase-de-contrasena-300x210.png
 position: 4
 ---
 

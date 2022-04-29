@@ -1,6 +1,7 @@
 ---
 title: Gestor de contraseñas
 permalink: /ciberseguridad/gestor-de-contrasenas
+image: cybersecurity/es/gestor-de-contrasenas-300x210.png
 position: 3
 ---
 
