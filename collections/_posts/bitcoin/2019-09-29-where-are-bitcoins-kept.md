@@ -1,7 +1,7 @@
 ---
 title: ¿Dónde se guardan los bitcoins?
 permalink: donde-se-guardan-los-bitcoins
-image: bitcoin/es/donde-se-guardan-los-bitcoins-300x210.jpg
+image: bitcoin/es/donde-se-guardan-los-bitcoins.jpg
 updated: 09/11/2021
 ---
 

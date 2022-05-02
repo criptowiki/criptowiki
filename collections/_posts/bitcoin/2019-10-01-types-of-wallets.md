@@ -1,7 +1,7 @@
 ---
 title: Tipos de billeteras
 permalink: tipos-de-billeteras
-image: bitcoin/es/tipos-de-billeteras-300x210.jpg
+image: bitcoin/es/tipos-de-billeteras.jpg
 updated: 8/10/2021
 ---
 

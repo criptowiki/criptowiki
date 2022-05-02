@@ -1,7 +1,7 @@
 ---
 title: Contraseña fuerte
 permalink: /ciberseguridad/contrasena-fuerte
-image: cybersecurity/es/contrasena-fuerte-300x210.png
+image: cybersecurity/es/contrasena-fuerte.png
 position: 2
 ---
 

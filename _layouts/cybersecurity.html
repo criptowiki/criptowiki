@@ -15,13 +15,14 @@ css: cybersecurity
 		<div id="related-posts">
 			<div>Más sobre ciberseguridad</div>
 			{% for post in site.categories.cybersecurity limit: 3 %}
+				{% assign image_array = post.image | split: "." %}
 				{% if post.permalink == page.permalink %}
 					{% continue %}
 				{% endif %}
 
 				<a href="{{ post.permalink }}">
 					<div class="post">
-						<div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title | escape }}" /></div>
+						<div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-300x210.{{ image_array[1] }}" alt="{{ post.title | escape }}" /></div>
 						<div class="post-txt">
 							<div class="post-title">{{ post.title }}</div>
 							<div class="post-description">{{ post.content | strip_html | truncatewords: 23 }}</div>
