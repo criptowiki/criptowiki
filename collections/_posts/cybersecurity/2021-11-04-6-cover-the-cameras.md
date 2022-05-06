@@ -1,7 +1,7 @@
 ---
 title: Cubrir las cámaras
 permalink: /ciberseguridad/cubrir-las-camaras
-image: cybersecurity/es/cubrir-las-camaras.png
+image: cybersecurity/es/cubrir-las-camaras.png?v=050522
 ---
 
 {% include image.html url="cybersecurity/es/cubrir-las-camaras.png" width="500" %}
