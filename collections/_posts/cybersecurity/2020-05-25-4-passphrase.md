@@ -2,7 +2,6 @@
 title: Frase de contraseña
 permalink: /ciberseguridad/frase-de-contrasena
 image: cybersecurity/es/frase-de-contrasena.png
-position: 4
 ---
 
 Las frases de contraseñas no son tan conocidas pero pueden ser tan o más seguras que las contraseñas.

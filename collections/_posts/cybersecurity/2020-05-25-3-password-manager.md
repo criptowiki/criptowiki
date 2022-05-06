@@ -2,7 +2,6 @@
 title: Gestor de contraseñas
 permalink: /ciberseguridad/gestor-de-contrasenas
 image: cybersecurity/es/gestor-de-contrasenas.png
-position: 3
 ---
 
 Es un programa que genera y almacena contraseñas, entre otras funciones. La idea es que sea **necesario recordar solo una contraseña maestra para poder desbloquear el gestor de contraseñas y así acceder a todas las demás contraseñas dentro del programa.**
