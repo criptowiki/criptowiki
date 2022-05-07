@@ -42,16 +42,18 @@
 
 #article-title
     float: left
-    margin: 80px 0 80px 0
     width: 100%
-    font-size: 2.2em
+    font-size: 1.3em
     text-align: center
-    line-height: 1.75em
-    color: #FAFAFA
 
-#article-title span
+#article-title h1
+    margin: 90px 0 90px 0
+    font-weight: 400
+
+#article-title h1 span
     padding: 15px 25px
     background-color: #111
+    color: #FAFAFA
     border-radius: 7px
     -moz-border-radius: 7px
     -webkit-border-radius: 7px
@@ -108,9 +110,12 @@
 
 
 @media screen and (max-width: 700px)
-    #article-title
-        margin: 70px 0 70px 0
-        font-size: 1.6em
+    #article-title        
+        font-size: 1em
 
-    #article-title span
+    #article-title h1
+        margin: 70px 0 70px 0
+        line-height: 1.75em
+
+    #article-title h1 span
         padding: 15px 5px
