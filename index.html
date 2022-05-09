@@ -37,7 +37,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 			{% for post in site.categories.history limit: 3 %}
 			{% assign image_array = post.image | split: "." %}
 		            <a href="{{ post.permalink }}">
-	        			<img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" width="100" />
+	        			<img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-100x100.{{ image_array[1] }}" alt="{{ post.title | strip_html | escape }}" width="100" />
 	        			<div><span>{{ post.title }}</span></div>
 		            </a>
 			{% endfor %}
@@ -50,7 +50,7 @@ description: Aprende todo sobre Bitcoin, cómo protegerse de cibercriminales y m
 			{% for post in site.categories.wallets limit: 2 %}
 			{% assign image_array = post.image | split: "." %}
 		            <a href="{{ post.permalink }}">
-	        			<img src="{{ site.baseurl }}/assets/img/{{ post.image }}" width="50" />
+	        			<img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title }}" width="50" />
 	        			<div><span>{{ post.title }}</span></div>
 		            </a>
 			{% endfor %}
