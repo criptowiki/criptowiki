@@ -5,7 +5,7 @@ permalink: /diccionario/simbolo-bursatil
 
 Todas las criptomonedas tienen un nombre y un símbolo bursátil (o _ticker_). Los símbolos bursátiles nos permiten identificar rápidamente a cada criptomoneda y sirven para no confundirnos una con otra.
 
-##### Ejemplo
+## Ejemplo
 
 El símbolo bursátil de **bitcoin** es **BTC**. En cambio, el símbolo bursátil de **bitcoin cash** es **BCH**. Bitcoin y bitcoin cash son dos criptomonedas distintas.
 

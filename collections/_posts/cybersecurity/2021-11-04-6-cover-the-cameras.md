@@ -16,7 +16,7 @@ Ocurre que luego pueden extorsionar a usuarios desprevenidos pidendo recompensas
 
 Además, uno podría no darse cuenta y ser espíado o sufrir robo de identidad.
 
-### ¿Cómo protegerse?
+## ¿Cómo protegerse?
 
 En el mercado hay disponibles **cobertores de cámaras web**. Otra opción más sencilla y barata es utilizar un **pedazo de cinta** o si no tienes a mano, **un pedazo de papel con cinta adhesiva**. Ten cuidado de no dañar la cámara.
 

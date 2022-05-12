@@ -6,7 +6,7 @@ image: cybersecurity/es/ublock-origin.png
 
 {% include image.html url=page.image width="500" %}
 
-### ¿Qué es y para qué sirve?
+## ¿Qué es y para qué sirve?
 
 uBlock Origin es una extensión para navegadores web que filtra contenido, incluyendo publicidad, rastreadores y dominios en listas negras. Es **gratuita** y multiplataforma.
 
