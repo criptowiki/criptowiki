@@ -4,7 +4,7 @@ permalink: /ciberseguridad/ublock-origin
 image: cybersecurity/es/ublock-origin.png
 ---
 
-{% include image.html url=page.image width="500" %}
+{% include image.html url=page.image width="500" alt="uBlock Origin es distinta a uBlock" %}
 
 ## ¿Qué es y para qué sirve?
 
@@ -12,8 +12,8 @@ uBlock Origin es una extensión para navegadores web que filtra contenido, inclu
 
 En la descripción de la misma no se presenta como un "bloqueador de anuncios" sino como un "bloqueador muy eficiente de amplio espectro" ya que consume menos memoria y tiene muchas más funciones. Entre estas, es posible configurar la extensión para bloquear contenido específico con reglas propias, aunque la configuración por defecto ya es muy útil.
 
-{% include image.html url="cybersecurity/es/ublock-origin-ventajas-desventajas.png" width="500" %}
+{% include image.html url="cybersecurity/es/ublock-origin-ventajas-desventajas.png" width="500" alt="Ventajas y desventajas de uBlock Origin" %}
 
 Te invitamos a que pruebes uBlock Origin y verás cómo tu experiencia navegando en internet mejorará significativamente. Encuéntrala en la tienda de aplicaciones de tu navegador preferido, instálala y notarás las mejoras.
 
-{% include image.html url="cybersecurity/es/ublock-origin-video.png" width="500" %}
+{% include image.html url="cybersecurity/es/ublock-origin-video.png" width="500" alt="uBlock Origin en YouTube" %}
