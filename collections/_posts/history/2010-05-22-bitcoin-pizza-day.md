@@ -2,6 +2,7 @@
 title: Bitcoin Pizza Day
 permalink: /historia/2010/05/22/bitcoin-pizza-day
 image: history/2010/05/22-bitcoin-pizza-day-laszlo-hanyecz.jpg
+tag: bitcoin
 ---
 
 El 22 de mayo de 2010, bitcoin tuvo su primer caso de uso reconocido. Un programador llamado Laszlo Hanyecz compró 2 pizzas, gastando 10 mil bitcoins.

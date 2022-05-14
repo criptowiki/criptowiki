@@ -2,6 +2,7 @@
 title: Tesla acepta bitcoin como medio de pago, y hodleará
 permalink: /historia/2021/03/24/tesla-acepta-bitcoin-hodl
 image: history/2021/03/24-tesla-acepta-bitcoin-hodl.png
+tags: bitcoin tesla
 ---
 
 El 24 de marzo de 2021, Elon Musk anunció en Twitter[^1] que es posible comprar un Tesla con bitcoin.

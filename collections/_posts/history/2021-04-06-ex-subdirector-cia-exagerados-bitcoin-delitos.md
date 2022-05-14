@@ -2,6 +2,7 @@
 title: Ex subdirector de la CIA&#58; &#34;Exagerados los vínculos entre Bitcoin y delitos&#34;
 permalink: /historia/2021/04/06/ex-subdirector-cia-exagerados-bitcoin-delitos
 image: history/2021/04/06-ex-subdirector-cia-exagerados-bitcoin-delitos.png
+tags: bitcoin CIA
 ---
 
 {% include image.html url=page.image width=350 %}

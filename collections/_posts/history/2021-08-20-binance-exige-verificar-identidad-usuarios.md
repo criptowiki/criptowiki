@@ -2,6 +2,7 @@
 title: Binance exige verificar identidad a todos sus usuarios
 permalink: /historia/2021/08/20/binance-exige-verificar-identidad-usuarios
 image: history/2021/08/20-binance-exige-verificar-identidad-usuarios.png
+tags: bitcoin Binance KYC
 ---
 
 {% include image.html url=page.image width=350 %}

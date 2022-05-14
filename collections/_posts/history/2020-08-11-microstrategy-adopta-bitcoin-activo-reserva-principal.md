@@ -2,6 +2,7 @@
 title: MicroStrategy adopta Bitcoin como activo de reserva principal
 permalink: /historia/2020/08/11/microstrategy-adopta-bitcoin-activo-reserva-principal
 image: history/2020/08/11-microstrategy-adopta-bitcoin-activo-reserva-principal.png
+tags: bitcoin microstrategy
 ---
 
 Primera publicación: 12 agosto 2020 en [Instagram @cripto.wiki](https://www.instagram.com/p/CDz8PxThzfz/)
