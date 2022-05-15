@@ -4,6 +4,11 @@ description: Herramientas y mejores prácticas para proteger tu privacidad y seg
 permalink: /ciberseguridad/
 layout: page
 css: items-list
+pagination: 
+  enabled: true
+  category: cybersecurity
+  title: 'Ciberseguridad | Página :num'
+  permalink: /:num/
 ---
 
 <div class="section">
@@ -11,7 +16,7 @@ css: items-list
     <p>{{ page.description }}</p>
     <div class="section posts-list">
 
-        {% for post in site.categories.cybersecurity %}
+        {% for post in paginator.posts %}
         {% assign image_array = post.image | split: "." %}
             <a href="{{ post.permalink }}">
                 <div class="post">
@@ -25,4 +30,23 @@ css: items-list
         {% endfor %}
         
     </div>
-</div>
+
+    {% if paginator.total_pages > 1 %}
+        <div id="pagination">
+
+            {% if paginator.previous_page %}
+            <div class="previous">
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Más recientes</a>
+            </div>
+            {% endif %}
+
+            {% if paginator.next_page %}
+            <div class="next">
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Más antiguos &rarr;</a>
+            </div>
+            {% endif %}
+
+        </div> <!-- #pagination -->
+    {% endif %}
+
+</div> <!-- .section -->
