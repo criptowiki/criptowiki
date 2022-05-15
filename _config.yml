@@ -51,9 +51,18 @@ defaults:
 sass:
   style: compressed
 
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-paginate-v2
 
 feed:
   path: /feed
