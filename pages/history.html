@@ -4,6 +4,11 @@ description: Los eventos más importantes en la historia de Bitcoin y el mundo c
 permalink: /historia/
 layout: page
 css: history
+pagination: 
+  enabled: true
+  category: history
+  title: 'Historia | Página :num'
+  permalink: /:num/
 ---
 
 <div class="section">
@@ -25,4 +30,23 @@ css: history
         {% endfor %}
         
     </div>
+
+    {% if paginator.total_pages > 1 %}
+        <div id="pagination">
+
+            {% if paginator.previous_page %}
+            <div class="previous">
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Más recientes</a>
+            </div>
+            {% endif %}
+
+            {% if paginator.next_page %}
+            <div class="next">
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Más antiguos &rarr;</a>
+            </div>
+            {% endif %}
+
+        </div> <!-- #pagination -->
+    {% endif %}
+    
 </div>
