@@ -4,6 +4,11 @@ description: ¿Es bitcoin una estafa piramidal? ¿Está el dólar verdaderamente
 permalink: /mitos/
 layout: page
 css: myths
+pagination: 
+  enabled: true
+  category: myths
+  title: 'Mitos | Página :num'
+  permalink: /:num/
 ---
 
 <div class="section">
@@ -11,7 +16,7 @@ css: myths
     <p>{{ page.description }}</p>
     <div class="section posts-list">
 
-        {% for post in site.categories.myths %}
+        {% for post in paginator.posts %}
         {% assign image_array = post.image | split: "." %}
             <a href="{{ post.permalink }}">
                 <div class="post">
@@ -25,4 +30,23 @@ css: myths
         {% endfor %}
         
     </div>
+
+    {% if paginator.total_pages > 1 %}
+        <div id="pagination">
+
+            {% if paginator.previous_page %}
+            <div class="previous">
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Más recientes</a>
+            </div>
+            {% endif %}
+
+            {% if paginator.next_page %}
+            <div class="next">
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Más antiguos &rarr;</a>
+            </div>
+            {% endif %}
+
+        </div> <!-- #pagination -->
+    {% endif %}
+
 </div>
