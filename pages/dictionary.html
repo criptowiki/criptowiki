@@ -11,10 +11,15 @@ css: items-list
     <p>{{ page.description }}</p>
     <div class="content items-list">
 
-        {% assign dictionary = site.categories.dictionary | sort: 'title' %}
-    	{% for post in dictionary %}
-        	<a href="{{ post.permalink }}"><div>{{ post.title }}</div></a>
-		{% endfor %}
+
+        {% assign dictionary = site.categories.dictionary | sort: "title" %}
+        {% assign postsByLetter =  dictionary | group_by_exp: "post", "post.title | slice: 0, 1" %}
+        {% for letter in postsByLetter %}
+            <h2>{{ letter.name }}</h2>
+            {% for post in letter.items %}
+            <a href="{{ post.permalink }}"><div>{{ post.title }}</div></a>
+            {% endfor %}
+        {% endfor %}
 
     </div>
 </div>
