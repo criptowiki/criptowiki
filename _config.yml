@@ -63,9 +63,18 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-polyglot
 
 feed:
   path: /feed
+
+languages: ["es", "en"]
+default_lang: "es"
+exclude_from_localization: ["assets", "redirects", "_sass"]
+parallel_localization: true
+lang_from_path: true
+sass:
+    sourcemap: never
 
 compress_html:
   clippings: all
