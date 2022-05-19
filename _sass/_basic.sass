@@ -140,21 +140,35 @@ pre,
 
 .breadcrumb
     float: left
-    margin-bottom: 15px
     font-size: 0.9em
     width: 100%
 
+.breadcrumb ol
+    float: left
+    padding-left: 0
+    width: 100%
+    list-style: none
+
+.breadcrumb ol li
+    float: left
+    display: inline
+    padding: 0 7px
+    width: auto
+
+.breadcrumb ol li:first-of-type
+    padding-left: 0
+
+.breadcrumb ol li:last-of-type
+    color: #555
+
+.breadcrumb ol li:not(:last-of-type):after
+    content: "  >"
+    white-space: pre
+    color: #666
+
 .breadcrumb a
     float: left
-    padding: 9px 12px
     text-decoration: none
-    background-color: #F8F8FB
-    border: 1px solid #E5E5E5
-    border-radius: 5px
-    -moz-border-radius: 5px
-    -webkit-border-radius: 5px
 
 .breadcrumb a:hover
-    background-color: #F3F3F8
-    color: #111
-    border: 1px solid #888
+    text-decoration: underline

@@ -11,7 +11,12 @@ css: article
 	</div>
 	<div id="article-body">
 		<div class="center">
-			<div class="breadcrumb"><a href="{{ site.baseurl }}/bitcoin/">Bitcoin</a></div>
+			<div class="breadcrumb">
+				<ol>
+					<li><a href="{{ site.baseurl }}/">Inicio</a></li>
+					<li><a href="{{ site.baseurl }}/bitcoin/">Bitcoin</a></li>
+				</ol>
+			</div>
 			<div id="article-meta">
 				<span id="article-time">
 					{% if page.updated %}
