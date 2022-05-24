@@ -12,6 +12,16 @@
 		</nav>
 		<div id="site-social">
 			<a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="icon-twitter-square"></i></a>
+			<a href="{{ site.baseurl }}{{ site.feed.path }}" title="Atom"><i class="icon-rss-square"></i></a>
 		</div>
+		<div id="site-search">
+			<input id="site-search-input" type="search" placeholder="Buscar" />
+		</div>		
 	</div>
 </header>
+<div id="site-search-results-box">
+	<div class="center">
+		<h2>Resultados</h2>
+		<div id="site-search-results"></div>
+	</div>
+</div>

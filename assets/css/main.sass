@@ -60,15 +60,56 @@
 #site-nav a:last-of-type
     padding-right: 0
 
-#site-social
+#site-search
     float: right
     margin-top: 3px
-    font-size: 1.4em
+
+#site-search input
+    padding-left: 10px
+    width: 175px
+    height: 28px
+    font-size: 11pt
+    font-weight: 400
+    color: #111
+    border: 1px solid #DDD
+    border-radius: 4px
+    -moz-border-radius: 4px
+    -webkit-border-radius: 4px
+    outline: none
+    -webkit-appearance: none
+    box-sizing: border-box
+    -moz-box-sizing: border-box
+    -webkit-box-sizing: border-box
+
+#site-search-results-box
+    display: none
+
+#site-search-results
+    float: left
+    margin-top: 10px
+    width: 100%
+
+#site-search-results > div
+    padding: 10px 5px 10px 5px
+    margin-bottom: 15px
+
+#site-search-results a
+    display: block
+
+#site-search-results span
+    font-size: 0.8em
+
+#site-social
+    float: right
+    margin-left: 20px
+    margin-top: 2px
+    font-size: 1.45em
 
 #site-social a
     text-decoration: none
 
-#page-content
+#page-content,
+#site-search-results-box
     flex: 1
     padding-top: 35px
     margin-top: 25px
@@ -116,6 +157,11 @@
 
 
 /*************** ADAPTIVE ***************/
+@media screen and (max-width: 1200px)
+    #site-search-input
+        width: 100px !important
+
+
 @media screen and (max-width: 1100px)
     .body
         font-size: 1.1em
@@ -159,6 +205,7 @@
         padding-left: 50px
         color: #FFF !important
 
+    #site-search,
     #site-social
         display: none
 

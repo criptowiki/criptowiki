@@ -8,8 +8,40 @@
 		<div id="copyright">&COPY; 2019 - {{ 'now' | date: "%Y" }} criptowiki</div>
 	</div>
 </footer>
+
+
+<!-- Main -->
 {% if jekyll.environment == "production" %}
 <script src="{{ site.baseurl }}/assets/js/main.min.js"></script>
 {% else %}
 <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 {% endif %}
+
+
+<!-- Search -->
+<script src="{{ site.baseurl }}/assets/js/search.min.js"></script>
+<script>
+// Show/hide results when user types in search input
+document.getElementById("site-search-input").addEventListener("keyup", displayResults);
+function displayResults() {
+
+	let input = document.getElementById("site-search-input").value;
+    if (!input) {
+    	// No search
+    	document.getElementById("site-search-results-box").style.display = "none";
+    	document.getElementById("page-content").style.display = "block";
+    } else {
+    	// Searching
+    	document.getElementById("site-search-results-box").style.display = "block";
+    	document.getElementById("page-content").style.display = "none";
+    }
+
+}
+
+SimpleJekyllSearch({
+	searchInput: document.getElementById('site-search-input'),
+	resultsContainer: document.getElementById('site-search-results'),
+	json: '{{ site.baseurl }}/search.json',
+	searchResultTemplate: '<div><a href="{url}">{title}</a><span>{date}</span></div>'
+})
+</script>
