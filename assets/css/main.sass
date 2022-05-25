@@ -71,7 +71,7 @@
     font-size: 11pt
     font-weight: 400
     color: #111
-    border: 1px solid #DDD
+    border: 1px solid transparent
     border-radius: 4px
     -moz-border-radius: 4px
     -webkit-border-radius: 4px
@@ -80,6 +80,9 @@
     box-sizing: border-box
     -moz-box-sizing: border-box
     -webkit-box-sizing: border-box
+
+#site-search input:focus
+    border: 1px solid #555
 
 #site-search-results-box
     display: none
@@ -90,14 +93,14 @@
     width: 100%
 
 #site-search-results > div
-    padding: 10px 5px 10px 5px
-    margin-bottom: 15px
+    padding: 10px 5px 10px 0px
+    margin-bottom: 11px
 
 #site-search-results a
     display: block
 
 #site-search-results span
-    font-size: 0.8em
+    font-size: 0.75em
 
 #site-social
     float: right
@@ -113,6 +116,9 @@
     flex: 1
     padding-top: 35px
     margin-top: 25px
+
+#site-search-results-box h2
+    margin-bottom: 0
 
 #site-footer
     flex: none
