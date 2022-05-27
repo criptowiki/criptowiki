@@ -4,12 +4,14 @@
 			<i class="icon-bars" onclick="NavOpen()"></i>
 			<i class="icon-close" onclick="NavClose()"></i>
 		</div>
+		<div id="site-search-trigger">
+			<a href="{{ site.baseurl }}/buscar/"><i class="icon-search"></i></a>
+		</div>
 		<div id="site-title"><a href="{{ site.baseurl }}/">criptowiki</a></div>
 		<nav id="site-nav">
 			{% for item in site.data.nav %}
                 <a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
             {% endfor %}
-                <a href="{{ site.baseurl }}/buscar/" id="site-nav-search">Buscar</a>
 		</nav>
 		<div id="site-social">
 			<a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="icon-twitter-square"></i></a>
