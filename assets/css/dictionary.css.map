@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "items-list.css",
+	"file": "dictionary.css",
 	"sources": [
-		"items-list.sass"
+		"dictionary.sass"
 	],
 	"sourcesContent": [
 		"#page-content .center {\n    width: 750px !important; }\n\n.items-list {\n    float: left; }\n\n.items-list h2,\n.items-list a {\n    float: left;\n    width: 100%;\n    border-radius: 7px;\n    -moz-border-radius: 7px;\n    -webkit-border-radius: 7px; }\n\n.items-list a {\n    padding: 15px 55px;\n    width: 100%;\n    text-decoration: none; }\n\n.items-list a:hover {\n    padding: 15px 65px;\n    color: #111; }\n\n.items-list h2 {\n    padding: 15px 25px;\n    background-color: #F3F3F8; }\n"
