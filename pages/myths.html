@@ -11,26 +11,38 @@ pagination:
   permalink: /:num/
 ---
 
-<div class="section">
-    <h1 class="title">{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
-    <div class="section posts-list">
+<div class="align-box">
 
-        {% for post in paginator.posts %}
-        {% assign image_array = post.image | split: "." %}
-            <a href="{{ post.permalink }}">
-                <div class="post">
-                    <div class="post-img"><img src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-300x210.{{ image_array[1] }}" alt="{{ post.title | escape }}" /></div>
-                    <div class="post-txt">
-                        <div class="post-title">{{ post.title }}</div>
-                        <div class="post-description">{{ post.content | strip_html | truncatewords: 18 }}</div>
-                    </div>
+    <div id="page-title"><h1>{{ page.title }}</h1></div>
+
+    <div id="columns-container-1">
+        <div id="column-left">
+            <div id="inner-grid">
+
+            {% for post in paginator.posts %}
+            {% assign image_array = post.image | split: "." %}
+
+
+                <div class="card">
+                    <a href="{{ post.permalink }}">
+                        <div class="card-content">
+                            <img class="card-image" src="{{ site.baseurl }}/assets/img/{{ image_array[0] }}-300x210.{{ image_array[1] }}" alt="{{ post.title | escape }}">
+                            <div class="card-text">
+                                <h3 class="card-title">{{ post.title }}</h3>
+                                <p class="card-description">{{ post.content | strip_html | truncatewords: 18 }}</p>
+                            </div>
+                        </div>
+                    </a>
                 </div>
-            </a>
-        {% endfor %}
-        
-    </div>
 
-    {% include pagination.html %}
+            {% endfor %}
+
+
+            </div> <!-- #inner-grid -->
+
+            {% include pagination.html %}
+
+        </div> <!-- #column-left -->
+    </div> <!-- #columns-container -->
 
 </div>
