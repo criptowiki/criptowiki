@@ -1,0 +1,87 @@
+.align-box
+    display: flex
+    flex-direction: column
+
+#columns-container-2
+    display: grid
+    grid-template-columns: 75% minmax(300px, 25%)
+    grid-gap: 10px
+
+#columns-container-1
+    display: grid
+    grid-template-columns: 100%
+    grid-gap: 10px
+
+#column-left
+    padding: 10px
+    grid-column: 1
+
+#column-right
+    grid-column: 2
+    margin-top: 10px
+
+#inner-grid
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
+    grid-gap: 20px
+
+.card
+    padding: 0
+    height: 100%
+    border: 1px solid #E5E5E5
+    border-radius: 7px
+    -moz-border-radius: 7px
+    -webkit-border-radius: 7px
+
+.card-content
+    display: flex
+    flex-direction: column
+    align-items: center
+    text-align: left
+    height: 100%
+
+.card-image
+    width: 100%
+    height: 200px
+    object-fit: cover
+    opacity: 0.9
+    border-bottom-left-radius: 0
+    border-bottom-right-radius: 0
+    -moz-border-radius-bottomleft: 0
+    -moz-border-radius-bottomright: 0
+    -webkit-border-bottom-left-radius: 0
+    -webkit-border-bottom-right-radius: 0
+
+.card a:hover .card-image
+    opacity: 1
+
+.card-text
+    padding: 15px
+    color: #444
+
+.card-title
+    margin-bottom: 0
+    height: 50px
+    font-size: 0.93em
+    font-weight: bold
+    overflow: hidden
+
+.card-description
+    margin-bottom: 10px
+    line-height: 1.35em
+    font-size: 0.83em
+
+.card a
+    text-decoration: none
+
+.card p
+    margin-top: 10px
+
+@media screen and (max-width: 1100px)
+    #columns-container-2,
+    #columns-container-1
+        grid-template-columns: 100% !important
+
+    #column-left,
+    #column-right
+        grid-column: 1 !important

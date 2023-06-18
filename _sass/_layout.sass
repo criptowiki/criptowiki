@@ -1,13 +1,3 @@
-#column-left
-    margin-right: 405px
-
-#column-right
-    float: right
-    width: 375px
-
-.clear
-    clear: both
-
 .section
     float: left
     margin-bottom: 20px
@@ -42,6 +32,10 @@
     margin-bottom: 15px
     font-size: 1.3em
 
+.description
+    margin-bottom: 10px
+    font-size: 1em
+
 .layout-single-column .center
     width: 750px !important
 
@@ -56,16 +50,45 @@
 .footnotes p
     margin-bottom: 0
 
+
+
+
+
+
+/*** Pagination ***/
+
+#pagination
+    float: left
+    margin-top: 10px
+    width: 100%
+
+#pagination .previous
+    float: left
+
+#pagination .next
+    float: right
+
+
+
+
+
+/*** Simple column ***/
+
+#simple-column-left
+    margin-right: 430px
+
+#simple-column-right
+    float: right
+    width: 400px
+
+.simple-clear
+    clear: both
+
 @media screen and (max-width: 950px)
-    #column-left,
-    #column-right
+    #simple-column-left,
+    #simple-column-right
         width: 100%
 
-    #column-left
+    #simple-column-left
         float: left
         margin-bottom: 20px
-
-@media screen and (max-width: 500px)
-    .title
-        float: none
-        text-align: center
