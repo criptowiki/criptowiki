@@ -4,18 +4,45 @@ css: cybersecurity
 ---
 
 <div id="page-content">
-	<div class="center">
+	<div id="post-page">
+	
+			<div id="post-column-left">
 
-		<div id="post">
-			<div class="breadcrumb">
-				<ol>
-					<li><a href="{{ site.baseurl }}/">Inicio</a></li>
-					<li><a href="{{ site.baseurl }}/ciberseguridad/">Ciberseguridad</a></li>
-				</ol>
-			</div>
-			<h1 class="title">{{ page.title }}</h1>
-			<div class="content">{{ content }}</div>
-		</div>
+				<div id="post">
+					<div class="breadcrumb">
+						<ol>
+							<li><a href="{{ site.baseurl }}/">Inicio</a></li>
+							<li><a href="{{ site.baseurl }}/ciberseguridad/">Ciberseguridad</a></li>
+						</ol>
+					</div>
+					
+					<h1 class="title">{{ page.title }}</h1>
+					<div class="content">{{ content }}</div>
+				</div> <!-- #post -->
 
-	</div>
-</div>
+
+			</div> <!-- #column-left -->
+
+
+			<div id="post-column-right">
+				
+				<div id="related-posts">
+					<div><h3>Artículos relacionados</h3></div>
+
+					{% for post in site.categories.cybersecurity limit: 5 %}
+
+						{% if post.permalink == page.permalink %}
+							{% continue %}
+						{% endif %}
+
+						<div><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+
+					{% endfor %}
+				</div> <!-- #related-posts -->
+
+
+			</div> <!-- #column-right -->
+
+
+		</div> <!-- #post-page -->
+</div> <!-- #page-content -->
