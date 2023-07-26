@@ -30,7 +30,7 @@ defaults:
   - scope:
       path: '_posts/cybersecurity/'
     values:
-      layout: 'cybersecurity'
+      layout: 'post-two-column'
       category: 'cybersecurity'
   - scope:
       path: '_posts/myths/'
@@ -40,7 +40,7 @@ defaults:
   - scope:
       path: '_posts/dictionary/'
     values:
-      layout: 'dictionary-definition'
+      layout: 'post-two-column'
       category: 'dictionary'
   - scope:
       path: '_posts/wallets/'

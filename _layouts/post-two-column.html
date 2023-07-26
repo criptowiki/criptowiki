@@ -1,27 +1,29 @@
 ---
 layout: default
-css: cybersecurity
+css: post-two-column
 ---
+
+{% capture category %}{{ page.category }}{% endcapture %}
+
+{% case category %}
+  {% when "dictionary" %}
+      {% capture related_txt %}Más términos{% endcapture %}
+  {% else %}
+      {% capture related_txt %}Artículos relacionados{% endcapture %}
+{% endcase %}
 
 <div id="page-content">
 	<div id="post-page">
 	
 			<div id="post-column-left">
-
 				<div id="post">
-					<div class="breadcrumb">
-						<ol>
-							<li><a href="{{ site.baseurl }}/">Inicio</a></li>
-							<li><a href="{{ site.baseurl }}/ciberseguridad/">Ciberseguridad</a></li>
-						</ol>
-					</div>
+					{% include breadcrumb.html %}
 					
 					<h1 class="title">{{ page.title }}</h1>
 					<div class="content">{{ content }}</div>
 				</div> <!-- #post -->
 
-
-			</div> <!-- #column-left -->
+			</div> <!-- #post-column-left -->
 
 
 			<div id="post-column-right">
@@ -35,9 +37,9 @@ css: cybersecurity
 				</div>
 				
 				<div id="related-posts">
-					<div><h3>Artículos relacionados</h3></div>
+					<div><h3>{{ related_txt }}</h3></div>
 
-					{% for post in site.categories.cybersecurity limit: 7 %}
+					{% for post in site.categories[category] limit: 7 %}
 
 						{% if post.permalink == page.permalink %}
 							{% continue %}
@@ -49,7 +51,7 @@ css: cybersecurity
 				</div> <!-- #related-posts -->
 
 
-			</div> <!-- #column-right -->
+			</div> <!-- #post-column-right -->
 
 
 		</div> <!-- #post-page -->
