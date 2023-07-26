@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "cybersecurity.css",
+	"file": "post-two-column.css",
 	"sources": [
-		"cybersecurity.sass"
+		"post-two-column.sass"
 	],
 	"sourcesContent": [
 		"#page-description {\n    margin-bottom: 10px; }\n\n#post img {\n    display: block;\n    margin: 0 auto; }\n\n#post-page {\n    margin: 0 auto;\n    display: grid;\n    max-width: 1200px;\n    grid-template-columns: 800px minmax(200px, 1fr); }\n\n#post-column-left {\n    padding: 0 20px 20px 20px;\n    box-sizing: border-box; }\n\n#post-column-right {\n    box-sizing: border-box;\n    border-left: 2px solid #EBEBEB; }\n\n#social > div,\n#related-posts > div {\n    padding: 20px; }\n\n#social-links {\n    margin-left: 0;\n    font-size: 1.5em; }\n\n#social-links a {\n    text-decoration: none; }\n\n#related-posts {\n    border-top: 2px solid #EBEBEB; }\n\n#related-posts h3 {\n    margin-bottom: 40px; }\n\n\n@media screen and (max-width: 1000px) {\n\n    #post-page {\n        grid-template-columns: 1fr; }\n\n    #post-column-left {\n        margin: 0 auto;\n        max-width: 750px; }\n\n    #post-column-right {\n        margin: 0 auto;\n        grid-row: 2;\n        min-width: 100px;\n        border-top: 2px solid #EBEBEB;\n        border-left: none; } }\n"

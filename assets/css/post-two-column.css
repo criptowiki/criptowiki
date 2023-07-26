@@ -1,3 +1,3 @@
 #page-description{margin-bottom:10px}#post img{display:block;margin:0 auto}#post-page{margin:0 auto;display:grid;max-width:1200px;grid-template-columns:800px minmax(200px, 1fr)}#post-column-left{padding:0 20px 20px 20px;box-sizing:border-box}#post-column-right{box-sizing:border-box;border-left:2px solid #EBEBEB}#social>div,#related-posts>div{padding:20px}#social-links{margin-left:0;font-size:1.5em}#social-links a{text-decoration:none}#related-posts{border-top:2px solid #EBEBEB}#related-posts h3{margin-bottom:40px}@media screen and (max-width: 1000px){#post-page{grid-template-columns:1fr}#post-column-left{margin:0 auto;max-width:750px}#post-column-right{margin:0 auto;grid-row:2;min-width:100px;border-top:2px solid #EBEBEB;border-left:none}}
 
-/*# sourceMappingURL=cybersecurity.css.map */
+/*# sourceMappingURL=post-two-column.css.map */
