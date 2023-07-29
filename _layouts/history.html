@@ -1,18 +1,54 @@
 ---
 layout: default
-css: collection
+css: post-two-column
 ---
 
 <div id="page-content">
-	<div class="center">
-		<div class="breadcrumb">
-			<ol>
-				<li><a href="{{ site.baseurl }}/">Inicio</a></li>
-				<li><a href="{{ site.baseurl }}/historia/">Historia</a></li>
-			</ol>
-		</div>
-		<h1 class="title">{{ page.title }}</h1>
-		<div class="content">{{ content }}</div>
-	</div>
-	{{ description }}
-</div>
+	<div id="post-page">
+	
+			<div id="post-column-left">
+				<div id="post">
+					<div class="breadcrumb">
+						<ol>
+							<li><a href="{{ site.baseurl }}/">Inicio</a></li>
+							<li><a href="{{ site.baseurl }}/historia/">Historia</a></li>
+						</ol>
+					</div>
+					
+					<h1 class="title">{{ page.title }}</h1>
+					<div class="content">{{ content }}</div>
+				</div> <!-- #post -->
+
+			</div> <!-- #post-column-left -->
+
+
+			<div id="post-column-right">
+
+				<div id="social">
+					<div><h3>¡Aprende a diario!</h3></div>
+					<div id="social-links">
+						<a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="icon-twitter-square"></i></a>
+						<a href="{{ site.baseurl }}{{ site.feed.path }}" title="Atom"><i class="icon-rss-square"></i></a>
+					</div>
+				</div>
+				
+				<div id="related-posts">
+					<div><h3>Otros eventos</h3></div>
+
+					{% for post in site.categories.history limit: 7 %}
+
+						{% if post.permalink == page.permalink %}
+							{% continue %}
+						{% endif %}
+
+						<div><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+
+					{% endfor %}
+				</div> <!-- #related-posts -->
+
+
+			</div> <!-- #post-column-right -->
+
+
+		</div> <!-- #post-page -->
+</div> <!-- #page-content -->
