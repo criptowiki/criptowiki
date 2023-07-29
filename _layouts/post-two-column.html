@@ -8,6 +8,8 @@ css: post-two-column
 {% case category %}
   {% when "dictionary" %}
       {% capture related_txt %}Más términos{% endcapture %}
+  {% when "myths" %}
+  		{% capture related_txt %}Más mitos{% endcapture %}
   {% else %}
       {% capture related_txt %}Artículos relacionados{% endcapture %}
 {% endcase %}
@@ -20,7 +22,15 @@ css: post-two-column
 					{% include breadcrumb.html %}
 					
 					<h1 class="title">{{ page.title }}</h1>
-					<div class="content">{{ content }}</div>
+					<div class="content">
+
+						{% if category == "myths" %}
+					  	{% include image.html url=page.image width="500" %}
+						{% endif %}
+
+						{{ content }}
+
+					</div>
 				</div> <!-- #post -->
 
 			</div> <!-- #post-column-left -->

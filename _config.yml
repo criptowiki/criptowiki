@@ -35,7 +35,7 @@ defaults:
   - scope:
       path: '_posts/myths/'
     values:
-      layout: 'myth'
+      layout: 'post-two-column'
       category: 'myths'
   - scope:
       path: '_posts/dictionary/'
