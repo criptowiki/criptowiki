@@ -45,7 +45,7 @@ defaults:
   - scope:
       path: '_posts/wallets/'
     values:
-      layout: 'wallet'
+      layout: 'post-two-column'
       category: 'wallets'
 
 sass:
