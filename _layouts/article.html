@@ -32,6 +32,25 @@ css: article
 			<div id="article-content">
 				{{ content }}
 			</div>
-		</div>
-	</div>
+
+			<div id="article-related">
+				<div><h3>Artículos relacionados</h3></div>
+				<div>
+					
+					{% for post in site.categories.bitcoin limit: 5 %}
+
+						{% if post.permalink == page.permalink %}
+							{% continue %}
+						{% endif %}
+
+						<div><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+
+					{% endfor %}
+
+				</div>
+			</div> <!-- #article-related -->
+
+		</div> <!-- .center -->
+	</div> <!-- #article-body -->
+	
 </div>

@@ -28,12 +28,14 @@
         background-repeat: no-repeat
         background-position: center
 
-#article-body
+#article-body,
+#article-related
     float: left
     width: 100%
     height: auto
 
-#article-body .center
+#article-body .center,
+#article-related .center
     width: 750px !important
 
 #article-body img
@@ -108,6 +110,15 @@
 #bibliography > div:not(:last-of-type)
     border-bottom: 1px solid #D5D5D5
 
+#article-related
+    float: left
+    padding-top: 15px
+    border-top: 1px solid #DDD
+
+#article-related div > div
+    float: left
+    width: 100%
+    padding: 10px
 
 @media screen and (max-width: 700px)
     #article-title        
