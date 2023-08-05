@@ -51,6 +51,8 @@ defaults:
 sass:
   style: compressed
 
+excerpt_separator: <!-- excerpt-end -->
+
 pagination:
   enabled: true
   per_page: 8

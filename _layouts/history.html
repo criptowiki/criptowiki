@@ -33,7 +33,8 @@ css: post-two-column
 				</div>
 				
 				<div id="related-posts">
-					<div><h3>Otros eventos</h3></div>
+
+					<h3>Otros eventos</h3>
 
 					{% for post in site.categories.history limit: 7 %}
 
@@ -41,7 +42,12 @@ css: post-two-column
 							{% continue %}
 						{% endif %}
 
-						<div><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+						<div class="related-post">
+							<a href="{{ post.permalink }}">
+								<span class="related-post-title">{{ post.title }}</span>
+								<span class="related-post-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</span>
+							</a>
+						</div>
 
 					{% endfor %}
 				</div> <!-- #related-posts -->

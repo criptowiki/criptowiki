@@ -53,10 +53,12 @@ css: post-two-column
 						<a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="icon-twitter-square"></i></a>
 						<a href="{{ site.baseurl }}{{ site.feed.path }}" title="Atom"><i class="icon-rss-square"></i></a>
 					</div>
-				</div>
+				</div> <!-- #social -->
+				
 				
 				<div id="related-posts">
-					<div><h3>{{ related_txt }}</h3></div>
+
+					<h3>{{ related_txt }}</h3>
 
 					{% for post in site.categories[category] limit: 7 %}
 
@@ -64,7 +66,12 @@ css: post-two-column
 							{% continue %}
 						{% endif %}
 
-						<div><a href="{{ post.permalink }}">{{ post.title }}</a></div>
+						<div class="related-post">
+							<a href="{{ post.permalink }}">
+								<span class="related-post-title">{{ post.title }}</span>
+								<span class="related-post-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</span>
+							</a>
+						</div>
 
 					{% endfor %}
 				</div> <!-- #related-posts -->
