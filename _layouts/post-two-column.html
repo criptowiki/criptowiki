@@ -19,7 +19,18 @@ css: post-two-column
 	
 			<div id="post-column-left">
 				<div id="post">
-					{% include breadcrumb.html %}
+
+					{% if page.category == 'history' %}
+					<div class="breadcrumb">
+						<ol>
+							<li><a href="{{ site.baseurl }}/">Inicio</a></li>
+							<li><a href="{{ site.baseurl }}/historia/">Historia</a></li>
+						</ol>
+					</div>
+					{% else %}
+						{% include breadcrumb.html %}
+					{% endif %}
+					
 					
 					{% if category == "wallets" %}
 					<div class="title-container">

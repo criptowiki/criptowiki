@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: '_posts/history/'
     values:
-      layout: 'history'
+      layout: 'post-two-column'
       category: 'history'
   - scope:
       path: '_posts/cybersecurity/'
