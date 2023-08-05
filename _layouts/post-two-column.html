@@ -27,8 +27,16 @@ css: post-two-column
 						<h1>{{ page.title }}</h1>
 					</div>
 					{% else %}
-					<h1 class="title">{{ page.title }}</h1>
-					{% endif %}				
+					<h1 id="post-title">{{ page.title }}</h1>
+					{% endif %}
+
+
+					{% if page.updated %}
+					<div id="post-dates">
+						<i class="icon-calendar-o"></i>
+						<span>Actualizado el {{ page.updated }}</span>
+					</div>
+					{% endif %} 
 					
 
 					<div class="content">
