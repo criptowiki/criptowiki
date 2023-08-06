@@ -45,7 +45,7 @@ css: post-two-column
 					{% if page.updated %}
 					<div id="post-dates">
 						<i class="icon-calendar-o"></i>
-						<span>Actualizado el {{ page.updated }}</span>
+						<span>Actualizado el {{ page.updated | date_spanish }}</span>
 					</div>
 					{% endif %} 
 					
