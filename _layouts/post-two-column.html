@@ -41,13 +41,11 @@ css: post-two-column
 					<h1 id="post-title">{{ page.title }}</h1>
 					{% endif %}
 
-
-					{% if page.updated %}
-					<div id="post-dates">
-						<i class="icon-calendar-o"></i>
-						<span>Actualizado el {{ page.updated | date_spanish }}</span>
+					<div id="post-metadata">
+						{% if page.updated %}
+							<span>Actualizado el {{ page.updated | date_spanish }}</span>					
+						{% endif %} 
 					</div>
-					{% endif %} 
 					
 
 					<div class="content">
@@ -64,19 +62,7 @@ css: post-two-column
 			</div> <!-- #post-column-left -->
 
 
-			<div id="post-column-right">
-
-				<div id="social">
-					<div><h3>¡Aprende a diario!</h3></div>
-					<div id="social-links">						
-							<a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="icon-twitter-square"></i></a>
-							<a href="https://www.reddit.com/r/{{ site.social.reddit }}/" title="Reddit"><i class="icon-reddit-square"></i></a>
-							<a href="https://mastodon.social/@{{ site.social.mastodon }}/" title="Mastodon"><i class="icon-mastodon"></i></a>
-							<a href="{{ site.baseurl }}{{ site.feed.path }}" title="Atom"><i class="icon-rss-square"></i></a>
-							<a href="https://instagram.com/{{ site.social.instagram }}" title="Instagram"><i class="icon-instagram"></i></a>
-					</div>
-				</div> <!-- #social -->
-				
+			<div id="post-column-right">		
 				
 				<div id="related-posts">
 
