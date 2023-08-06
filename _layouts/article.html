@@ -20,9 +20,9 @@ css: article
 			<div id="article-meta">
 				<span id="article-time">
 					{% if page.updated %}
-						Última actualización: {{ page.updated }}
+						Actualizado el {{ page.updated | date_spanish }}
 					{% elsif page.published %}
-					    Publicado: {{ page.published }}
+					    Publicado el {{ page.published | date_spanish }}
 					{% endif %}
 				</span>
 				<span id="article-share">					
