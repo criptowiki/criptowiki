@@ -1,4 +1,4 @@
 <figure>
 	<img class="lazy" data-src="{{ site.baseurl }}/assets/img/{{ include.url }}" {% if include.width %}width="{{ include.width }}"{% endif %} {% if include.alt %}alt="{{ include.alt }}"{% endif %} />
-	<figcaption>{{ include.description }}</figcaption>
+	<figcaption>{% if include.description %}{{ include.description }}{% else %}{{ include.alt }}{% endif %}</figcaption>
 </figure>
