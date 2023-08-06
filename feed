@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2023-08-06T15:42:56+00:00</updated><id>https://criptowiki.com/feed</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">uBlock Origin - Bloqueador de contenido web</title><link href="https://criptowiki.com/ciberseguridad/ublock-origin" rel="alternate" type="text/html" title="uBlock Origin - Bloqueador de contenido web" /><published>2022-05-06T00:00:00+00:00</published><updated>2022-05-06T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/ublock-origin</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/ublock-origin"><![CDATA[<figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin.png" width="500" alt="uBlock Origin es distinta a uBlock" />
-	<figcaption></figcaption>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2023-08-06T17:47:54+00:00</updated><id>https://criptowiki.com/feed</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">uBlock Origin - Bloqueador de contenido web</title><link href="https://criptowiki.com/ciberseguridad/ublock-origin" rel="alternate" type="text/html" title="uBlock Origin - Bloqueador de contenido web" /><published>2022-05-06T00:00:00+00:00</published><updated>2022-05-06T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/ublock-origin</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/ublock-origin"><![CDATA[<figure>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin.png" alt="uBlock Origin es distinta a uBlock" />
+	<figcaption>uBlock Origin es distinta a uBlock</figcaption>
 </figure>
 
 <h2 id="qué-es-y-para-qué-sirve">¿Qué es y para qué sirve?</h2>
@@ -10,15 +10,15 @@
 <p>En la descripción de la misma no se presenta como un “bloqueador de anuncios” sino como un “bloqueador muy eficiente de amplio espectro” ya que consume menos memoria y tiene muchas más funciones<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Entre estas, es posible configurar la extensión para bloquear contenido específico con reglas propias, aunque la configuración por defecto ya es muy útil.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin-ventajas-desventajas.png" width="500" alt="Ventajas y desventajas de uBlock Origin" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin-ventajas-desventajas.png" alt="Ventajas y desventajas de uBlock Origin" />
+	<figcaption>Ventajas y desventajas de uBlock Origin</figcaption>
 </figure>
 
 <p>Te invitamos a que pruebes uBlock Origin y verás cómo tu experiencia navegando en internet mejorará significativamente. Encuéntrala en la tienda de aplicaciones de tu navegador preferido, instálala y notarás las mejoras.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin-video.png" width="500" alt="uBlock Origin en YouTube" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin-video.png" alt="Navegador web con uBlock Origin visitando YouTube" />
+	<figcaption>Navegador web con uBlock Origin visitando YouTube</figcaption>
 </figure>
 
 <div class="footnotes" role="doc-endnotes">
