@@ -14,10 +14,10 @@ uBlock Origin (uBO) es una extensión para navegadores web que **filtra contenid
 
 En la descripción de la misma no se presenta como un "bloqueador de anuncios" sino como un "bloqueador muy eficiente de amplio espectro" ya que consume menos memoria y tiene muchas más funciones[^1]. Entre estas, es posible configurar la extensión para bloquear contenido específico con reglas propias, aunque la configuración por defecto ya es muy útil.
 
-{% include image.html url="cybersecurity/es/ublock-origin-ventajas-desventajas.png" alt="Ventajas y desventajas de uBlock Origin" %}
+{% include image.html url="cybersecurity/es/ublock-origin-ventajas-desventajas.png?v=2" alt="Ventajas y desventajas de uBlock Origin" %}
 
 Te invitamos a que pruebes uBlock Origin y verás cómo tu experiencia navegando en internet mejorará significativamente. Encuéntrala en la tienda de aplicaciones de tu navegador preferido, instálala y notarás las mejoras.
 
-{% include image.html url="cybersecurity/es/ublock-origin-video.png" alt="Navegador web con uBlock Origin visitando YouTube" %}
+{% include image.html url="cybersecurity/es/ublock-origin-video.png?v=2" alt="Navegador web con uBlock Origin visitando YouTube" %}
 
 [^1]: [Repositorio del software en GitHub](https://github.com/gorhill/uBlock)
