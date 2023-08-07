@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2023-08-06T17:47:54+00:00</updated><id>https://criptowiki.com/feed</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">uBlock Origin - Bloqueador de contenido web</title><link href="https://criptowiki.com/ciberseguridad/ublock-origin" rel="alternate" type="text/html" title="uBlock Origin - Bloqueador de contenido web" /><published>2022-05-06T00:00:00+00:00</published><updated>2022-05-06T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/ublock-origin</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/ublock-origin"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://criptowiki.com/feed" rel="self" type="application/atom+xml" /><link href="https://criptowiki.com/" rel="alternate" type="text/html" /><updated>2023-08-07T22:33:03+00:00</updated><id>https://criptowiki.com/feed</id><title type="html">criptowiki</title><subtitle>descifrando el mundo de Bitcoin, privacidad &amp; ciberseguridad</subtitle><entry><title type="html">uBlock Origin - Bloqueador de contenido web</title><link href="https://criptowiki.com/ciberseguridad/ublock-origin" rel="alternate" type="text/html" title="uBlock Origin - Bloqueador de contenido web" /><published>2022-05-06T00:00:00+00:00</published><updated>2022-05-06T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/ublock-origin</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/ublock-origin"><![CDATA[<figure>
 	<img class="lazy" data-src="/assets/img/cybersecurity/es/ublock-origin.png" alt="uBlock Origin es distinta a uBlock" />
 	<figcaption>uBlock Origin es distinta a uBlock</figcaption>
 </figure>
@@ -28,49 +28,60 @@
     </li>
   </ol>
 </div>]]></content><author><name></name></author><category term="cybersecurity" /><summary type="html"><![CDATA[uBlock Origin (uBO) es una extensión para navegadores web que filtra contenido, incluyendo publicidad, rastreadores y dominios en listas negras.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/cybersecurity/es/ublock-origin.png" /><media:content medium="image" url="https://criptowiki.com/cybersecurity/es/ublock-origin.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿Han filtrado mis datos? Have I Been Pwned?</title><link href="https://criptowiki.com/ciberseguridad/have-i-been-pwned" rel="alternate" type="text/html" title="¿Han filtrado mis datos? Have I Been Pwned?" /><published>2022-04-19T00:00:00+00:00</published><updated>2022-04-19T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/have-i-been-pwned</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/have-i-been-pwned"><![CDATA[<figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned.png" alt="Página de inicio de HIBP" />
+	<figcaption>Página de inicio de HIBP</figcaption>
 </figure>
 
 <p><a href="https://haveibeenpwned.com/">Have I Been Pwned</a> es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública.</p>
 
-<p>Conocido también por sus iniciales “<strong>HIBP</strong>”, fue creado en diciembre de 2013 por <strong>Troy Hunt</strong>, consultor de seguridad web y director regional de Microsoft. Lo creó para que cualquier persona u organización lo utilice para estar al tanto de nuevas filtraciones.</p>
+<p>Conocido también por sus iniciales “<strong>HIBP</strong>”, fue creado en diciembre de 2013 por <strong>Troy Hunt</strong>, consultor de seguridad web y director regional de Microsoft. Lo creó para que cualquier persona u organización lo utilice para estar al tanto de nuevas filtraciones<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtraciones.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtraciones.png" alt="Filtraciones más grandes (izquierda) y filtraciones recién añadidas (derecha)" />
+	<figcaption>Filtraciones más grandes (izquierda) y filtraciones recién añadidas (derecha)</figcaption>
 </figure>
 
 <p>Nada impide que una persona cualquiera ingrese la dirección de otra persona para saber qué cuentas fueron expuestas, pero la realidad es que cibercriminales ya estaban utilizando esa información y era la mayoría de las personas la que no estaba al tanto, y lo creó justamente para generar conciencia.</p>
 
-<p>El autor explica que una filtración de datos (o brecha de datos) es “un incidente en el que los datos quedan expuestos inadvertidamente en un sistema vulnerable, normalmente debido a controles de acceso insuficientes o a fallos de seguridad en el software.” Al momento de esta publicación, incluye 591 sitios web y más de 11700 millones de cuentas.</p>
+<p>El autor explica que una filtración de datos (o brecha de datos) es “un incidente en el que los datos quedan expuestos inadvertidamente en un sistema vulnerable, normalmente debido a controles de acceso insuficientes o a fallos de seguridad en el software”<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. Al momento de esta publicación, incluye 591 sitios web y más de 11700 millones de cuentas.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-no.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-no.png" alt="Si no se encuentra la dirección, pantalla verde :)" />
+	<figcaption>Si no se encuentra la dirección, pantalla verde :)</figcaption>
 </figure>
 
 <p>Es posible registrarse para estar al tanto de nuevas filtraciones y también es posible “optar por salir”, es decir, eliminar el correo electrónico para que no aparezca en consultas (<a href="https://haveibeenpwned.com/OptOut">haveibeenpwned.com/OptOut</a>).</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-si.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-si.png" alt="Si se encuentra, pantalla roja y..." />
+	<figcaption>Si se encuentra, pantalla roja y...</figcaption>
 </figure>
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-si-2.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-filtrado-si-2.png" alt="... el listado asociado de sitios filtrados y qué datos están expuestos :(" />
+	<figcaption>... el listado asociado de sitios filtrados y qué datos están expuestos :(</figcaption>
 </figure>
 
 <p>Para utilizar HIBP te recomendamos acceder mediante <strong>Tor</strong>, ya que no tenemos la certeza que del otro lado no están asociando búsquedas con direcciones IP.</p>
 
-<p>Además, se financia mediante donaciones en Bitcoin y Bitcoin Cash.</p>
+<p>Además, se financia mediante donaciones en <a href="/bitcoin/">Bitcoin</a> y Bitcoin Cash.</p>
 
 <figure>
-	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-donaciones.png" width="500" />
-	<figcaption></figcaption>
+	<img class="lazy" data-src="/assets/img/cybersecurity/es/have-i-been-pwned-donaciones.png" alt="Acepta donaciones en Bitcoin y Bitcoin Cash" />
+	<figcaption>Acepta donaciones en Bitcoin y Bitcoin Cash</figcaption>
 </figure>
 
-<p>¿Por qué “pwned” y de dónde obtiene la información? ¿Por qué Bitcoin es mejor que Bitcoin Cash y qué podemos hacer si nuestros datos se encuentran ahí? ¿Qué es Tor? Próximamente en criptowiki.</p>]]></content><author><name></name></author><category term="cybersecurity" /><summary type="html"><![CDATA[Have I Been Pwned es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública. Conocido también por sus iniciales “HIBP”, fue creado en diciembre de 2013 por Troy Hunt, consultor de seguridad web y director regional de Microsoft. Lo creó para que cualquier persona u organización lo utilice para estar al tanto de nuevas filtraciones. Nada impide que una persona cualquiera ingrese la dirección de otra persona para saber qué cuentas fueron expuestas, pero la realidad es que cibercriminales ya estaban utilizando esa información y era la mayoría de las personas la que no estaba al tanto, y lo creó justamente para generar conciencia. El autor explica que una filtración de datos (o brecha de datos) es “un incidente en el que los datos quedan expuestos inadvertidamente en un sistema vulnerable, normalmente debido a controles de acceso insuficientes o a fallos de seguridad en el software.” Al momento de esta publicación, incluye 591 sitios web y más de 11700 millones de cuentas. Es posible registrarse para estar al tanto de nuevas filtraciones y también es posible “optar por salir”, es decir, eliminar el correo electrónico para que no aparezca en consultas (haveibeenpwned.com/OptOut). Para utilizar HIBP te recomendamos acceder mediante Tor, ya que no tenemos la certeza que del otro lado no están asociando búsquedas con direcciones IP. Además, se financia mediante donaciones en Bitcoin y Bitcoin Cash. ¿Por qué “pwned” y de dónde obtiene la información? ¿Por qué Bitcoin es mejor que Bitcoin Cash y qué podemos hacer si nuestros datos se encuentran ahí? ¿Qué es Tor? Próximamente en criptowiki.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned.png" /><media:content medium="image" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cubrir las cámaras</title><link href="https://criptowiki.com/ciberseguridad/cubrir-las-camaras" rel="alternate" type="text/html" title="Cubrir las cámaras" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/6-cover-the-cameras</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/cubrir-las-camaras"><![CDATA[<figure>
+<p>¿Por qué “pwned” y de dónde obtiene la información? ¿Por qué Bitcoin es mejor que Bitcoin Cash y qué podemos hacer si nuestros datos se encuentran ahí? ¿Qué es Tor? Próximamente en criptowiki.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://haveibeenpwned.com/About">Who, what &amp; why - Have I Been Pwned</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p><a href="https://haveibeenpwned.com/FAQs">FAQs</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="cybersecurity" /><summary type="html"><![CDATA[Página de inicio de HIBP Have I Been Pwned es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública. Conocido también por sus iniciales “HIBP”, fue creado en diciembre de 2013 por Troy Hunt, consultor de seguridad web y director regional de Microsoft. Lo creó para que cualquier persona u organización lo utilice para estar al tanto de nuevas filtraciones1. Filtraciones más grandes (izquierda) y filtraciones recién añadidas (derecha) Nada impide que una persona cualquiera ingrese la dirección de otra persona para saber qué cuentas fueron expuestas, pero la realidad es que cibercriminales ya estaban utilizando esa información y era la mayoría de las personas la que no estaba al tanto, y lo creó justamente para generar conciencia. El autor explica que una filtración de datos (o brecha de datos) es “un incidente en el que los datos quedan expuestos inadvertidamente en un sistema vulnerable, normalmente debido a controles de acceso insuficientes o a fallos de seguridad en el software”2. Al momento de esta publicación, incluye 591 sitios web y más de 11700 millones de cuentas. Si no se encuentra la dirección, pantalla verde :) Es posible registrarse para estar al tanto de nuevas filtraciones y también es posible “optar por salir”, es decir, eliminar el correo electrónico para que no aparezca en consultas (haveibeenpwned.com/OptOut). Si se encuentra, pantalla roja y... ... el listado asociado de sitios filtrados y qué datos están expuestos :( Para utilizar HIBP te recomendamos acceder mediante Tor, ya que no tenemos la certeza que del otro lado no están asociando búsquedas con direcciones IP. Además, se financia mediante donaciones en Bitcoin y Bitcoin Cash. Acepta donaciones en Bitcoin y Bitcoin Cash ¿Por qué “pwned” y de dónde obtiene la información? ¿Por qué Bitcoin es mejor que Bitcoin Cash y qué podemos hacer si nuestros datos se encuentran ahí? ¿Qué es Tor? Próximamente en criptowiki. Who, what &amp; why - Have I Been Pwned &#8617; FAQs &#8617;]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned.png" /><media:content medium="image" url="https://criptowiki.com/cybersecurity/es/have-i-been-pwned.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cubrir las cámaras</title><link href="https://criptowiki.com/ciberseguridad/cubrir-las-camaras" rel="alternate" type="text/html" title="Cubrir las cámaras" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>https://criptowiki.com/ciberseguridad/6-cover-the-cameras</id><content type="html" xml:base="https://criptowiki.com/ciberseguridad/cubrir-las-camaras"><![CDATA[<figure>
 	<img class="lazy" data-src="/assets/img/cybersecurity/es/cubrir-las-camaras.png" width="500" />
 	<figcaption></figcaption>
 </figure>
