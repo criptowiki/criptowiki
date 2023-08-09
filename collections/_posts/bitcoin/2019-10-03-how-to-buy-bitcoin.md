@@ -2,7 +2,7 @@
 title: ¿Cómo comprar bitcoin?
 permalink: como-comprar-bitcoin
 image: bitcoin/es/como-comprar-bitcoin.jpg
-updated: 7/10/2021
+updated: 8/08/2023
 ---
 
 En sus comienzos, comprar bitcoin era una tarea complicada dado que muy pocas empresas y personas vendían, y había poca información sobre el tema en internet. Hoy ya no es así. Mes tras mes surgen en el mundo nuevas empresas que compiten por vender bitcoins rápidamente, con menores comisiones y ofreciendo diversos medios de pago. También surgen nuevos métodos para comprar entre personas.
@@ -11,7 +11,7 @@ Veamos entonces los distintos caminos y pasos a seguir para comprar bitcoins.
 
 ## Paso 1: crear una billetera
 
-Dado que bitcoin solo existe digitalmente, [necesitamos crear nuestra billetera, que generará y administrará las claves que nos permiten enviar y recibir bitcoins]({{ site.baseurl }}/donde-se-guardan-las-criptomonedas). Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y la facilidad de uso que uno requiera.
+Dado que bitcoin solo existe digitalmente, [necesitamos crear nuestra billetera, que generará y administrará las claves que nos permiten enviar y recibir bitcoins]({{ site.baseurl }}/donde-se-guardan-los-bitcoins). Hay múltiples billeteras disponibles y la que uno elige depende de muchos factores, como el nivel de seguridad y la facilidad de uso que uno requiera.
 
 Es muy importante conocer el funcionamiento básico de una billetera para poder elegir la que se adecúe a nuestras necesidades y para no perder nuestro dinero. [Si no tienes una billetera o crees que puede ser insegura la que tienes, lee este otro artículo práctico sobre los distintos tipos de billeteras antes de continuar]({{ site.baseurl }}/tipos-de-billeteras).
 
@@ -47,7 +47,6 @@ Recordar que previamente debemos crear una billetera y llevar los documentos leg
 ### C) Entre personas
 
 Comprarle a una persona no necesariamente implica encontrarse con ella cara a cara. Hay 2 maneras. La más obvia es comprarle a alguien que uno conozca que venda bitcoins. Existe [el caso del taxista londinense que vende bitcoins en su taxi](https://decrypt.co/2018/12/11/buying-bitcoin-from-the-back-of-a-london-taxi/), pero es un caso muy particular. ¿Qué hace uno si no conoce a nadie que venda? Recurre a la segunda opción que es usar un sitio web que conecta compradores y vendedores individuales. Servicios populares a nivel global son:
-> [LocalBitcoins](https://localbitcoins.com/)
 
 > [HodlHodl](https://www.hodlhodl.com/)
 
