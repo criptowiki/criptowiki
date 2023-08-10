@@ -5,6 +5,8 @@ image: cybersecurity/es/frase-de-contrasena.png
 updated: 10/08/2023
 ---
 
+{% include image.html url="cybersecurity/es/frase-de-contrasena.png" alt="Ejemplo de frase de contraseña. Es recomendable una todavía más compleja." %}
+
 Las frases de contraseñas no son tan conocidas pero pueden ser tan o más seguras que las contraseñas.
 
 En abril de 2015, **Edward Snowden, ex analista de la CIA**, fue entrevistado en el programa Last Week Tonight[^1]. Allí recomendó usar frases de contraseñas, ya que son **más fáciles de recordar** que las contraseñas pero no por eso menos seguras.
