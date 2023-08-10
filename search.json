@@ -67,7 +67,7 @@
       "title"    : "Símbolo bursátil",
       "url"      : "/diccionario/simbolo-bursatil",
       "date"     : "03 Jan 2021",
-      "description" : "Todas las criptomonedas tienen un nombre y un símbolo bursátil (o ticker). Los símbolos bursátiles nos permiten identificar rápidamente a cada criptomoneda y..."
+      "description" : "  Es necesario prestar atención a los símbolos bursátiles.  Todas las criptomonedas tienen un nombre y un símbolo..."
     } ,
   
     {
@@ -193,7 +193,7 @@
       "title"    : "Frase de contraseña",
       "url"      : "/ciberseguridad/frase-de-contrasena",
       "date"     : "25 May 2020",
-      "description" : "Las frases de contraseñas no son tan conocidas pero pueden ser tan o más seguras que las contraseñas. En abril de 2015, Edward..."
+      "description" : "  Ejemplo de frase de contraseña. Es recomendable..."
     } ,
   
     {
@@ -235,7 +235,7 @@
       "title"    : "Bitcoin Pizza Day",
       "url"      : "/historia/2010/05/22/bitcoin-pizza-day",
       "date"     : "22 May 2010",
-      "description" : "El 22 de mayo de 2010, bitcoin tuvo su primer caso de uso reconocido. Un programador llamado Laszlo Hanyecz compró 2 pizzas, gastando..."
+      "description" : "  ¿Las pizzas más caras de la historia? Créditos: Laszlo Hanyecz  El 22 de mayo de 2010,..."
     } 
   
 ]
