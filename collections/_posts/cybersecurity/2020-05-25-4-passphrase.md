@@ -2,6 +2,7 @@
 title: Frase de contraseña
 permalink: /ciberseguridad/frase-de-contrasena
 image: cybersecurity/es/frase-de-contrasena.png
+updated: 10/08/2023
 ---
 
 Las frases de contraseñas no son tan conocidas pero pueden ser tan o más seguras que las contraseñas.
@@ -16,5 +17,5 @@ Además, **no es recomendable reutilizar la frase de contraseña**. También hay
 
 ¿Qué es un ataque de fuerza bruta? Pronto en criptowiki.
 
-[^1]: LastWeekTonight. (2015, 9 de abril). *Edward Snowden on Passwords: Last Week Tonight with John Oliver (HBO)* [Video]. YouTube. https://www.youtube.com/watch?v=yzGzB-yYKcc
-[^2]: Ahora que el ejemplo es público no podemos utilizar esa frase
+[^1]: LastWeekTonight. (2015, 9 de abril). *Edward Snowden on Passwords: Last Week Tonight with John Oliver (HBO)* [Video]. YouTube. [https://www.youtube.com/watch?v=yzGzB-yYKcc](https://www.youtube.com/watch?v=yzGzB-yYKcc)
+[^2]: Ahora que el ejemplo es público no podemos utilizar esa frase.
