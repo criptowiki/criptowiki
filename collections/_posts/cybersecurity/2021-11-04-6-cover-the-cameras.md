@@ -2,6 +2,7 @@
 title: Cubrir las cámaras
 permalink: /ciberseguridad/cubrir-las-camaras
 image: cybersecurity/es/cubrir-las-camaras.png?v=2
+excerpt: "En junio de 2016, Mark Zuckerberg, director ejecutivo de Meta, publicó una fotografía donde celebraba el haber alcanzado los 500 millones de usuarios en Instagram. En la foto es posible ver que la cámara de su computadora está cubierta."
 updated: 9/08/2023
 ---
 

@@ -2,6 +2,7 @@
 title: Contraseña fuerte
 permalink: /ciberseguridad/contrasena-fuerte
 image: cybersecurity/es/contrasena-fuerte.png
+excerpt: "Las tres contraseñas más usadas en el 2022 a lo largo del mundo fueron, de acuerdo a un informe Nord Security, 'password' ('contraseña' en inglés), '123456' y '123456789'."
 updated: 9/08/2023
 ---
 

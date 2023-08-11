@@ -2,6 +2,7 @@
 title: ¿Han filtrado mis datos? Have I Been Pwned?
 permalink: /ciberseguridad/have-i-been-pwned
 image: cybersecurity/es/have-i-been-pwned.png
+excerpt: "HIBP es un sitio web donde se puede consultar gratuitamente si una dirección de correo electrónico, nombre de usuario o número de teléfono se encuentra en alguna filtración pública."
 updated: 07/08/2023
 ---
 

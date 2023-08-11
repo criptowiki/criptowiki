@@ -2,6 +2,7 @@
 title: Frase de contraseña
 permalink: /ciberseguridad/frase-de-contrasena
 image: cybersecurity/es/frase-de-contrasena.png
+excerpt: "En abril de 2015, Edward Snowden, ex analista de la CIA, fue entrevistado en el programa Last Week Tonight. Allí recomendó usar frases de contraseñas, ya que son más fáciles de recordar que las contraseñas pero no por eso menos seguras."
 updated: 10/08/2023
 ---
 
