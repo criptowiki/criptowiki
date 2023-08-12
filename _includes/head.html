@@ -62,8 +62,8 @@
     <!-- Jekyll feed -->
     {% feed_meta %}
 
-    <!-- Schema.org (only if it's a cybersecurity post, for now) -->
-    {% if page.category == 'cybersecurity' %}
+    <!-- Schema.org (only if it's a post, for now) -->
+    {% if page.id %}
 
     <script type="application/ld+json">
     {
