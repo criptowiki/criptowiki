@@ -9,10 +9,7 @@ To read and learn, please visit [https://criptowiki.com](https://criptowiki.com)
 
 
 ## For developers
-In this repository you will find the source code of **criptowiki**, created with [Jekyll](https://jekyllrb.com/), a static site generator. There are 2 important branches:
-- **main**: the full source code of the website including the file [.github/workflows/jekyll.yml](.github/workflows/jekyll.yml), which calls the [actions](https://docs.github.com/en/actions/creating-actions/about-actions) to generate the static site, which is available in the `gh-pages` branch.
-- **gh-pages**: the actually served built website; its static content is automatically built on every push to the `main` branch.
-
+This repository is the source code of **criptowiki**, created with [Jekyll](https://jekyllrb.com/), a static site generator. Currently using [GitHub Actions to build and deploy the site](https://jekyllrb.com/docs/continuous-integration/github-actions/) everytime [a new push targets the main branch](https://github.com/criptowiki/criptowiki/blob/main/.github/workflows/jekyll.yml).
 
 ### Installation
 To run and develop this website in your computer:
