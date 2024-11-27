@@ -2,7 +2,7 @@
 title: Tipos de billeteras
 permalink: tipos-de-billeteras
 image: bitcoin/es/tipos-de-billeteras.jpg
-updated: 8/10/2021
+updated: 26/11/2024
 ---
 
 [Ya vimos dónde se guardan los bitcoins y el funcionamiento básico de una billetera]({{ site.baseurl }}/donde-se-guardan-los-bitcoins). Veamos ahora los distintos tipos de billeteras disponibles que nos permiten enviar y recibir bitcoins. Hay distintas maneras de clasificar a los distintos tipos de billeteras.
@@ -35,13 +35,17 @@ BRD y Samourai son ejemplos de billeteras móviles.
 
 ### 4) Hardware
 
-Son **dispositivos que tienen el tamaño de un pendrive y cuentan con una pantalla y unos pocos botones**. Se conectan a una computadora, celular o tablet donde previamente descargamos un programa que utilizamos para interactuar con la billetera.
+Son **dispositivos que tienen el tamaño de una memoria USB (*pendrive*) y cuentan con una pantalla y unos pocos botones**. Se conectan a una computadora, celular o tablet donde previamente descargamos un programa que utilizamos para interactuar con la billetera.
 
 Son consideradas muy seguras porque las transacciones se firman con la clave privada **en el dispositivo** (la clave privada no sale del mismo). Luego se transmite la transacción firmada a los nodos y se añadirá a la blockchain de Bitcoin si es válida.
 
 Cuando uno configura una nueva billetera de hardware e ingresa una frase de recuperación que generó previamente en otra billetera, lo hace directamente utilizando los botones de la billetera de hardware. De esta manera la frase de recuperación no es ingresada mediante un teclado en una computadora que podría estar comprometida.
 
-Ledger y Trezor son ejemplos de empresas reconocidas que producen billeteras de hardware.
+<p class="important">
+Es importante tener en cuenta que no todas las billeteras hardware son de código abierto, por lo que sus usuarios en realidad están confiando en que la empresa detrás de la billetera no haya instalado una "puerta trasera" (con la que tendrían acceso al dinero).
+</p>
+
+Ledger es un ejemplo de una empresa reconocida que produce billeteras hardware (cuyo diseño no es 100% abierto).
 
 {% include image.html url="articles/ledger-nano-s.png" description="Ledger Nano S, una billetera de hardware." %}
 
